@@ -1,0 +1,36 @@
+Amebiasis, or amebic colitis, due to Entamoeba histolytica is characterized by persistent diarrhea or dysentery. Although other species of amebae (eg, Naegleria fowleria, Acanthamoeba spp, and Balamuthia mandrillaris) cause disease in veterinary species as well as humans, the term amebiasis usually refers specifically to infections with E histolytica.
+Etiology of Amebiasis in Animals
+The pathogenic amoeba E histolytica, a unicellular eukaryotic parasite, is one with variable virulence. Infection can be subclinical or cause clinical disease. It lives in the lumen of the large intestine and cecum and may produce no obvious clinical signs, or it may invade the intestinal mucosa and produce mild to severe ulcerative hemorrhagic colitis. Virulent trophozoites can enter capillaries and migrate to other organs such as the brain, liver, and lungs.
+Entamoeba dispar is a noninvasive, nonpathogenic ameba that is molecularly distinct but morphologically indistinguishable from the pathogenic species E histolytica. Entamoeba invadens of reptiles is also morphologically identical to E histolytica, but it is not transmissible to mammals.
+Epidemiology of Amebiasis in Animals
+Amebiasis has a worldwide distribution but is found predominately in regions with poor socioeconomic conditions and poor sanitation. Amebiasis is prevalent in tropical and subtropical areas worldwide. Its prevalence has declined in the US; however, the disease is still important in many tropical areas, particularly in times of disasters. It is common in humans and nonhuman primates, sometimes occurs in dogs and cats, and is rare in other mammals.
+Clinical Findings of Amebiasis in Animals
+In acute disease, fulminating dysentery may develop, which may be fatal, progress to chronicity, or resolve spontaneously. Chronic cases may be associated with weight loss, anorexia, tenesmus, and chronic diarrhea or dysentery, which may be continual or intermittent.
+Local intestinal infection producing colitis and severe dysentery can result in dehydration and electrolyte imbalance.
+Disseminated infections can result in amebic abscesses, resulting in more generalized signs, including fever, signs of generalized abdominal pain, and hepatomegaly.
+In addition to the colon and cecum, amebae may invade perianal skin, genitalia, liver, brain, lungs, kidneys, and other organs. Clinical signs may resemble those of other colonic diseases (eg, trichuriasis or balantidiasis). Invasive amebiasis is exacerbated by immunosuppression.
+Humans are the natural host for this species and the usual source of infection for domestic animals. Mammals become infected by ingesting food or water contaminated with feces containing infective cysts.
+Diagnosis of Amebiasis in Animals
+Fresh fecal sample
+Antiamebic serum antibodies
+Definitive diagnosis of amebiasis depends on finding E histolytica trophozoites or the encysted stage in fresh feces. Trophozoites are best seen in direct saline smears or in stained sections of affected colonic tissue. These parasites are difficult to find because many animals with extraintestinal amebiasis have no concurrent intestinal infection. Diagnosis is complicated by other nonpathogenic species that are similar in appearance to E histolytica. Colonoscopy with scraping or biopsy of ulcerations is more effective than fecal examination in diagnosing amebic colitis. In intestinal infections, repeated examinations may be necessary because parasites may be passed only periodically in the feces.
+Specific diagnosis can be made by determination of antiamebic antibodies in the serum or detection of specific antigens in fresh or frozen fecal samples.
+Courtesy of Dr. Roger Klingenberg.
+Trophozoites range in size from 10 to 60 mcm but usually are >20 mcm in diameter, have a single vesicular nucleus (usually with a central karyosome), are highly motile, and may contain ingested RBCs. Trophozoites reproduce by binary fission. Because the trophozoites die quickly once outside the body, feces should be examined promptly. Fecal leukocytes may be mistaken for amebae, so fixed and stained fecal smears (iodine, trichrome, iron hematoxylin, or periodic acid-Schiff reaction) may be necessary for identification. Trophozoites can be difficult to distinguish from nonpathogenic species such as Entamoeba dispar and Entamoeba moshkovskii.
+Cysts range from 10 to 20 mcm in diameter; the usual size is 12–15 mcm. Mature cysts have four nuclei, whereas immature cysts may have one or two. In primates, the cysts may be recovered and identified on zinc sulfate flotations or in fixed and stained preparations (iodine, trichrome, or iron hematoxylin); however, E histolytica cysts are seldom, if ever, excreted by dogs or cats. An antigen ELISA, available for diagnosis in humans, may also aid diagnosis in other mammals. Immunostaining may be useful as well.
+Treatment of Amebiasis in Animals
+Antiprotozoal treatment
+Fluid therapy
+Scant information on treatment in animals is available. Invasive amebiasis should be treated with nitroimidazoles such as metronidazole or tinidazole; tinidazole has a longer half-life than metronidazole.
+Treatment for amebiasis in dogs typically involves metronidazole (10–25 mg/kg, PO, every 24 hours for a minimum of 5 days). Administration of furazolidone (2–4 mg/kg, PO, every 8 hours for 1 week) has been suggested. Dogs may continue to shed trophozoites after treatment.
+Nonhuman primate infections can be treated with metronidazole or tinidazole (50 mg/kg, PO, every 24 hours for 3 days).
+Severe colitis and diarrhea should be treated supportively with oral or IV fluid therapy.
+Treatment recommendations for humans are available from the CDC website. For asymptomatic infections in humans, the CDC lists iodoquinol, paromomycin, and diloxanide furoate (not commercially available in the US) as drugs of choice. For symptomatic intestinal disease or extraintestinal infections in humans (eg, hepatic abscess), the drugs of choice are metronidazole or tinidazole, immediately followed by treatment with iodoquinol, paromomycin, or diloxanide furoate.
+Key Points
+Amebiasis (infection with Entamoeba histolytica, a unicellular eukaryotic parasite) can be subclinical or cause clinical disease.
+Amebiasis has a worldwide distribution but is found predominately in regions with poor socioeconomic conditions and poor sanitation.
+Definitive diagnosis of amebiasis depends on finding E histolytica trophozoites or the encysted stage in fresh feces.
+Scant information on treatment in animals is available; treatment typically involves nitroimidazole antimicrobial treatment and fluid therapy.
+For More Information
+Centers for Disease Control. Amebiasis.
+Houpt E, MD, Hung C-C, MD, MSc, Petri W, MD, PhD. Entamoeba histolytica (Amebiasis). Antimicrobe.org. Accessed September 1, 2022.

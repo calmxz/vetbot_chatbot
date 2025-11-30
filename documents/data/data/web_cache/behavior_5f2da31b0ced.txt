@@ -1,0 +1,244 @@
+Undesirable behaviors can be the result of species-typical behavior, emotional disorders, or mental health problems. They might be due to genetic factors, stressful perinatal (prenatal, neonatal) environments, insufficient early socialization, medical conditions affecting brain health and development, or particularly traumatic environmental events.
+Problematic behavior in cats can include abnormal or pathological behaviors (eg, anxiety, phobias, compulsive behaviors, cognitive decline) or normal behaviors that are 1) particularly challenging or disturbing for the home environment (eg, asocial behavior, fear, intercat aggression, urine marking, litter box avoidance), 2) excessive in intensity or frequency (eg, play biting, petting-induced aggression, overexuberant play, play/predation, vocalization), or 3) otherwise undesirable to the owners (eg, climbing, scratching, and nocturnal activity).
+Diagnosis of Behavior Problems of Cats
+History
+Clinical examination
+The process of diagnosing behavior problems is described in Diagnosis of Behavior Problems in Animals. If all possible medical causes have been excluded, a thorough history is necessary to diagnose a behavior problem, determine the prognosis, and develop an appropriate treatment program.
+In cats, especially those with elimination and marking problems, it is particularly important to assess the environment by visiting the home, watching a home tour video, or having the owners diagram the home to determine how the environment affects the problem, whether the environment meets the cat's needs, and how the environment might be modified to improve the situation.
+Treatment of Behavior Problems of Cats
+Environmental management
+Behavior modification
+Behavioral pharmacotherapy
+The process of treating behavior problems with environmental management, behavior modification, and medications is described in Treatment of Behavior Problems in Animals. In most cases of normal but undesirable cat behaviors, the owners require guidance and resource material to meet the cat's behavioral needs and to understand learning principles that promote what is desirable while preventing what is undesirable.
+When behaviors are normal but excessive, a more in-depth behavior assessment is needed to discuss realistic goals for what might be achieved, how the environment might be managed, and how the behavior might be modified. In some households, it might be impractical to make the changes necessary to meet the owner’s needs.
+In cases of normal cat behavior that is challenging for the home environment, a behavior consultation might be required to diagnose the problem, determine the prognosis, and devise a treatment plan. Resolution requires a combination of environmental modification to prevent further problems, behavior modification techniques, and possibly medications to help reestablish a more normal mental state and facilitate new learning.
+In some cases, referral to a board-certified veterinary behaviorist is warranted. The most common behavior problems that veterinary behaviorists treat are elimination (undesirable toileting and urine marking) and aggression.
+Environmental Management
+Provided that all of a cat’s needs are adequately met, the best approach to stop repetition of the undesirable behavior can be to avoid situations that might incite the behavior and to prevent access to areas where problems might arise. Environmental modifications (eg, distance, visual barriers, auditory barriers, physical barriers) might be required.
+As aversive substances might incite fear in cats, a cat can be taught to avoid an area by making it unpleasant with taste (eg, cayenne pepper), odor (eg, citrus), substrate (eg, upside-down [nubs-up] carpet runner, double-sided sticky tape), or perhaps a motion-activated device (eg, alarm, air spray).
+Behavior Modification
+Teaching the basics of reinforcement-based training enables owners to focus on rewarding desirable behaviors (eg, where to eliminate, climb, scratch, or perch). Counterconditioning (pairing an alternative positive conditioned emotional response) and response substitution (training an alternative desirable behavior) can be useful.
+Clicker training can be particularly useful to immediately time (mark) desirable behaviors and gradually shape outcomes that more closely approximate the final goal.
+Positive punishment should be avoided, because it can cause fear and anxiety toward the owner or fear of being handled and petted and, at best, will stop the undesirable behavior only when the owner is present.
+When the cat is calm and comfortable, it might be possible to gradually reintroduce known triggers (eg, carrier, other cat, person, handling like nail trimming or brushing teeth) to the cat using favored toys, treats, or food for counterconditioning.
+Behavioral Pharmacotherapy
+Psychotropic drugs and adjunctive therapies (eg, supplements, nutraceuticals, pheromones, nutritional therapies) can be used to reestablish a more stable emotional state and improve trainability in anxious, fearful, or overly reactive cats.
+Although medications can improve the cat's emotional state and facilitate new learning, only with concurrent behavior modification can new neuronal pathways be established, new behaviors learned, and fearful responses to stimuli changed to positive responses.
+See specific discussion of medications used in the treatment of urine marking, aggression, fear and anxiety, abnormal repetitive behaviors, and aging and cognitive dysfunction.
+House Soiling in Cats
+With house soiling in cats, the first step is always to exclude medical problems, because any condition affecting urine volume, frequency, control, or ability to access the litter box can contribute to soiling. Evaluating the cat's behavioral history is the primary process to make the diagnosis, determine the prognosis, and develop a treatment plan.
+Important aspects of the history include the following:
+nature of the elimination: urine or feces
+nature of urine deposits: vertical (spraying) or horizontal (toileting)
+duration and frequency of the problem
+signalment and temperament of the soiling cat
+timing of and location where the cat eliminates
+litter box details: number, placement, cleaning, substrate, size
+daily routine
+home environment
+Urine Marking (Spraying) in Cats
+Spraying is emission of a stream of urine onto a surface, usually accompanied by elevation and quivering of the tail and sometimes by treading of the feet. Urine marking is a normal cat behavior for either sexual or stress/anxiety-related motivation.
+To avoid confrontation, cats communicate with other cats using visual and olfactory communication. Environmental stressors can incite and exacerbate urine marking.
+Urine marking must be differentiated from undesirable toileting(see the table Distinguishing Urine Marking From Undesirable Toileting in Cats).
+Distinguishing Urine Marking From Undesirable Toileting in Cats
+Urine marking can be due to anxiety arising from factors such as the following:
+introduction of a new cat
+change in schedule
+change in environment (eg, renovations, new furnishings)
+change in family dynamics (eg, new baby, new partner, divorce, bonded person leaving home)
+unfamiliar visual, auditory, or olfactory stimuli
+Treatment of Urine Marking
+Treatment that targets urine marking can include a combination of prevention, environmental management, behavior modification, and medication.
+ENVIRONMENTAL MANAGEMENT
+Cats' behavioral needs (eg, pillars of a healthy cat environment) should be met to avoid urine marking (1). Inciting stimuli and underlying factors that motivate urine marking should be resolved. Providing more litter boxes and more locations, cleaning soiled areas with antimicrobial or enzymatic cleaners, and cleaning the litter box more frequently can decrease or eliminate marking in some cats.
+BEHAVIOR MODIFICATION
+Positive reinforcement should be used to modify urine-marking behavior in cats. Positive punishment is contraindicated, because it increases fear and anxiety in an already anxious animal.
+BEHAVIORAL PHARMACOTHERAPY
+Unless the stimuli inciting urine marking or the underlying factors contributing to marking can be resolved, most cats are likely to require drug therapy to decrease anxiety. Either fluoxetine (0.5–1.5 mg/kg, PO, every 24 hours, long-term) or clomipramine (0.25–1 mg/kg, PO, every 24 hours, long-term; or 0.25–0.5 mg/kg, PO, every 12 hours, long-term) can be used to treat urine marking in cats.
+Other medications that can be considered in the treatment of urine marking include venlafaxine (0.5–2 mg/kg, PO, every 24 hours, long-term) or other selective serotonin reuptake inhibitors (such as sertraline or paroxetine). If needed, adjunctive medications such as a benzodiazepine (eg, lorazepam) or a gabapentinoid (eg, gabapentin, pregabalin) can be added to the serotonergic drug.
+Synthetic feline facial pheromone products (commercially available in the form of a spray that can be applied directly on urine-marked locations or a diffuser in the environment)—alone or in combination with drugs—might also effectively decrease marking.
+Neutering decreases or eliminates marking in most cats; however, approximately 10% of neutered males and 4% of spayed females continue to mark.
+Undesirable Toileting (Inappropriate Elimination) in Cats
+Undesirable toileting, also known commonly as "inappropriate elimination," is soiling on horizontal surfaces with urine, feces, or both. The diagnostic term "inappropriate elimination" is not accurate; from the cat's perspective, undesirable toileting is a fully appropriate response to a toileting preference or aversion. If not provided with a preferred litter box, the cat eliminates in a way to meet its needs.
+Undesirable toileting must be differentiated from urine marking (see the table Distinguishing Urine Marking From Undesirable Toileting in Cats).
+If medical problems have been excluded or treated, and the problem of undesirable toileting persists, the cat's behavioral history should be the focus.
+Cats have preferred toileting spots. Often, their preferences are provided by appropriate litter box practices. If that preference is not met, or an aversion hinders the cat's motivation to use provided litter boxes, undesirable toileting can occur.
+After a cat demonstrates repeated undesirable toileting events, the cat's aversion can lead to the development of a secondary toileting preference. Toileting preferences pertain to location and substrate (eg, odor, texture). Toileting aversions are generally tied to the following factors:
+location
+litter box (eg, size, shape, hood, litter liner presence)
+substrate (eg, texture, depth, scent, cleanliness)
+medical problems that might cause painful elimination, increased frequency, or lack of control
+unpleasant experiences at or near the box (eg, noises, fear of being cornered in the box, association with medication administration)
+difficulty gaining access to the box (eg, barriers, medical problems contributing to pain or decreased mobility)
+Treatment of Undesirable Toileting
+ENVIRONMENTAL MANAGEMENT
+Cats' behavioral needs (eg, pillars of a healthy cat environment) should be met to avoid undesirable toileting (1). Treatment should focus on providing a litter material, litter box, and litter box site that is most appealing to the cat; on decreasing or preventing use of the soiled location; and on resolving underlying factors contributing to the behavior.
+Litter box appeal might be improved by identifying and resolving potential deterrents (eg, undesirable location, fear-evoking stimuli such as furnace noise, or limited access to a shared washroom). Access to the soiled location might be blocked, or the appeal might be decreased by using odor counteractants (eg, citrus) in the soiled area, making the area unpleasant (eg, double-sided sticky tape, upside-down carpet runner), or changing the function of the area (playing, scratching, feeding, sleeping).
+Litter boxes must be appropriate for the size of the cat (at least 1½ times the length of the cat from tip of the nose to base of the tail). At least two litter boxes should be available in every core area where cats that get along together (preferred associates) are housed.
+Pearls & Pitfalls
+BEHAVIOR MODIFICATION
+A cat's elimination needs can be met by adding litter boxes or litter box sites, finding a more appealing location for litter (eg, away from food and water, quiet), improving access to litter (eg, larger box, ease of entry and exit), and determining which litter type (eg, sand, clumping, clay, soft towel, unscented) and box type (eg, size, shape, height, covered, self-cleaning) are preferred by offering the cat choices.
+Litter boxes should be hygienic and scooped at least daily.
+Positive punishment for undesirable toileting is contraindicated because it increases fear and anxiety in an already anxious animal.
+BEHAVIORAL PHARMACOTHERAPY
+Unless addressing an underlying anxiety pathology, psychotropic medication often is not indicated.
+Aggression in Cats
+Aggression in cats consists of threatening behavior or harmful attacks. It can range from subtle changes in body posture, facial expressions, and vocalization to biting. A guide to visual signs of fear, anxiety, and stress in cats is available from the Fear Free online education portal.
+Most forms of cat aggression, except for play/predation, are distance-increasing behavior (ie, the cat attempts to increase the distance between itself and the stimulus).
+Early influencing factors that make some cats more likely to display aggression include the following:
+genetics
+insufficient socialization
+lack of adequate maternal care
+inadequate early handling
+fear-evoking or traumatic early experiences
+Feline Aggression Toward People
+Aggression toward people can stem from many different motivations:
+Fear-related aggression: Some cats display aggression to increase distance from people. Any unpleasant response related to people (eg, approach, handling, punishment) has a learned fear component that can escalate with repeated exposure. Cats often display defensive body language (eg, ears back, crouched posture, tense extremities tucked into the body, weight shifted back). Some cats learn that offensive body language (eg, ears forward, weight shifted forward) is more effective.
+Misdirected play or predation aggression: In cats, play is a normal ritualized aggressive behavior that can persist into adulthood as a result of genetics and learning. When kittens play aggressively with other kittens, they might stalk, swat, and bite, but generally they resolve their conflicts. Aggression directed toward people might be a sign that the cat's play needs are not being met, and it might be unintentionally reinforced by the person's response.
+Petting-induced aggression: Cats that bite during petting might have a low tolerance for physical contact or might be more easily overstimulated by contact.
+Arousal and redirected aggression: Aggression can be particularly intense if the cat is approached when aroused, or if an interaction itself triggers a sudden peak in emotional arousal (eg, in the case of frustration). When arousal is triggered by a stimulus to which the cat cannot gain access (eg, another cat outside, loud noise), the cat might redirect its aggression to any person who approaches or is nearby.
+Pain-related aggression: Pain, discomfort, or irritability can lead to aggression in cats. Signs might look similar to those of fear-related aggression. Being touched or moved is often a trigger for this type of aggression.
+Feline Aggression Toward Other Cats
+Aggression is not a primary form of communication in cats; communication is based on dominant and submissive signals, with deference by one of the two individuals to avoid escalation of the encounter.
+Many factors contribute to aggression toward other cats, including resource guarding, fear, play, and arousal with possible redirection.
+Possessive aggression: Cats use aggression to maintain control of resources such as sleeping areas, common areas, or possessions.
+Fear-related aggression: Relationships that develop between any two cats are affected by learning. Fearful responses by either cat can increase aggression, as does retreat of one of the cats (negative reinforcement).
+Territorial aggression: Cats establish territories, which they defend. Although territorial aggression is displayed without overt signs of fear, aggression toward unfamiliar cats is most often primarily a fear response.
+Play aggression: In cats, play is a normal ritualized aggressive behavior that can persist into adulthood as a result of genetics and learning. When kittens play aggressively with other kittens, they might stalk, swat, and bite, but generally they resolve their conflicts. When communication between cats cannot resolve the conflict, a problem can occur.
+Arousal and redirected aggression: Aggression can be particularly intense if a cat is approached when aroused. If the arousal is triggered by a stimulus to which the cat cannot gain access (eg, another cat outside, a loud noise), the cat might redirect its aggression to any cat that approaches or is nearby.
+Because aggressive encounters between cats can be either overt or subtle and passive, their frequency might be greatly underestimated.
+Treatment of Aggression in Cats
+Environmental Management
+The first step in managing aggression in cats is to ensure that injuries are prevented. Avoidance (physical, visual, and preferably olfactory separation of the cat and its target) is paramount, and early intervention is best.
+Confinement away from the provoking stimulus is an essential first step to ensuring safety and preventing further aggravation of the problem. Usually, a cat that exhibits aggression is housed in its own room with litter box, toys, bedding, and food. Although some cats must be separated at all times until they are calm enough to be reintroduced, if particular times or situations lead to conflicts, it might be necessary to separate the cats only at these times.
+A leash and harness can be used to prevent undesirable behaviors in cats and to ensure safety during behavior modification (safe gradual introduction paired with positive reinforcement). Putting a bell on the aggressive cat can help the victim be aware of the aggressor's whereabouts.
+Before reintroduction, the aggressive cat's behavioral and environmental needs (eg, pillars of a healthy cat environment) should be met (1). Providing more 3D space, including climbing structures and perches, and ensuring sufficient resources are at sufficient distances to facilitate cats' avoidance of each other, can further decrease conflict.
+Behavior Modification
+Only after a cat is calm (which can take days to months) can counterconditioning and desensitization with favored rewards (ie, play with toys, treats) begin. Reintroduction of cats using desensitization and counterconditioning might first begin with odors, by grooming each cat with a brush or towel used on the other, and by feeding each cat separately in a common area on opposite sides of a partition (glass, screen, or solid door) and then in a common area at sufficient distance that the cats can be calm and take food or play with toys.
+Reward training limited to a few selected verbal cues (eg, "come", "sit", "go to your room") can further aid in managing cats during introductions or in defusing potentially aggressive situations. Positive punishment should be avoided, because it increases fear, anxiety, and aggression in cats.
+Behavioral Pharmacotherapy
+Psychotropic drugs or supplements can be used to decrease underlying fear, anxiety, or arousal to help facilitate learning; to decrease underlying behavioral pathology; and, in many cases, to improve the behavioral well-being of the cat.
+Serotonergic medications—eg, fluoxetine (0.5–1.5 mg/kg, PO, every 24 hours, long-term), venlafaxine (0.5–2 mg/kg, PO, every 24 hours, long-term), clomipramine (0.25–1 mg/kg, PO, every 24 hours, long-term, or 0.25–0.5 mg/kg, PO, every 12 hours, long-term)—can be helpful for addressing underlying fear or anxiety. However, these drugs take 4–6 weeks to achieve their full effects.
+Quick-onset drugs—such as pregabalin (1–2 mg/kg, PO, every 12 hours, as needed), gabapentin (10–30 mg/kg, PO, every 8–12 hours, as needed), or lorazepam (0.03–0.08 mg/kg, PO, every 12–24 hours, as needed)—might be effective for decreasing underlying motivations of fear and anxiety.
+In cases of intercat aggression, buspirone or a benzodiazepine might increase the victim's confidence during reintroductions. Caution should be exercised when using anxiolytics, because some can disinhibit fearful cats, possibly leading to increased confidence and aggression.
+Synthetic feline intermammary pheromones (commercially available as a diffuser in the environment) might also effectively decrease intercat conflict.
+Fear and Anxiety in Cats
+Fear is a normal response to a perceived threat. Anxiety is a response to anticipatory apprehension of a future threat or fearful situation.
+Fearful cats might display flight, fight, freeze, or fidget (eg, displacement grooming) behaviors. A guide to visual signs of fear, anxiety, and stress in cats is available from the Fear Free online education portal.
+Fear might be evidenced as avoidance; withdrawal and hiding; low, crouched or tucked body posture; lowered ears; vocalization; and possibly spraying. Although avoidance and escape is one strategy, some cats use threatening displays and aggression to remove a fear-evoking stimulus, and success provides negative reinforcement.
+Factors that contribute to predisposing cats to fear include the following:
+genetics
+insufficient socialization
+inadequate maternal care
+inadequate early handling
+fear-evoking or traumatic early experiences
+Fear can result from any unfamiliar trigger or from familiar triggers where a fearful event occurred, such as the following:
+unfamiliar people (eg, guests, veterinary staff)
+unfamiliar cats (eg, cats outside the home or newly added to the house)
+unfamiliar animals (eg, dogs, other pets, wildlife)
+noises (eg, thunder, fireworks, vacuuming, construction)
+unfamiliar places (eg, car, veterinary clinic)
+fear-evoking events (eg, punishment, medication administration, aggression by a familiar cat)
+Treatment of Fear and Anxiety
+Environmental Management
+The behavioral needs of cats exhibiting fear or anxiety (eg, pillars of a healthy cat environment) should be met (1). The first step should be to identify and avoid any situation, stimulus, approach, or handling that might lead to fear.
+To prevent fearful behavior, pet owners should prevent access to triggering stimuli, at least in the short term. For example, if cats are fearful or aggressive with other cats or visitors, confinement away from those stimuli is an essential first step to ensure safety and to prevent aggravation of the problem.
+In general, the cat should be housed in its own room with litter, toys, bedding, and food. Establishing a routine can markedly help anxiety. When possible, changes should be introduced gradually.
+Behavior Modification
+If the cat is sufficiently calm, gradual improvement in fearful behavior might be achieved with desensitization and counterconditioning to the inciting stimulus. Incorporating response substitution, in which the cat learns a more acceptable behavior to replace the fearful or reactive response, can further enhance the behavior modification process. Positive punishment is contraindicated and should be avoided.
+Behavioral Pharmacotherapy
+Psychotropic drugs or supplements can be used to decrease underlying fear, anxiety, or arousal to facilitate learning, decrease underlying behavioral pathology, and, in many cases, improve the cat's behavioral well-being. Other drugs might also be indicated.
+Serotonergic medications—eg, fluoxetine (0.5–1.5 mg/kg, PO, every 24 hours, long-term), venlafaxine (0.5–2 mg/kg, PO, every 24 hours, long-term), clomipramine (0.25–1 mg/kg every 24 hours, long-term, or 0.25–0.5 mg/kg, PO, every 12 hours, long-term)—might be helpful for addressing underlying motivations of fear or anxiety. However, these drugs take 4–6 weeks to achieve their full effects.
+Because of the range of individual variability in both behavioral and adverse effects, trials with different medications, as needed, should be conducted in advance to determine which drug and dose achieve the desired effect and for how long.
+For decreasing situational anxiety in cats (eg, car rides, vet visits), the following medications can be helpful:
+Pregabalin (1–2 mg/kg, PO, every 12 hours as needed; or 5–10 mg/kg, PO, once, 90 minutes before onset of stress). Pregabalin is approved in the US for alleviation of acute anxiety and fear associated with transportation and veterinary visits in cats.
+Gabapentin (100–200 mg/cat, PO, once 90–120 minutes before onset of stress and repeated every 8–12 hours as needed). Use in cats is extralabel, and some US states have added gabapentin to their controlled substances lists.
+Trazodone (50–100 mg/cat, PO, once, 90 minutes before stressful event).
+A benzodiazepine such as lorazepam(0.125–0.50 mg/cat [or 0.03–0.08 mg/kg], PO, every 12–24 hours as needed or 90 minutes before a stressful event), or alprazolam (0.125–0.25 mg/cat, PO, every 8–24 hours as needed) might be an alternative.
+Other benzodiazepines that can alleviate fear and anxiety in cats include clonazepam and diazepam. Clonazepam might be considered on an ongoing basis for more immediate anxiety relief and to enhance appetite for counterconditioning. Diazepam, particularly when administered orally, has been associated with rare cases of acute and potentially fatal hepatic dysfunction in cats (2, 3, 4).
+Pearls & Pitfalls
+Synthetic pheromone products, including the F3 cheek gland pheromone, l-theanine, alpha-casozepine, and a diet containing both alpha-casozepine and l-tryptophan, might also be used alone or adjunctively with drugs or other natural products to help calm, decrease anxiety, or lower stress associated with environmental change.
+Abnormal Repetitive Behaviors of Cats
+Abnormal repetitive behaviors in cats are derived from normal behaviors such as stalking, chasing, grooming, etc. These behaviors occur out of context or in a frequency or duration in excess of that needed to accomplish the task.
+Abnormal repetitive behaviors might be exacerbated by stress or anxiety such as alterations in relationships with people or other cats, or they might be inadvertently aggravated by an owner's either reinforcing or punishing the behavior (increasing conflict and anxiety).
+A diagnosis of compulsive disorder is a diagnosis of exclusion; often, all other potential diagnoses must be ruled out before a compulsive diagnosis is confirmed. Medical problems must be excluded, because they can be responsible for many of the same signs. For example, self-mutilation, excessive grooming, and/or self-directed aggression can be due to any condition that might cause neuropathic pain or pruritus, such as adverse food reactions, atopic dermatitis, and parasitic hypersensitivity.
+Oral repetitive behaviors include sucking, licking, chewing, or even ingesting nonnutritive substances—including natural materials such as wool or cotton, synthetic fabrics, plastic, rubber, paper, cardboard, and string. Disease processes, in particular those that might affect the GI tract, should first be excluded in cats exhibiting oral repetitive behaviors.
+Certain cat breeds, such as Siamese, Burmese, Tonkinese, and other related breeds, develop pica, particularly sucking of woolen objects, more frequently than other cats. Early weaning might be a predisposing factor.
+Hallucinatory and locomotory compulsive disorders are less common in cats than in dogs; however, painful conditions and any disease process affecting the neurological system must first be excluded in cats exhibiting these types of behaviors.
+Treatment of Abnormal Repetitive Behaviors
+Environmental Management
+The behavioral needs of cats exhibiting abnormal repetitive behaviors (eg, pillars of a healthy cat environment) should be met (1). Cats often improve with environmental modification that provides more control and predictability and increased enrichment.
+Repetition of the behavior can be prevented by avoiding situations or removing access to stimuli that prompt the behavior. For self-directed behaviors, physical barriers (eg, soft collar, onesie) can prevent access to the targeted area.
+For some oral repetitive behaviors, dietary changes (eg, safe plants, dry food, high-fiber diet) can help.
+Behavior Modification
+A more desirable alternative behavior (response substitution) that competes with the primarily repetitive behavior should be established and reinforced. Gradual supervised reintroduction of triggering stimuli (desensitization) with counterconditioning can be helpful.
+If the repetitive behavior begins, gentle interruption (eg, talking, tossing a toy, crinkling a treat bag, moving around the room, gentle touching) can decrease rehearsal of the behavior. Care should be taken so that the interruption does not startle or cause fear. Similarly, positive punishment should be avoided.
+To avoid inadvertently reinforcing abnormal repetitive behaviors, the owner should ask the cat to perform a desirable behavior before redirecting the cat to an alternative activity (eg, eating, playing).
+Behavioral Pharmacotherapy
+Medications that augment the amount of brain serotonin, such as fluoxetine (0.5–1.5 mg/kg, PO, every 24 hours, long-term) and clomipramine (0.25–1 mg/kg, PO, every 24 hours, or 0.25–0.5 mg/kg, PO, every 12 hours, long-term) might be beneficial. If fluoxetine and clomipramine are discontinued, a gradual taper over several weeks, rather than abrupt discontinuation, is recommended.
+Hyperesthesia in Cats
+Hyperesthesia might not be a specific disorder but rather a sign of underlying medical or behavior problems. Most commonly, the skin along the lumbosacral area might twitch or ripple. The cat might exhibit excessive self-grooming, hissing or biting at the back or flank, and intensive tail wagging. Some cats cry, dash away, and even defecate.
+Episodes of hyperesthesia arise when the cat is highly aroused and might be incited by physical contact or external stimuli.
+Medical causes such as neuropathic pain, dermatological conditions, myopathies, and focal seizures can also present with similar signs. Therefore, a therapeutic response trial for neuropathic pain, seizures, or pruritus must be part of the diagnostic process.
+Aging and Cognitive Dysfunction in Cats
+Aging in cats is associated with progressive and irreversible changes in body systems that can affect behavior (see the table Medical Causes of Behavioral Signs). Younger cats have similar behavior problems; however, the likelihood of a pathophysiological underlying condition is higher in older cats.
+To diagnose the cause of behavioral signs in a geriatric cat, a veterinarian should collect a detailed history and perform a physical examination, neurological evaluation, and diagnostic tests to exclude potential underlying medical problems.
+Behavioral signs can indicate many diseases, including the following:
+CNS diseases
+inflammatory, metabolic, and endocrine diseases (eg, hypertension, renal disorders, hyperthyroidism, diabetes)
+sensory decline
+pain (eg, arthritis)
+Once medical problems have been excluded or treated, behavioral therapy might be required to address aging-related cognitive dysfunction.
+Difficulties in resolving senior pet behavior problems can be due to any of the following:
+unresolved medical problems
+drug contraindications
+drug adverse effects
+decline in cognitive function
+Cognitive Dysfunction Syndrome (CDS) in Cats
+Clinical Signs
+Aging cats can exhibit a decline in cognitive function (memory, learning, perception, awareness) that manifests as one or more of a group of clinical signs sometimes referred to by the acronym VISHDAAL:
+V: vocalization
+I: alteration in interaction
+S: changes in sleep/wake cycle
+H: house soiling
+D: disorientation
+A: alterations in activity level
+A: anxiety
+L: learning and memory deficits
+In multiple studies, the most frequently reported behavioral sign in aging cats is increased vocalization.
+Prevalence
+Many owners do not report behavioral signs in older cats, perhaps because they seem unimportant or untreatable.
+Cognitive dysfunction syndrome (CDS) is less commonly reported in cats than in dogs. Yet in one study, approximately 35% of cats > 11 years old displayed at least one sign of CDS, and 50% of cats > 15 years old showed two or more signs (5). Therefore, owners must be informed of the importance of reporting CDS signs to their veterinarians when they arise, and veterinarians must take a proactive approach in asking owners about their cats' behavior at each visit.
+Early detection of CDS provides the best opportunity to decrease signs and slow the decline of cognitive function.
+Pathology
+CDS in cats is similar to the early stages of Alzheimer disease in humans, both in clinical signs and in brain pathological changes. Some changes to brain tissue include accumulation of beta-amyloid and vulnerability to oxidative damage.
+As with humans, some cats show minimal to no clinical impairment with age, whereas others develop varying degrees of deficits.
+Treatment
+ENVIRONMENTAL MANAGEMENT
+The behavioral needs of cats with CDS (eg, pillars of a healthy cat environment) should be met (1). CDS is more prevalent in older cats which often have decreased mobility. Therefore, adjustments to the cat's core resources might be necessary to increase ease of access to these resources and to meet the cat's behavioral needs.
+Environmental enrichment and mental stimulation are paramount to preventing and treating CDS in cats. Mental and physical stimulation should be encouraged through interactive play and food-dispensing toys.
+BEHAVIOR MODIFICATION
+Although owners may need to be more patient with cats with CDS, they can use reinforcement-based training to focus on rewarding desirable behaviors and providing mental stimulation to these cats. Depending on the clinical sign of complaint, response substitution (training an alternative desirable behavior) can be a useful approach. Positive punishment should be avoided.
+BEHAVIORAL PHARMACOTHERAPY
+Medications, diets, and supplements might improve the signs of CDS or slow its progression. Although no drugs or diets are licensed to treat CDS in cats, selegiline and propentofylline have been used extralabel.
+Selegiline (0.25–1 mg/kg, PO, every 24 hours in the morning, long-term) is a monoamine oxidase B inhibitor that can decrease CDS signs by enhancing dopamine and other catecholamines in the cortex and hippocampus and by decreasing the free radical load.
+Propentofylline (5–12.5 mg/cat, PO, every 24 hours, long-term) is a methylxanthine derivative that can increase blood flow and inhibit platelet aggregation and thrombus formation; however, its use is extralabel in cats, and there is very little clinical or experimental evidence supporting its use.
+A number of natural products, including dietary formulations and supplements, have also been shown to decrease CDS signs and potentially slow cognitive decline.
+S-adenosylmethionine and a commercial diet containing antioxidants, arginine, B vitamins, and fish oil have improved learning and memory in geriatric cats. Cognitive supplements containing antioxidants, vitamins, and phosphatidylserine have also been developed for cats. Alpha-casozepine appears to work similarly to the GABA neurotransmitter that inhibits communication between neurons, and it can provide a calming effect in cats.
+Key Points
+Environmental management is a key part of the treatment of behavior problems in cats.
+Medical management of behavior problems can include quick-onset or slow-onset medications.
+For house soiling, the cause of the cat's avoidance of the litter box should be addressed.
+For aggression and anxiety, it is key to identify underlying triggers.
+Underlying medical problems must be ruled out before concluding that a problem is behavioral.
+For More Information
+2024 AAFP Intercat Tension Guidelines: Recognition, Prevention, and Management. Feline Veterinary Medical Association.
+2022 ISFM/AAFP Cat Friendly Veterinary Environment Guidelines. Feline Veterinary Medical Association.
+2014 AAFP/ISFM Guidelines for Diagnosing and Solving House-Soiling Behavior in Cats. Feline Veterinary Medical Association.
+Also see pet owner content regarding behavior problems in cats.
+References
+Ellis SLH, Rodan I, Carney HC, et al. AAFP and ISFM feline environmental needs guidelines. J Feline Med Surg. 2013;15(3):219-230. doi:10.1177/1098612X13477537
+Hughes D, Moreau RE, Overall KL, Van Winkle TJ. Acute hepatic necrosis and liver failure associated with benzodiazepine therapy in six cats, 1986–1995. J Vet Emerg Crit Care (San Antonio). 1996;6(1):13-20. doi:10.1111/j.1476-4431.1996.tb00030.x
+Center SA, Elston TH, Rowland PH, et al. Fulminant hepatic failure associated with oral administration of diazepam in 11 cats. J Am Vet Med Assoc. 1996;209(3):618-625. doi:10.2460/javma.1996.209.03.618
+Park FM. Successful treatment of hepatic failure secondary to diazepam administration in a cat. J Feline Med Surg. 2012;14(2):158-160. doi:10.1177/1098612X11432238
+Moffat KS, Landsberg GM. An investigation of the prevalence of clinical signs of cognitive dysfunction syndrome (CDS) in cats [abstract]. J Am Anim Hosp Assoc. 2003;39:512.

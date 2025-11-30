@@ -1,0 +1,56 @@
+Gastritis is a general term used to describe acute or chronic inflammation of the gastric mucosa.
+Irritation, infection, antigenic stimulation, or injury (eg, chemical, erosion, ulceration) of the gastric mucosa stimulates release of inflammatory and vasoactive mediators with subsequent disruption of gastric epithelial cells, increased gastric acid secretion, and impaired gastric barrier function. Visceral receptors sensitive to gastric distention, gastric inflammation, and tonicity of gastric contents send impulses via vagal and sympathetic nerves to the vomiting center of the medulla oblongata, thereby stimulating the vomiting reflex.
+Acute Gastritis in Small Animals
+Acute gastritis can be caused by primary gastric disease or arise secondary to systemic disease. Causes include the following:
+dietary indiscretion (eg, ingestion of foreign material, novel foods, or contaminated foods)
+drug or toxin ingestion (eg, antimicrobials, NSAIDs, corticosteroids, plants, chemicals)
+systemic illness (eg, pancreatitis, uremic gastropathy, hypoadrenocorticism)
+endoparasitism (eg, Physaloptera sp [dog, cat], Ollulanus sp [cat]), or viral infection (eg, canine parvovirus gastroenteritis, feline panleukopenia)
+Sudden onset of vomiting is characteristic of acute gastritis. The vomitus may contain bile, food, froth, blood (frank or digested), or evidence of an ingested substance (eg, grass, bones, foreign material, etc). Cranial abdominal pain, hyporexia, or anorexia might be present.
+Additional clinical signs depend on the severity and frequency of vomiting as well as on the underlying cause.
+Diagnosis
+Diagnosis is usually based on a thorough history, clinical findings, and response to treatment of clinical signs. A specific diagnosis should be sought in the following situations:
+if the animal has had access to foreign objects or toxins
+if clinical signs do not resolve within 2 days of treatment
+if hematemesis or melena is present
+if the animal is systemically unwell
+if abnormalities are noted on abdominal palpation
+Dogs may signal the presence of cranial abdominal discomfort by adopting a “praying” posture (hindquarters raised and chest and forelegs held close to floor), which seems to provide some relief.
+A CBC, serum biochemical profile, and urinalysis may be followed by more specific clinicopathological testing (eg, basal serum cortisol concentration, ACTH stimulation test, evaluation of vomitus for specific toxins).
+Plain and/or barium contrast abdominal radiographs may be helpful in identifying gastric foreign material. Abdominal ultrasonography may be useful in identifying foreign material as well as gastric wall changes.
+Definitive diagnosis relies on gastroscopic appearance of inflammatory lesions in the stomach, which can include hyperemia, edema, fibrosis, erosion, and ulceration. Histological examination of gastric biopsies shows changes related to inflammation.
+Treatment
+Treatment of acute gastritis is generally supportive. Once vomiting has been controlled, small amounts of oral fluids can be given frequently, with increasing volume as tolerated by patient condition. Parenteral administration of fluids is recommended for dehydrated patients whose vomiting has not been yet controlled.
+Subcutaneous administration of an isotonic balanced electrolyte solution may be sufficient to correct mild fluid deficits (< 5%). If dehydration is moderate to severe or the clinical condition of the animal warrants IV fluid therapy, a more extensive diagnostic evaluation is indicated.
+Enteral feeding support (eg, nasogastric tube feedings) should be used in anorectic patients. Small amounts of food can be fed frequently to patients taking oral food, with gradual transition to the usual feeding routine over 3–5 days. Diet change might be indicated based on the underlying cause of gastritis.
+Antiemetic drugs should be used to control vomiting. Common antiemetics include maropitant (1 mg/kg, SC or IV, every 24 hours; or 2 mg/kg, PO, every 24 hours up to 5 days) and ondansetron (0.1–1 mg/kg, PO or IV, every 12–24 hours). Alternatively, metoclopramide (0.2–0.5 mg/kg, IM, SC, or PO, every 6–8 hours; or 5–20 mcg/kg as a constant-rate infusion) may be used if GI obstruction is not suspected and there are no other contraindications.
+Although not routinely needed, acid suppression therapy with a proton pump inhibitor (eg, omeprazole at 0.5–1.5 mg/kg, PO, every 12 hours; or pantoprazole at 1 mg/kg, IV, every 12 hours) may be indicated if gastric ulceration is confirmed or strongly suspected. Proton pump inhibitors likely provide better gastric acid suppression and better prevention of exercise-induced gastritis than H2 blockers (eg, famotidine at 0.5 mg/kg, PO, SC, or IV, every 12 hours).
+Chronic Gastritis in Small Animals
+Chronic gastritis should be considered in animals with intermittent or persistent vomiting that lasts > 1 to 2 weeks and cannot be attributed to dietary indiscretion; drug, toxin, or foreign body ingestion; systemic illness; endoparasitism; infection (bacterial or viral); or neoplasia.
+The most common clinical sign of chronic gastritis is intermittent vomiting of food or bile. Systemic illness, weight loss, and GI ulceration are infrequent and should raise suspicion of a more serious condition or diffuse GI inflammation (eg, inflammatory bowel disease, pythiosis).
+A CBC, serum biochemical profile, urinalysis, total thyroid hormone concentration (cats), basal serum cortisol concentration possibly with an ACTH-stimulation test (to exclude canine hypoadrenocorticism), and fecal evaluation for endoparasitism are indicated but are frequently unremarkable in animals with chronic gastritis.
+Diagnostic imaging (plain or barium contrast abdominal radiographs, abdominal ultrasonographic images) is indicated before gastric biopsy and can identify foreign objects, neoplasia, pyloric stenosis, gastric antral mucosal hypertrophy, discrete or multifocal mucosal or mural abnormalities, intra-abdominal lymphadenomegaly, and other intra-abdominal pathologies.
+Before more invasive or extensive diagnostic testing, a hypoallergenic diet trial is recommended to exclude food-responsive gastroenteropathy as a cause of chronic gastritis.
+Pearls & Pitfalls
+Histological evaluation of endoscopic or surgical gastric biopsies is required for definitive diagnosis and classification of chronic gastritis. Chronic gastritis can be classified based on the cellular infiltrate.
+Lymphocytic-plasmacytic and eosinophilic gastritis are characterized by diffuse infiltration of the gastric mucosa and lamina propria with lymphocytes and plasma cells, or eosinophils, respectively. Similar cellular infiltrates may be present in the small intestine. Concomitant lymphoid hyperplasia, mucosal atrophy, or mucosal fibrosis occurs infrequently.
+Dietary intolerance and hyperimmune response to normal antigens have been proposed as possible causes. Eosinophilic gastritis with eosinophilia and/or skin lesions may suggest dietary sensitivity or hypereosinophilic syndrome.
+Animals with mild clinical signs and mild histological lesions may respond to supportive care as described for acute gastritis and exclusive feeding of hypoallergenic (novel protein or hydrolyzed protein) diets or highly digestible diets.
+In addition to supportive care and dietary modification, animals with moderate to severe, histologically confirmed disease generally require immunosuppressive therapy. Prednisone (or prednisolone in cats) is started at 2 mg/kg (cats and small dogs) or 40–50 mg/m2 (dogs > 25 kg), every 24 hours, PO, and gradually tapered to the lowest dosage that controls clinical signs. Assuming continued clinical remission, prednisone therapy is ultimately discontinued and strict adherence to dietary therapy maintained.
+Concurrent enteropathy might lead to hypocobalaminemia, warranting measurement of cobalamin level and/or cobalamin supplementation.
+If clinical signs persist despite dietary modification and prednisone therapy, treatment can be considered with an additional immunosuppressive agent (dogs: azathioprine at 2 mg/kg, PO, every 24–48 hours, or cyclosporine at 5 mg/kg, PO, every 12 hours; cats: chlorambucil at 2 mg [total dose], PO, every 48–72 hours for 2–4 weeks, then tapered to 2 mg every 72–96 hours).
+Chronic atrophic gastritis is often characterized by marked mononuclear cell infiltration, thinning of the gastric mucosa, and atrophy of the gastric glands.
+A unique, breed-associated form of atrophic gastritis in Norwegian Lundehunds has not been associated with Helicobacter infection but has been associated with gastric adenocarcinoma. While the role, if any, of Helicobacter spp infection in the development of atrophic gastritis is unknown, treatment may be indicated if Helicobacter spp organisms are identified in gastric biopsy specimens.
+Additional treatment options include dietary management and immunosuppression as for lymphocytic-plasmacytic and eosinophilic gastritis; however, data with respect to treatment efficacy and prognosis are lacking.
+Chronic hypertrophic gastropathy is characterized by diffuse or focal hypertrophy of the gastric mucosa, muscularis, or both, with variable inflammatory infiltrates. Lesions are often most pronounced in the pyloric region, with resultant gastric outflow obstruction. Projectile vomiting of food within hours of eating may be described.
+Older male small-breed dogs are overrepresented (eg, Lhasa Apsos, Shih Tzu, Maltese, Miniature Poodles). Hypergastrinemia due to exaggerated secretion (eg, gastrin-secreting neoplasia, Basenji gastroenteropathy) or inadequate clearance (eg, hepatic or renal disease, achlorhydria) may initiate mucosal hypertrophy. Surgical correction via pyloroplasty and/or removal of hypertrophied tissue may be required to alleviate clinical signs.
+Key Points
+Sudden onset of vomiting is the most common clinical sign of acute gastritis; treatment typically is limited to supportive care.
+Comprehensive laboratory testing and abdominal imaging are useful to rule out other local and systemic causes of vomiting (eg, gastric foreign body, hypoadrenocorticism); definitive diagnosis requires endoscopic or surgical gastric biopsies and histological evaluation.
+Acid suppression therapy with a proton pump inhibitor is not routinely needed but is indicated if concurrent gastric ulceration is suspected or confirmed.
+For More Information
+Faucher MR, Biourge V, German AJ, Freiche V. Comparison of clinical, endoscopic, and histologic features between dogs with chronic gastritis with and without lymphofollicular hyperplasia. J Am Vet Med Assoc. 2020;256(8):906-913.
+Amorim I, Taulescu MA, Day MJ, et al. Canine gastric pathology: a review. J Comp Pathol. 2016;154(1):9-37.
+Hall EJ, Williams D A, Kathrani A, eds. BSAVA Manual of Canine and Feline Gastroenterology. 3rd ed. British Small Animal Veterinary Association; 2020.
+Marks SL, Kook PH, Papich MG, Tolbert MK, Willard MD. ACVIM consensus statement: Support for rational administration of gastrointestinal protectants to dogs and cats. J Vet Intern Med. 2018;32(6):1823-1840.
+Also see pet owner content regarding gastritis in dogs and gastritis in cats.

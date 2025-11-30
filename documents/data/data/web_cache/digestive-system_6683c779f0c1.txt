@@ -1,0 +1,34 @@
+Feline enteric coronavirus (FECV) infection is often subclinical in adult cats or characterized by transient, mild GI illness in kittens. Mutation of FECV to a biotype capable of infection and replication within macrophages is responsible for development of feline infectious peritonitis (FIP), a highly fatal, multisystemic disease.
+Etiology and Pathophysiology of Feline Enteric Coronavirus Infection
+Feline enteric coronavirus is an enveloped, single-stranded RNA virus.
+Fecal shedding of FECV begins within 1 week after initial infection and persists at high levels for 2–10 months, followed by an extended period (up to 24 months) of lower-level, potentially intermittent viral shedding. At least 13% of infected cats shed the virus indefinitely.
+Soon after infection, virus may replicate in oropharyngeal tissue, resulting in transient (hours to days) salivary shedding. FECV infects and replicates in mature apical epithelial cells of the intestinal villi, causing brush border shortening and destruction.
+Epidemiology of Feline Enteric Coronavirus Infection
+Feline enteric coronavirus infection is highly prevalent worldwide in domestic cats.
+Cats become infected through ingestion or inhalation of virus-containing feces or through contact with contaminated fomites (eg, litter boxes, mutual grooming, housing, personnel). Close contact between cats (eg, in catteries and multicat households) facilitates transmission. Vertical transmission from infected queens to kittens does occur. Kittens generally do not begin to shed virus before 9–10 weeks, although viral shedding in kittens as young as 4 weeks old has been reported.
+Clinical Findings of Feline Enteric Coronavirus Infection
+Most FECV infections are clinically inapparent or characterized by mild, self-limiting gastroenteritis. Occasionally, vomiting and diarrhea can be acute and severe or chronic and unresponsive to treatment. Although diarrhea is the most common clinical sign of infection in kittens, upper respiratory tract signs have also been reported.
+Death due to FECV-associated gastroenteritis is uncommon.
+Diagnosis of Feline Enteric Coronavirus Infection
+Fecal PCR assay
+The viral DNA of feline enteric coronavirus can be detected in feces by PCR assay. Because chronic carriers of FECV tend to be clinically normal, FECV can be assumed to be the cause of the diarrhea only after other causes (eg, infection, diet, inflammatory bowel disease, neoplasia, etc) have been excluded.
+The clinical utility of serological evaluation for antibodies against FECV is questionable. Positive coronavirus antibody titers are detected in up to 40% of pet cats and in up to 90% of cats in catteries or multicat households. Positive FECV antibody titers are indicative only of exposure to the virus, are not suggestive of the etiology of the current disease, do not correlate with the risk of developing FIP, and are not diagnostic for FIP.
+Histological lesions suggestive of FECV enteritis include intestinal villous fusion, atrophy, or sloughing. Because these lesions are nonspecific, definitive diagnosis requires immunohistochemical or immunofluorescent detection of viral antigen in intestinal epithelial cells.
+Treatment of Feline Enteric Coronavirus Infection
+Supportive care in severe cases
+The mild, transient clinical signs of feline enteric coronavirus infections are unlikely to require treatment. Treatment, if required, is supportive (ie, fluid therapy, oral electrolyte solutions, antiemetics). There is no specific antiviral therapy.
+Control and Prevention of Feline Enteric Coronavirus Infection
+FECV, as an enveloped virus, is relatively fragile. FECV can survive indoors for up to 7 weeks under dry conditions but is readily inactivated by most commercial disinfectants.
+Control and prevention of FECV are usually a concern only in breeding catteries and rescue shelters. Ingestion of virus-contaminated fecal particles should be prevented as much as possible. Fecal contamination of the environment can be minimized with sufficient litter box numbers, daily litter box cleaning, weekly litter box disinfection, and clipping/cleaning fur from the hind end of long-haired cats.
+Ideally, cats should be housed in small (3 or 4 cats), closed groups. The room, cages, bedding, and litter boxes should be disinfected between groups.
+Although impractical in a shelter situation, housing cats in groups according to their antibody status (immunofluorescent antibody test seropositive or seronegative) and virus shedding status (based on fecal PCR assay) is best. Seropositive cats can be retested every 3–6 months and moved into seronegative groups as their antibody titer decreases. In a rescue or shelter situation, cats should be housed singly.
+Identification of FECV carrier cats requires 9 consecutive positive fecal PCR assays, done monthly, whereas identification of a cat that has eliminated FECV infection requires 5 consecutive negative fecal PCR assays.
+Seropositive cats should be bred only to other seropositive cats, and seronegative cats to other seronegative cats. Kittens born of seropositive matings or to a seropositive queen are protected from infection by maternally derived immunity until approximately 6 weeks of age. Kittens weaned from seropositive queens by 6 weeks are unlikely to acquire infection from the queen. Serological testing of kittens should be delayed until 10–11 weeks, by which time seroconversion is likely.
+New cats should be serologically tested before introduction into a cattery or breeding program. Only seronegative and virus-free (as determined based on fecal PCR assay) cats should be introduced into an FECV-free cattery or a cattery attempting to eliminate the virus. Seropositive cats are less likely to develop FIP than seronegative cats when introduced to an FECV-endemic environment.
+Vaccination (with an intranasal, temperature-sensitive FECV mutant) is not generally recommended but can be considered in seronegative cats > 16 weeks old introduced into an FECV-endemic environment. Vaccination will lead to seroconversion and does not completely protect cats previously exposed to FECV from developing FIP.
+Key Points
+Feline enteric coronavirus is highly prevalent in the feline population.
+In most cases, FECV causes no or mild clinical signs that are self-limiting.
+Mutation of FECV can result in the development of feline infectious peritonitis.
+For More Information
+Also see pet owner content regarding feline enteric coronavirus.

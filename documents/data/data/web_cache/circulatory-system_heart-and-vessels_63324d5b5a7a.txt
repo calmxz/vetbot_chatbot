@@ -1,0 +1,64 @@
+Stenosis of the semilunar valves refers to congenital cardiac defects involving narrowing of the aortic valve (aortic stenosis) or the pulmonary valve (pulmonic stenosis). Along with coarctation of the aorta, these comprise outflow tract obstructions, where either right or left ventricular outflow is obstructed.
+Defects such as double chamber right ventricle, branch pulmonary artery stenosis, and cor triatriatum also create obstructions to normal blood flow but are not located within the right ventricular or left ventricular outflow tracts.
+Aortic Stenosis in Animals
+Aortic stenosis, typically caused by a ridge or ring of fibrotic tissue in the subaortic region (subaortic stenosis), is a common congenital defect of large-breed dogs.
+Aortic stenosis impedes normal left ventricular emptying and is caused by a narrowing at one of three locations:
+below the aortic valve (subvalvular or subaortic)
+involving the aortic valve leaflets (valvular)
+above the aortic valve (supravalvular)
+The most common form of aortic stenosis in dogs is subaortic stenosis, caused by fibrous nodules or a ridge or ring of fibrous tissue within the left ventricular outflow tract just below the aortic valve (see subaortic stenosis image).
+Courtesy of Dr. Bruce Keene.
+Subaortic stenosis generally occurs in large-breed dogs. Predisposed breeds include Boxers, Golden Retrievers, Rottweilers, German Shepherd Dogs, and Newfoundlands.
+Pathophysiology of Aortic Stenosis
+Aortic stenosis induces left ventricular concentric hypertrophy, the degree of which depends on the severity of the stenosis. In severe cases, left ventricular output may be decreased, which is especially notable during exercise. The major ramification of left ventricular concentric hypertrophy is the risk of myocardial ischemia secondary to inadequate perfusion. Myocardial ischemia is a major factor in the potential development of life-threatening ventricular arrhythmias and sudden death.
+Clinical Findings of Aortic Stenosis
+Clinical signs do not consistently parallel the severity of stenosis. Inadequate output can result in lethargy, exercise intolerance, and syncope. Animals with no history of illness may die suddenly, with the defect first detected at necropsy.
+Affected animals have an ejection-type systolic murmur heard best at the aortic valve area (left heart base with possible radiation to right base). The intensity of the murmur correlates fairly well with the degree of stenosis and may increase as animals mature, reflecting progressive stenosis. Puppies without detectable murmurs should not be considered free of disease until they reach maturity at approximately 1 year old.
+In more severe cases, femoral pulse strength is diminished.
+Diagnosis of Aortic Stenosis
+Diagnosis of aortic stenosis can be made by echocardiography.
+2D and Doppler echocardiography can generally provide a definitive diagnosis of aortic stenosis and exclude other cardiac abnormalities. A subaortic ridge or ring may be visible, and the increased velocity of systolic blood flow through the defect determines the severity of the stenosis.
+Dogs with more substantial stenosis may show left ventricular concentric hypertrophy and hyperechoic areas within the myocardium consistent with myocardial ischemia and fibrosis. Increased aortic flow velocities have been identified in some adult dogs, particularly Boxers, secondary to relative aortic hypoplasia. This benign finding may cause a physiologic murmur indistinguishable from mild aortic stenosis.
+Electrocardiography may show left ventricular enlargement (tall R waves in lead II) and ventricular premature complexes that may increase in frequency with exercise. Holter monitoring is indicated in syncopal animals or in animals with severe disease to define the presence of any arrhythmias, assess arrhythmia severity, and help determine the risk of sudden death. A recheck Holter monitor may be considered after initiation of antiarrhythmic therapy to assess efficacy.
+Variable left ventricular enlargement and poststenotic dilatation of the aorta can be observed radiographically.
+Treatment of Aortic Stenosis
+Medical management
+Balloon valvuloplasty
+Open surgical correction
+Medical management of aortic stenosis is most common due to poor success or unavailability of interventional and surgical options. Medical management generally consists of the use of a beta-adrenergic receptor antagonist (eg, atenolol) for its potential to decrease myocardial oxygen demand, prolong diastole, and decrease left ventricular wall stress. Antiarrhythmic therapy is indicated in dogs with substantial ventricular ectopy.
+Standard balloon valvuloplasty has been disappointing with subaortic stenosis, likely due to the fibrous nature of the lesion. Combined cutting balloon and high-pressure balloon valvuloplasty can be considered in dogs with very severe stenosis or clinical signs despite medical therapy, but the clinical benefit remains inconsistent.
+Open surgical resection is costly, limited to facilities offering cardiopulmonary bypass, and associated with higher morbidity rates and death.
+The prognosis varies with disease severity. Mildly affected animals commonly do not require treatment and often have a good prognosis. Affected animals should not be bred. Affected dogs are at higher risk of aortic valve infection (infective endocarditis); precautions that may decrease risk include perioperative antimicrobial therapy and prompt treatment of infections (ie, urinary, skin, ear, etc).
+Pulmonic Stenosis in Animals
+Pulmonic stenosis is a common congenital defect of dogs, most often involving fusion or dysplasia of the pulmonic valve leaflets (valvar or valvular).
+Pulmonic stenosis is common in dogs and infrequent in cats. It results in obstruction to right ventricular outflow due, in most cases, to commissural fusion or dysplasia of the pulmonic valve with or without annular hypoplasia. Although the valvular form remains most common, stenosis can also occur in the subvalvular region (infundibulum) or supravalvular area or at multiple levels. Dog breeds with predilections for valvular pulmonic stenosis include the following:
+French Bulldogs
+English Bulldogs
+Boxers
+Beagles
+Boykin Spaniels
+Terriers
+Pathophysiology of Pulmonic Stenosis
+The right ventricle must generate increased pressure during systole to overcome the stenosis, which in more severe cases can lead to dramatic right ventricular concentric hypertrophy. As the right ventricle hypertrophies, ventricular compliance diminishes, possibly leading to increased right atrial pressure and venous congestion. The turbulent jet of blood flow across the stenosis may deform the wall of the main pulmonary artery, resulting in a poststenotic dilatation. In severe cases, right-sided CHF can occur.
+Concurrent tricuspid valve regurgitation and patent foramen ovale can be found in animals with pulmonic stenosis. Anomalous coronary artery development has been documented in some animals with pulmonic stenosis, mostly English Bulldogs and Boxers, and presence may affect treatment recommendations.
+Clinical Findings of Pulmonic Stenosis
+Animals with pulmonic stenosis may have a history of exercise intolerance and failure to thrive. Exertional syncope is possible.
+Right-sided CHF may be present and is characterized by ascites and, less commonly, pleural effusion.
+A prominent systolic ejection murmur is present and heard loudest over the pulmonic valve area (left base). A corresponding precordial thrill (palpable vibration on the chest wall) may be present, as may jugular distention and pulsations.
+Diagnosis of Pulmonic Stenosis
+Diagnosis of pulmonic stenosis can be made by echocardiography.
+Echocardiography is indicated to obtain a definitive diagnosis and may demonstrate right ventricular hypertrophy and dilatation, fused or thickened and relatively immobile pulmonic valve cusps, and turbulent blood flow across the stenosis. Discrete supravalvular or subvalvular stenosis is uncommon, although in some breeds (eg, French Bulldogs), multiple levels of stenosis may be noted. Pulmonic insufficiency may be present.
+The degree of right-heart remodeling and the velocity of blood flow across the stenosis are measured by echocardiography and used to assess disease severity. Electrocardiography will demonstrate evidence of right ventricular enlargement (deep S waves in lead II) in many cases.
+Radiographic abnormalities include right ventricular enlargement, dilatation of the main pulmonary artery, and diminished pulmonary perfusion. (See valvular pulmonic stenosis, angiogram.)
+Courtesy of Dr. Sandra Tou.
+Treatment of Pulmonic Stenosis
+Balloon valvuloplasty for more serious cases
+Surgical intervention
+Medical management
+Animals with moderate or severe pulmonic stenosis can benefit from balloon valvuloplasty or surgical intervention (valvulotomy, patch grafting, partial valvulectomy, or conduits). Balloon valvuloplasty is a minimally invasive and highly effective treatment option. Pulmonary valve stenting can be considered in some cases. Suspicion of anomalous coronary artery on echocardiography mandates further evaluation (eg, coronary angiography, CT) to determine treatment options.
+In addition to balloon valvuloplasty, many moderately to severely affected dogs are managed with a beta-blocker (eg, atenolol). CHF should be medically managed if present. Similarly, the presence of supraventricular or ventricular arrhythmias warrants treatment with appropriate antiarrhythmic drugs.
+Key Points
+Subaortic stenosis occurs most commonly in large-breed dogs. The condition is typically associated with a loud ejection murmur and weak peripheral pulses in more severely affected dogs.
+Definitive diagnosis of aortic stenosis can be achieved by echocardiography. Affected dogs are at higher risk of infective endocarditis.
+Pulmonic stenosis most commonly occurs due to commissural fusion or dysplasia of valve leaflets and occurs in a variety of dog breeds, including French and English Bulldogs. A loud, systolic ejection murmur is typically heard over the left base of the heart.
+Definitive diagnosis of pulmonic stenosis can be achieved by echocardiography, and balloon valvuloplasty should be considered in moderate to severe cases.

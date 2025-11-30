@@ -1,0 +1,40 @@
+Erythrocytes (RBCs) are largely produced from hematopoietic stem cells in bone marrow.
+In most mammals, mature RBCs have a biconcave disk shape and lack a nucleus. Nucleated red blood cells (nRBCs), or erythroblasts, are immature RBCs that have not undergone nuclear extrusion and still contain a nucleus. Camelid RBCs are elliptical. Mature RBCs in birds are large oval cells containing oval nuclei.
+The function of RBCs is to carry oxygen to tissues at pressures sufficient to permit its rapid diffusion. This process requires the following biological elements:
+a carrier molecule (hemoglobin)
+a vehicle (RBCs) capable of bringing intact hemoglobin (Hgb) to cells
+a metabolism geared to protect both RBCs and Hgb from damage
+Interference with synthesis or release of Hgb, production or survival of RBCs, or metabolism can cause disease.
+Hgb is a complex molecule, formed of 4 heme units attached to 4 globins (2 alpha and 2 beta globins). Iron is added in the last step of erythropoiesis by the ferrochelatase enzyme.
+Interference with normal production of heme or globin (such as with lead poisoning or deficiency of copper or iron) leads to anemia.
+Hemoglobinopathies such as thalassemia and sickle cell disease, important genetic diseases of humans, have not been observed in other animals. In these diseases, production of globins (alpha, beta, or both) does not balance heme production, and Hgb is not functional.
+The only known naturally occurring hemoglobinopathy of animals is porphyria. Although described in several species, porphyria is most important as a cause of photosensitivity in cattle.
+RBC mass, and thus oxygen-carrying capacity, remains constant over time in healthy animals. A decreased RBC mass (anemia) can be caused by blood loss, excess destruction of RBCs (hemolysis), or decreased production of RBCs.
+Once produced in bone marrow, mature RBCs have a finite lifespan in circulation before senescent RBCs are destroyed. RBC production and destruction must be carefully balanced to avoid both anemia and erythrocytosis (excess RBCs in circulation).
+Erythropoiesis (RBC production) is regulated by erythropoietin, a hormone that increases in the presence of hypoxia. Erythropoietin acts on bone marrow in concert with other humoral mediators to increase the number of stem cells entering RBC production, shorten maturation time, and cause early release of reticulocytes (immature RBCs).
+In most species, the kidney is both the sensor organ and the major site of erythropoietin production. Chronic kidney disease can be associated with anemia in later stages, as the kidneys fail to produce this vital hormone in sufficient amounts.
+Nutrient deficiency (eg, of iron, folate, or vitamin B12) can also suppress erythropoiesis, as can chronic debilitating diseases, inflammatory diseases, and endocrine disorders (such as hypothyroidism, hypoadrenocorticism, or hyperestrogenism).
+Toxic insult, infectious diseases (eg, feline leukemia virus disease, histoplasmosis), and neoplasms within bone marrow (eg, myelofibrosis) can all primarily affect the bone marrow, leading to decreased erythropoiesis with or without other cytopenias. Each of the conditions mentioned here would be expected to cause nonregenerative anemia.
+To balance RBC production, two mechanisms exist for removal of senescent RBCs: intravascular and extravascular hemolysis. Both conserve the principal constituents of the cell for reuse.
+Removal of aged RBCs normally occurs by phagocytosis by fixed macrophages in the spleen. As RBCs age, they change antigenically, acquiring senescent antigens and losing flexibility because of impaired ATP production. Both of these changes increase the chance that the cells will become trapped in the spleen and removed by macrophages.
+After phagocytosis and subsequent disruption of the cell membrane, Hgb is converted to heme and globin. Iron is released from the heme moiety and either stored in the macrophage as ferritin or hemosiderin or released into the circulation for transport back to the marrow. The remaining heme is converted to bilirubin, which is released by macrophages into the systemic circulation, where it complexes with albumin for transport to hepatocytes. In the liver, it is conjugated and excreted into the bile.
+This normal process of extravascular hemolysis of aged RBCs occurs at a low rate every day, thereby accounting for the low bilirubin concentrations measurable in blood in healthy animals. In diseases causing excess extravascular hemolysis, RBCs may be destroyed before they are senescent, resulting in a shortened RBC lifespan, anemia, and hyperbilirubinemia.
+In animals in good health, approximately 1% of aging RBCs are hemolyzed within circulation (intravascular hemolysis) instead of within the spleen. In this process, free Hgb is released and quickly converted to Hgb dimers that bind to haptoglobin and are transported to the liver. There, they are metabolized in the same manner as products from RBCs removed by phagocytosis.
+In diseases causing excess intravascular hemolysis, increased numbers of RBCs are destroyed in the circulation, releasing hemoglobin at a rate that exceeds haptoglobin's binding capacity. This process results in excess hemoglobinemia, which may be detectable as hemolyzed-looking serum. Excess Hgb and, therefore, iron are excreted in the urine (hemoglobinuria).
+The principal metabolic pathway of RBCs is glycolysis, and the main energy source for this in most species is glucose. Glucose enters RBCs by an insulin-independent mechanism, and most is metabolized to produce ATP and reduced nicotinamide adenine dinucleotide (NADH). The energy of ATP is used to fuel RBC membrane pumps that work to preserve cell shape and flexibility.
+The reducing potential of NADH is utilized via the methemoglobin reductase pathway to maintain iron in Hgb in its reduced form (Fe2+). Glucose not used in glycolysis is metabolized via a second pathway, the hexose monophosphate (HMP) shunt, which does not produce energy but is important for maintaining the sulfhydryl groups of globin in their reduced state.
+These metabolic pathways are key for the survival and functionality of RBCs as they circulate. Some anemic disorders are the direct result of abnormal RBC metabolism and interference with glycolysis.
+Inherited deficiency of pyruvate kinase, a key glycolytic enzyme, causes ATP deficiency, which leads to decreased RBC lifespan and hemolytic anemia.
+Excessive oxidant stress can overload the protective HMP shunt or methemoglobin reductase pathways, causing Heinz body hemolysis or methemoglobin formation, respectively. Hemolytic anemia caused by acetaminophen toxicity in cats is an example.
+While anemia can be caused by RBC loss (bleeding or excess hemolysis) or lack of production, absolute erythrocytosis, by contrast, is generally the result of excess RBC production rather than failure to clear senescent RBCs.
+Erythrocytosis can be a primary problem of the bone marrow (polycythemia vera) or a secondary problem, resulting from dysfunction outside of the bone marrow.
+When secondary, erythrocytosis may be an appropriate, compensatory response to try to increase oxygen-carrying capacity in chronic hypoxic states (eg, pulmonary disease, right-to-left intracardiac shunts), or it may be an inappropriate response, as is the case with erythropoietin-producing neoplasms.
+Relative erythrocytosis is the term used to describe increased RBC mass relative to plasma, which most commonly results from dehydration (hemoconcentration) or splenic contraction.
+Key Points
+RBC production is regulated by the hormone erythropoietin, which is released as needed by the kidneys.
+Senescent RBCs are removed primarily by macrophages in the spleen.
+Anemia is caused by blood loss, excess hemolysis, or decreased production of RBCs.
+For More Information
+Brockus CW. Erythrocytes. In: Lattimer KS, ed, Duncan and Prasse’s Veterinary Laboratory Medicine: Clinical Pathology. 5th ed. Wiley-Blackwell; 2011:3-44
+eClinpath. Physiology: hematopoiesis.
+Also see pet owner information regarding red blood cells of dogs.

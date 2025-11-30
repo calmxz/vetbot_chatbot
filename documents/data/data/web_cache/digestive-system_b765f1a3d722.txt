@@ -1,0 +1,18 @@
+If the cause of the GI disease is identified, specific measures should be taken to treat the underlying disease process. Specific treatments for GI disease may include the following:
+antimicrobials
+anthelmintics
+antifungals
+toxin antidotes
+immunosuppressive or anti-inflammatory drugs
+diet therapy
+surgical correction
+If an underlying cause is not identified or a specific treatment is not available, the focus of therapy is supportive care, especially in animals with acute GI diseases that may be self-limiting. Supportive care for GI disease may include the following:
+fluid and electrolyte replacement therapy
+antiemetics
+prokinetics
+gastric decompression by orogastric or nasogastric intubation
+analgesics
+antimicrobials for secondary bacterial translocation
+Abnormalities of the GI microbiome can occur as a primary cause of GI disease or secondary to another disease process. Reestablishing a normal microbiome may help resolve GI disease. Reconstitution of the ruminal microbiome is recommended if there is concern that the ruminal microbiome is seriously depleted (eg, as in prolonged anorexia or acute indigestion). Transfaunation (ruminal fluid transfer) involves oral administration of ruminal contents that contain normal microbiota and volatile fatty acids from a healthy animal to a sick animal.
+In cats and dogs with acute and chronic diseases, manipulation of the microbiome using prebiotics, probiotics, or symbiotics may be beneficial. Fecal microbiome transplantation from a healthy donor via oral or transrectal routes can also be beneficial in some cats and dogs with acute and chronic diseases, including parvovirus infections, Clostridium perfringens infections that do not respond to antimicrobials, and chronic enteropathies.
+See also Systemic Pharmacotherapeutics of the Digestive System and The Ruminant Digestive System.

@@ -1,64 +1,113 @@
-# ============================================================================
-# IMPORTS AND SETUP
-# ============================================================================
-import os
-import streamlit as st  # Web framework for creating the chatbot UI
-from google import genai  # Google's Gemini AI API
-from google.genai import types  # Types for structuring API requests
-from dotenv import load_dotenv  # Load environment variables (API keys)
-from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader  # Load documents
-from langchain_text_splitters import RecursiveCharacterTextSplitter  # Split text into chunks
-from langchain_huggingface import HuggingFaceEmbeddings  # Generate embeddings for semantic search
-from langchain_community.vectorstores import Chroma  # Vector database for storing embeddings
+# Standard library imports
+import os  # For environment variables and file operations
+import tempfile  # For temporary file creation for audio
 
-# Load environment variables from .env file (contains GEMINI_API_KEY)
+# Third-party imports
+import streamlit as st  # Web application framework for creating the chatbot UI
+from google import genai  # Google's Gemini AI model client
+from google.genai import types  # Gemini API types for message formatting
+from dotenv import load_dotenv  # Load environment variables from .env file
+from kokoro import KPipeline  # Kokoro Text-to-Speech for audio generation
+import soundfile as sf  # For saving audio files
+import numpy as np  # For audio processing
+
+# LangChain imports for document processing and RAG functionality
+from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader  # Document loading utilities
+from langchain_text_splitters import RecursiveCharacterTextSplitter  # Text chunking for embeddings
+from langchain_huggingface import HuggingFaceEmbeddings  # Embedding model for vector search
+from langchain_chroma import Chroma  # Vector database for similarity search  # pyright: ignore[reportMissingImports]
+
+# Load environment variables (API keys, etc.) from .env file
 load_dotenv()
 
-# ============================================================================
-# HELPER FUNCTIONS
-# ============================================================================
-
 def load_system_prompt(filepath="system_prompt.txt"):
-    """
-    Load the system prompt from a text file.
-    The system prompt defines the bot's personality and behavior guidelines.
-    """
+    """Load system prompt from file, or return default if not found."""
     try:
         with open(filepath, "r", encoding="utf-8") as f:
-            return f.read().strip()  # Read and return the file content
+            return f.read().strip()
     except FileNotFoundError:
-        # If file doesn't exist, use a default prompt
-        st.warning("⚠️ system_prompt.txt not found. Using default fallback prompt.")
+        st.warning("system_prompt.txt not found. Using default fallback prompt.")
         return (
             "You are a helpful and friendly veterinary assistant chatbot. "
             "Always remind users to consult a veterinarian for professional medical advice."
         )
 
 @st.cache_resource
+def get_kokoro_pipeline():
+    """Initialize and cache Kokoro TTS pipeline."""
+    return KPipeline(lang_code='a')  # 'a' for American English
+
+def text_to_speech(text, voice='af_heart'):
+    """Convert text to speech using Kokoro TTS and return audio file path."""
+    try:
+        pipeline = get_kokoro_pipeline()
+
+        # Clean up text for better TTS pronunciation (doesn't affect displayed text)
+        import re
+        cleaned_text = text
+
+        # Remove markdown bold formatting (e.g., **Diagnosis Title** -> Diagnosis Title)
+        cleaned_text = re.sub(r'\*\*([^*]+)\*\*', r'\1', cleaned_text)
+        # Remove markdown italic formatting (e.g., *text* -> text)
+        cleaned_text = re.sub(r'\*([^*]+)\*', r'\1', cleaned_text)
+        # Remove any remaining asterisks
+        cleaned_text = cleaned_text.replace('*', '')
+
+        # Replace colons with periods for more natural speech
+        cleaned_text = cleaned_text.replace(':', '.')
+
+        # Generate audio using Kokoro with cleaned text
+        generator = pipeline(cleaned_text, voice=voice)
+
+        # Kokoro yields (graphemes, phonemes, audio) tuples
+        # Concatenate all audio chunks together
+        audio_chunks = []
+        for _, _, audio in generator:
+            audio_chunks.append(audio)
+
+        if not audio_chunks:
+            st.error("No audio generated")
+            return None
+
+        # Concatenate all audio chunks into one array
+        audio_data = np.concatenate(audio_chunks)
+
+        # Save to temporary WAV file
+        with tempfile.NamedTemporaryFile(delete=False, suffix='.wav') as fp:
+            sf.write(fp.name, audio_data, 24000)
+            return fp.name
+    except Exception as e:
+        st.error(f"Error generating speech: {e}")
+        return None
+
+@st.cache_resource
 def load_and_index_documents(folder_path):
-    """
-    RAG SETUP: Load documents and create a searchable vector database.
+    """Load documents and create vector store for RAG, or load existing if available."""
+    chroma_db_path = "./chroma_db"
+    if os.path.exists(chroma_db_path) and os.path.exists(os.path.join(chroma_db_path, "chroma.sqlite3")):
+        with st.spinner("Loading existing vector store..."):
+            embeddings = HuggingFaceEmbeddings(
+                model_name="all-MiniLM-L6-v2",
+                model_kwargs={'device': 'cpu'}
+            )
+            vectorstore = Chroma(
+                persist_directory=chroma_db_path,
+                embedding_function=embeddings
+            )
+            st.success("Vector store loaded!")
+            return vectorstore
     
-    This function:
-    1. Loads all PDF and TXT files from the specified folder
-    2. Splits them into small chunks (for better retrieval)
-    3. Converts chunks into embeddings (vector representations)
-    4. Stores them in a Chroma vector database for fast similarity search
-    
-    @st.cache_resource caches the result so it only runs once per session.
-    """
     if not os.path.exists(folder_path):
         st.warning(f"Folder '{folder_path}' not found!")
         return None
     
-    # STEP 1: Load documents from the folder
     with st.spinner("Loading documents..."):
         documents = []
+        
         try:
-            # Load all .txt files recursively from subdirectories
             txt_loader = DirectoryLoader(
                 folder_path, 
-                glob="**/*.txt",  # ** means search in all subdirectories
+                glob="**/*.txt",
                 loader_cls=TextLoader,
                 loader_kwargs={'encoding': 'utf-8'}
             )
@@ -67,7 +116,6 @@ def load_and_index_documents(folder_path):
             st.error(f"Error loading TXT files: {e}")
         
         try:
-            # Load all .pdf files recursively from subdirectories
             pdf_loader = DirectoryLoader(
                 folder_path,
                 glob="**/*.pdf",
@@ -83,95 +131,72 @@ def load_and_index_documents(folder_path):
         
         st.success(f"Loaded {len(documents)} documents.")
     
-    # STEP 2: Split documents into smaller chunks
-    # This is important because:
-    # - LLMs have token limits
-    # - Smaller chunks provide more focused information
-    # - We can retrieve only the most relevant pieces
     with st.spinner("Splitting documents into chunks..."):
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=500,      # Each chunk is ~500 characters
-            chunk_overlap=50,    # 50 characters overlap between chunks (keeps context)
-            separators=["\n\n", "\n", " ", ""]  # Try to split at these boundaries first
+            chunk_size=500,
+            chunk_overlap=50,
+            separators=["\n\n", "\n", " ", ""]
         )
         chunks = text_splitter.split_documents(documents)
         st.success(f"Created {len(chunks)} chunks.")
     
-    # STEP 3: Create embeddings and vector store
-    # Embeddings convert text into numerical vectors that capture meaning
-    # Similar meanings = similar vectors = can be found via similarity search
     with st.spinner("Creating embeddings and vector store..."):
         embeddings = HuggingFaceEmbeddings(
-            model_name="all-MiniLM-L6-v2",  # Pre-trained model for generating embeddings
-            model_kwargs={'device': 'cpu'}  # Use CPU (change to 'cuda' for GPU)
+            model_name="all-MiniLM-L6-v2",
+            model_kwargs={'device': 'cpu'}
         )
         
-        # Store embeddings in Chroma database for fast retrieval
         vectorstore = Chroma.from_documents(
             documents=chunks,
             embedding=embeddings,
-            persist_directory="./chroma_db"  # Save to disk so we don't rebuild each time
+            persist_directory=chroma_db_path
         )
-        st.success("Vector store ready!")
+        st.success("Vector store created and ready!")
     
     return vectorstore
 
 @st.cache_resource
 def initialize_client():
-    """
-    Create and return a Gemini API client.
-    Uses the API key from environment variables.
-    @st.cache_resource ensures we only create one client per session.
-    """
-    return genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+    """Initialize Gemini API client using API key from environment."""
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        st.error("GEMINI_API_KEY not found in environment variables!")
+        st.stop()
+    
+    return genai.Client(api_key=api_key)
 
 def get_response(client, prompt, system_prompt=None, model="gemini-2.5-flash"):
-    """
-    Send a prompt to Gemini and return the response.
-    
-    Args:
-        client: Gemini API client
-        prompt: The user's question or conversation context
-        system_prompt: Instructions for how the AI should behave
-        model: Which Gemini model to use (flash is faster/cheaper)
-    
-    Returns:
-        The AI's text response
-    """
-    # Combine system prompt and user prompt
+    """Get streaming response from Gemini API."""
     if system_prompt:
         full_prompt = f"[Instruction — read before replying]\n{system_prompt}\n\n[User question]\n{prompt}"
     else:
         full_prompt = prompt
-
-    # Structure the API request
+    
     contents = [
         types.Content(
             role="user",
             parts=[types.Part.from_text(text=full_prompt)],
         )
     ]
-
-    # Stream the response (process it as it comes in)
+    
+    config = types.GenerateContentConfig(
+        temperature=0.4,
+    )
+    
     response_text = ""
     for chunk in client.models.generate_content_stream(
         model=model,
         contents=contents,
+        config=config,
     ):
         if chunk.text:
             response_text += chunk.text
+    
     return response_text
 
 def build_direct_answer_prompt(user_input, conversation_context, context=None, source_text=None):
-    """
-    Build a detailed prompt for the AI with conversation history and knowledge base context.
-    
-    This function isn't currently used in the main flow, but could be used for
-    more advanced prompting strategies.
-    """
-    
+    """Build prompt template for direct answers with emergency detection."""
     if context:
-        # With RAG context - the AI has retrieved information from the knowledge base
         return f"""You're a friendly veterinary assistant helping a pet owner. Here's our conversation so far:
 
 {conversation_context}
@@ -187,7 +212,6 @@ Write naturally in conversational sentences without bullet points or lists. If i
 
 This information comes from: {source_text}"""
     else:
-        # Without RAG context - the AI only has the conversation history
         return f"""You're a friendly veterinary assistant helping a pet owner. Here's our conversation:
 
 {conversation_context}
@@ -198,70 +222,111 @@ Your approach: If this is a general question about pet care, answer it directly 
 
 Write naturally in conversational sentences without bullet points or lists. If it's an emergency, give immediate advice and tell them to see a vet. Always remind them to consult their vet for professional diagnosis."""
 
-# ============================================================================
-# MAIN APPLICATION
-# ============================================================================
-
 def main():
-    """Main Streamlit application - creates the chatbot UI and handles interactions"""
-    
-    # Configure the Streamlit page
+    """Main Streamlit app: sets up UI and handles chat interactions with RAG."""
     st.set_page_config(
         page_title="Veterinary Chatbot",
         page_icon="🐾",
         layout="wide"
     )
+    
     st.title("🐾 Veterinary Information Chatbot")
     st.markdown("*Ask questions about pet health and care*")
     
-    # Initialize the conversation history (persists across user inputs)
     if "messages" not in st.session_state:
         st.session_state.messages = []
+    if "audio_cache" not in st.session_state:
+        st.session_state.audio_cache = {}
+    if "playing_audio" not in st.session_state:
+        st.session_state.playing_audio = None
     
-    # Load resources (these are cached, so they only run once)
-    vectorstore = load_and_index_documents('./documents')  # RAG knowledge base
-    client = initialize_client()  # Gemini API client
-    system_prompt = load_system_prompt()  # AI behavior instructions
+    vectorstore = load_and_index_documents('./documents')
+    client = initialize_client()
+    system_prompt = load_system_prompt()
     
-    # Display previous messages in the conversation
-    for message in st.session_state.messages:
+    for idx, message in enumerate(st.session_state.messages):
         with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+            col1, col2 = st.columns([0.95, 0.05])
+            with col1:
+                st.markdown(message["content"])
+            with col2:
+                if message["role"] == "assistant":
+                    # Determine button icon based on playing state
+                    is_playing = st.session_state.playing_audio == idx
+                    button_icon = "⏸️" if is_playing else "🔊"
+
+                    if st.button(button_icon, key=f"tts_{idx}", help="Play/Stop audio"):
+                        if is_playing:
+                            # Stop audio by clearing the playing state
+                            st.session_state.playing_audio = None
+                            st.rerun()
+                        else:
+                            # Start playing audio
+                            st.session_state.playing_audio = idx
+                            # Check if audio is already cached
+                            if idx in st.session_state.audio_cache:
+                                audio_file = st.session_state.audio_cache[idx]
+                            else:
+                                # Generate if not cached (for old messages)
+                                audio_file = text_to_speech(message["content"])
+                                if audio_file:
+                                    st.session_state.audio_cache[idx] = audio_file
+                            st.rerun()
+
+                    # Play audio without showing controls
+                    if is_playing and idx in st.session_state.audio_cache:
+                        audio_file = st.session_state.audio_cache[idx]
+                        # Use HTML audio element with autoplay and hidden controls
+                        import base64
+                        with open(audio_file, 'rb') as f:
+                            audio_bytes = f.read()
+                        audio_base64 = base64.b64encode(audio_bytes).decode()
+                        audio_html = f'<audio autoplay style="display:none"><source src="data:audio/wav;base64,{audio_base64}" type="audio/wav"></audio>'
+                        st.markdown(audio_html, unsafe_allow_html=True)
     
-    # Handle new user input
     if user_input := st.chat_input("Ask about your pet's health..."):
-        # Add user message to history and display it
         st.session_state.messages.append({"role": "user", "content": user_input})
         with st.chat_message("user"):
             st.markdown(user_input)
         
-        # Generate and display AI response
         with st.chat_message("assistant"):
+            sources_for_display = None
             with st.spinner("Thinking..."):
-                # STEP 1: Build conversation context from recent messages
-                # This helps the AI remember what was said earlier
                 conversation_context = ""
                 if len(st.session_state.messages) > 1:
-                    recent_messages = st.session_state.messages[-6:]  # Last 6 messages
+                    recent_messages = st.session_state.messages[-6:]
                     conversation_context = "\n".join([
                         f"{msg['role'].title()}: {msg['content']}" 
                         for msg in recent_messages
                     ])
                 
-                # STEP 2: Retrieve relevant documents from knowledge base (RAG)
                 if vectorstore is not None:
-                    # Search for the 3 most relevant document chunks
                     relevant_docs = vectorstore.similarity_search(user_input, k=3)
                     
                     if relevant_docs:
-                        # Extract the text content from retrieved documents
                         context = "\n\n".join([doc.page_content for doc in relevant_docs])
-                        # Get the source filenames for attribution
                         sources = set([doc.metadata.get('source', 'documents') for doc in relevant_docs])
-                        source_text = ", ".join(sources)
+                        sources_for_display = sources  # Store for display outside spinner
                         
-                        # Build prompt with retrieved context
-                        prompt = f"""Context from knowledge base:
+                        # Create source attribution for prompt
+                        source_text = "Knowledge base documents"
+                        
+                        is_howto = any(phrase in user_input.lower() for phrase in ['how to', 'how do i', 'how can i', 'steps to', 'way to'])
+                        
+                        if is_howto:
+                            prompt = f"""Context from knowledge base:
+{context}
+
+Previous conversation:
+{conversation_context}
+
+User question: {user_input}
+
+IMPORTANT: This is a "how-to" question. Provide ALL steps in numbered format from start to finish. Do not stop halfway through the procedure. Give the complete process in one response.
+
+Source: {source_text}"""
+                        else:
+                            prompt = f"""Context from knowledge base:
 {context}
 
 Previous conversation:
@@ -271,47 +336,60 @@ User question: {user_input}
 
 Source: {source_text}"""
                     else:
-                        # No relevant docs found - use conversation history only
                         prompt = f"""Previous conversation:
 {conversation_context}
 
 User question: {user_input}"""
                 else:
-                    # Vector store failed to load - use conversation history only
                     prompt = f"""Previous conversation:
 {conversation_context}
 
 User question: {user_input}"""
                 
-                # STEP 3: Send prompt to Gemini and get response
                 response = get_response(client, prompt, system_prompt=system_prompt)
+
                 st.markdown(response)
-        
-        # Add AI response to conversation history
+
+            # Display source information if available (outside spinner so it appears after thinking)
+            if sources_for_display:
+                # Just show that information comes from Merck Veterinary Manual if applicable
+                has_web_cache = any('web_cache' in str(s) for s in sources_for_display)
+                if has_web_cache:
+                    st.caption("📚 Information sources: Merck Veterinary Manual")
+
+        # Save message to session state BEFORE audio generation to prevent loss on rerun
         st.session_state.messages.append({"role": "assistant", "content": response})
+
+        # Pre-generate audio for assistant response in background
+        current_idx = len(st.session_state.messages) - 1  # Adjust index since we already appended
+        with st.spinner("Generating audio..."):
+            audio_file = text_to_speech(response)
+            if audio_file:
+                st.session_state.audio_cache[current_idx] = audio_file
+
+        # Rerun to display the TTS button now that audio is ready
+        st.rerun()
     
-    # Sidebar with information and controls
     with st.sidebar:
-        st.header("ℹ️ About")
+        st.header("About")
         st.markdown("""
         This chatbot provides veterinary information using:
         - **RAG** (Retrieval-Augmented Generation)
         - **Gemini Flash** LLM
         - **LangChain** for document processing
-        
-        📁 Documents are loaded from `./documents/` folder
-        
+
+         Documents are loaded from `./documents/` folder
+
         **Conversation Style:** Step-by-step guidance with natural follow-ups
         """)
-        
-        # Button to clear conversation history
+
+        st.markdown("---")
         if st.button("Clear Chat History"):
             st.session_state.messages = []
-            st.rerun()  # Refresh the page to clear the UI
-        
-        st.markdown("---")
-        st.caption("⚠️ For informational purposes only. Always consult a veterinarian for medical advice.")
+            st.rerun()
 
-# Run the application
+        st.markdown("---")
+        st.caption("For informational purposes only. Always consult a veterinarian for medical advice.")
+
 if __name__ == "__main__":
     main()

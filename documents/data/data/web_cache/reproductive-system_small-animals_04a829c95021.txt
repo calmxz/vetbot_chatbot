@@ -1,0 +1,58 @@
+Dystocia is defined as a difficult birth or the inability to expel the fetus through the birth canal without assistance.
+Etiology of Dystocia in Small Animals
+Predisposing factors that lead to dystocia can be generally divided into maternal factors and fetal factors.
+Uterine inertia is the most common cause of dystocia in dogs. It may be primary or secondary.
+In primary uterine inertia, the uterus may fail to respond to the fetal signals because there is insufficient stimulation to initiate labor or because of over-stretching of the myometrium by large litters, excessive fetal fluids or oversized fetuses. Other causes of primary uterine inertia include an inherited predisposition, nutritional imbalance, fatty infiltration of the myometrium, age-related changes, deficiency in neuroendocrine regulation, and systemic disease in the dam.
+Secondary uterine inertia is always due to exhaustion of the uterine myometrium caused by obstruction of the birth canal.
+In both primary and secondary uterine inertia, the myometrium fails to respond to oxytocin and there is a lack of a Ferguson reflex (a neuroendocrine reflex in which the fetal distension of the cervix stimulates a series of neuroendocrine responses, leading to oxytocin production).
+Breed may predispose to dystocia in both dogs and cats. Breeds known to be at higher risk include Bulldogs, Pugs, Boston Terriers, Chihuahuas, Persians, and Siamese.
+Nervous voluntary inhibition of labor due to psychological stress may occur, mainly in the nervous primiparous bitches and queens. Reassurance by the owner or administration of a low dose tranquilizer may remove the inhibition. Once the first fetus is born, parturition will usually proceed normally.
+Uterine torsion and uterine rupture are acute, life-threatening conditions that can occur during late pregnancy or at the time of parturition.
+Congenital malformations of the uterus (eg, partial or complete aplasia or hypoplasia of one or both uterine horns, the uterine body, or the cervix) are rare causes of dystocia.
+Conformation of the dam (narrow pelvic canal [eg, from previous pelvic fractures], immaturity or congenital malformation of the pelvis, vaginal and vulvar soft tissue abnormalities, excessive perivaginal fat, ruptured maternal diaphragm) may also contribute to dystocia.
+Pain can also be a factor leading to dystocia.
+Fetal causes of dystocia include fetal malposition and abnormal fetal development.
+The normal presentation, position, and posture in eutocia is cranial or caudal longitudinal presentation and dorsosacral position with front or rear limbs extended. Common abnormal presentations include breech presentation (posterior presentation with hind legs flexed forward), lateral or downward deviation of the head, backward flexion of front legs, and transverse or bicornual presentation.
+Abnormalities of fetal development that may lead to dystocia include fetal-maternal disproportion, hydrocephalus, anasarca, fetal monsters, and amelia.
+Epidemiology of Dystocia in Small Animals
+The overall incidence of dystocia in the bitch or queen is approximately 5% of pregnancies, but it may approach 100% in some breeds of dogs and cats, especially of the achondroplastic and brachycephalic types.
+Courtesy of Dr. Jenny Sones.
+Diagnosis of Dystocia in Small Animals
+Criteria for diagnosing dystocia include obvious malposition, abnormally prolonged gestation, and abnormally prolonged whelping or queening duration.
+Dystocia is diagnosed when there has been an attempt with obstetric manipulation to assist with a vaginal delivery.
+Gestation > 70 days from a known breeding date is considered prolonged. Gestation length can be difficult to assess if breeding management was not recorded. Fetal biometry can be used throughout gestation to estimate gestational age.
+The following constitute abnormally prolonged whelping or queening:
+Whelping not observed within 24–36 hours after the drop in rectal temperature (bitch only).
+Whelping or queening not observed within 12–36 hours after decrease in progesterone concentration to < 2 ng/mL.
+Interval between puppies or kittens is > 30 minutes with clear signs of myometrial contractions.
+Interval between puppies or kittens is > 2 hours without signs of myometrial contractions.
+Entire duration of whelping or queening lasting > 24 hours.
+Active labor for > 4 hours and no puppies or kittens produced.
+Weak labor for > 4 hours and no puppies or kittens produced.
+Abnormal vulvar discharge (eg, profuse vaginal bleeding during whelping or queening) may be a sign associated with dystocia. Dark green or malodorous vaginal discharge prior to whelping or queening can denote placental separation.
+Puppies and kittens cannot be born prematurely and survive. Considerable surfactant production occurs late in gestation, from 57 to 60 days of pregnancy. Gestational age can be determined using ovulation data, ultrasonographic measurements and fetal biometry, radiography, or serum progesterone concentrations. Kittens must be born at least 61 days from breeding to be likely to survive.
+An accurate history and physical examination of the patient are important prerequisites for proper management of dystocia. Palpation of the abdomen should allow rough estimation of the number of fetuses and if fetal movement is present. The degree of uterine distension and the presence of uterine contractions upon vaginal stimulation (Ferguson reflex) should also be palpated through the abdominal wall. Mammary gland development, including congestion, distension, size and presence of milk should be evaluated.
+Digital examination of the vagina using aseptic technique should be undertaken to detect obstructions and determine the presence and presentation of any fetus in the caudal vagina.
+A CBC and serum biochemical analysis should be assessed (or, at a minimum, PCV, total solids, blood glucose concentration, and ionized calcium concentration). Progesterone (P4) concentration should be measured.
+Lateral and ventrodorsal abdominal radiographic views should be obtained. Radiographic examination is valuable to assess gross abnormalities of the maternal pelvis as well as number and location of fetuses to estimate their size and assess for congenital defects.
+Abdominal ultrasonography will determine fetal viability or distress. The normal fetal heart rate is 200–250 beats/min, and it is decreased < 200 beats/min in the compromised fetus.
+Treatment of Dystocia in Small Animals
+The goal of medical management of dystocia is to stimulate the myometrium with drugs (only if imaging findings do not indicate obstructive dystocia) or provide manual assistance.
+Sedation may be necessary for obstetrics or if the dam is extremely nervous. Sedation of the dam will result in sedation of the fetuses. The effects of opioids can be reversed in the neonates.
+If fetal obstetrical manipulation is attempted, the gloved hand should be lubricated, with lubrication applied around the fetus if possible. Apply gentle traction; aggressive manipulations should be avoided. Cleanliness is important. Wash the perineum, wear sterile gloves, and use sterile lube.
+Oxytocin may cause premature placental separation and should not be used in obstructive dystocia. Oxytocin increases frequency of uterine contractions. When the cause of dystocia is identified as uterine inertia, oxytocin (2 to 5 U/animal, IM, IV, or SC, at 20- to 30-minute intervals, for no more than 3 doses if not effective) can be used carefully. If there is no response to the initial oxytocin injection, progressively higher doses may be used, with an upper limit of 5 U/animal. If oxytocin is not available, using the dam’s endogenous oxytocin can be achieved by removing the puppies or kittens that are nursing (if available) and replacing them after ~10 minutes to stimulate production.
+Calcium increases strength of uterine contractions. When the cause of dystocia is identified as uterine inertia, calcium can be administered carefully. Calcium and oxytocin can work synergistically when given appropriately. Ten minutes before administration of oxytocin, 10% calcium gluconate should be infused (0.5–1.5 mL/kg, IV slowly; calcium gluconate should not be administered SC or IM due to the potential for tissue necrosis). Careful monitoring of the heart rate and rhythm should always accompany calcium administration due to the possibility of ventricular fibrillation.
+Indications for a caesarean section include:
+systemic illness in the dam
+dystocia that has not been addressed
+blackish-green vaginal discharge prior to whelping or queening
+profuse vaginal hemorrhage prior to or after the onset of whelping or queening
+intense myometrial contractions for > 30 minutes without delivering a puppy or kitten
+complete primary uterine inertia that does not respond to medical treatment
+partial primary uterine inertia that is refractory to medical management
+secondary uterine inertia with inadequate resumption of labor
+abnormalities of the maternal pelvis or soft tissues of the birth canal
+relative fetal oversize, especially if considered likely to be repeated in several fetuses
+fetal malposition not amendable to manipulation
+fetal death with putrefaction
+If a given dam has a C-section, that does not invariably mean she must have C-sections at future whelping or queenings.
