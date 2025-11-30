@@ -11,7 +11,7 @@ from kokoro import KPipeline  # Kokoro Text-to-Speech for audio generation
 import soundfile as sf  # For saving audio files
 import numpy as np  # For audio processing
 
-# LangChain imports for document processing and RAG functionality
+# For document processing and RAG functionality
 from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader  # Document loading utilities
 from langchain_text_splitters import RecursiveCharacterTextSplitter  # Text chunking for embeddings
 from langchain_huggingface import HuggingFaceEmbeddings  # Embedding model for vector search
