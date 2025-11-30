@@ -1,0 +1,49 @@
+Erythrocytosis is a relative or absolute increase in the number of circulating RBCs, resulting in the PCV, hematocrit, RBC count, and hemoglobin concentration increasing above reference intervals.
+Polycythemia is frequently used synonymously with erythrocytosis; however, polycythemia may imply leukocytosis and thrombocytosis, in addition to erythrocytosis.
+Relative Erythrocytosis in Animals
+Relative erythrocytosis is an increase in RBC numbers without an increase in total RBC mass. Usually, this is caused by loss of plasma water with resultant hemoconcentration, due to dehydration.
+Alternatively, a mild, transient form of relative erythrocytosis unassociated with clinical signs may develop when fear or excitement causes splenic contraction with immediate release of sequestered RBCs into the circulation. This is most often observed in horses but may occur to a mild extent in other species as well.
+Absolute Erythrocytosis in Animals
+Absolute erythrocytosis, defined as increased RBC numbers because of increased RBC mass, develops from primary or secondary causes.
+Primary erythrocytosis (polycythemia vera) is a myeloproliferative disease resulting from the autonomous clonal expansion of hematopoietic progenitor cells that has been reported in dogs, cats, horses, and ferrets. RBC production is dramatically increased, whereas serum erythropoietin (EPO) activity typically is low or low-normal.
+Secondary erythrocytosis, in contrast, generally develops from excessive production of EPO. If EPO is secreted because of systemic hypoxia, then the resultant erythrocytosis is an appropriate compensatory response. This may occur with severe pulmonary disease or heart anomalies resulting in right-to-left shunting with blood bypassing the lungs (eg, reversed patent ductus arteriosus, tetralogy of Fallot).
+If EPO production increases without systemic hypoxia, then the response is physiologically inappropriate. EPO-secreting tumors of the kidneys or other organs, or non-neoplastic renal disorders resulting in local hypoxia with EPO production, may cause inappropriate erythrocytosis.
+Another type of secondary erythrocytosis, called endocrinopathy-associated erythrocytosis, results from hormones other than EPO (eg, cortisol, testosterone, thyroxine, growth hormone) that stimulate erythropoiesis. Such erythrocytosis in dogs with hyperadrenocorticism or in cats with hyperthyroidism or acromegaly is typically mild and insufficient to cause clinical signs.
+Clinical Findings of Erythrocytosis in Animals
+The clinical signs of relative erythrocytosis are typically those of dehydration (tacky mucous membranes, prolonged skin tent) and the underlying disease process that led to the dehydration (eg, vomiting, diarrhea). Clinical signs of absolute erythrocytosis are generally not observed until a PCV exceeds 60%.
+The following clinical signs are associated with more severe absolute erythrocytosis:
+red mucous membranes
+bleeding tendencies
+neurologic disturbances (ataxia, weakness, seizures, blindness, behavioral change)
+On retinal examination, dilated, tortuous vessels may be visualized. These collective clinical features are attributed to hyperviscosity from the increased RBC mass. The hyperviscosity slows blood flow and may increase the likelihood of thrombosis and rupture of small blood vessels.
+Diagnosis of Erythrocytosis in Animals
+Clinical evaluation
+CBC
+The dehydration and hemoconcentration of relative erythrocytosis may be identified by the following:
+clinical findings (tacky mucous membranes, loss of skin turgor)
+laboratory variables (hyperproteinemia, prerenal azotemia)
+response to rehydration
+Excitable animals with mild erythrocytosis attributed to splenic contraction usually have normal PCV on subsequent blood samples collected less stressfully. Sighthounds (eg, Greyhounds) normally have mild erythrocytosis compared with standard canine reference intervals.
+With absolute erythrocytosis, serum EPO determinations could potentially differentiate primary from secondary causes. However, considerable overlap exists in EPO activity among healthy animals, animals with primary erythrocytosis, and animals with secondary erythrocytosis. Furthermore, current availability of validated EPO assays for companion animals is limited.
+Routine examination of bone marrow is NOT useful to distinguish primary from secondary erythrocytosis because both conditions show erythroid hyperplasia. As a result, primary erythrocytosis usually is diagnosed by eliminating secondary causes.
+To investigate types of secondary erythrocytosis, assessment of tissue oxygenation may be helpful. Arterial blood pO2 < 80 mmHg and pulse oximetry oxygen saturation < 90%–95% are consistent with the hypoxemia and tissue hypoxia of appropriate secondary erythrocytosis.
+Pearls & Pitfalls
+Examination of heart and lungs by auscultation, radiography, electrocardiography, and echocardiography may reveal the underlying problem. Selective angiography or contrast echoaortography may be needed to confirm right-to-left cardiac shunting.
+If systemic hypoxia is not present, then locating the potential source of inappropriate EPO production is facilitated by physical and neurologic examinations, abdominal ultrasonography, IV urography, and CT or MRI.
+Treatment of Erythrocytosis in Animals
+Supportive care
+Condition-dependent treatment
+For relative erythrocytosis due to dehydration, treatment consists of rehydration with IV fluids and treating the underlying cause.
+For primary erythrocytosis (polycythemia vera), treatment initially consists of phlebotomy (10–20 mL/kg to decrease the PCV to ∼50%–60%) with simultaneous fluid replacement.
+Periodic phlebotomy with or without extra-label administration of hydroxyurea (30 mg/kg every 24 hours, PO, for 7–10 days, then 15 mg/kg every 24 hours, PO, titrated to lowest effective dose/frequency) has been advocated in affected dogs and cats. RBC, WBC, and platelet counts should be monitored during hydroxyurea treatment.
+For inappropriate secondary erythrocytosis, EPO-secreting tumors should be managed with surgery, chemotherapy, or radiation therapy. Phlebotomy to normalize the PCV helps decrease hyperviscosity.
+For appropriate secondary erythrocytosis, the underlying problem should be addressed. If corrective treatment of that disease process is not feasible, clinical signs associated with hyperviscosity may be alleviated by judicious phlebotomy (5–10 mL/kg) and treatment with hydroxyurea.
+However, because this type of erythrocytosis is a compensatory response to hypoxia, the PCV should be maintained at values above normal reference intervals.
+Key Points
+Erythrocytosis can be classified into relative (dehydration, splenic contraction) and absolute (primary or secondary) causes.
+Secondary erythrocytosis results from physiologically appropriate (certain cardiac and pulmonary disorders) and inappropriate (EPO-secreting tumors of the kidneys or other organs, or some non-neoplastic renal conditions) causes.
+Primary erythrocytosis (polycythemia vera) results from the autonomous clonal proliferation of hematopoietic stem cells that require little to no EPO.
+Clinical signs of primary erythrocytosis are attributed to increased blood viscosity and include neurologic disturbances and bleeding tendencies.
+Primary erythrocytosis is usually diagnosed by excluding secondary causes, and it is typically treated by phlebotomy and hydroxyurea.
+For More Information
+Also see our pet owner content for information on erythrocytosis and polycythemia in dogs and cats.

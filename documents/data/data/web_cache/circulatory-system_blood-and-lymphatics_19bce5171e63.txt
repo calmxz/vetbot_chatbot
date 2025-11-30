@@ -1,0 +1,9 @@
+Blood type testing is performed to help decrease the risk of immunological transfusion reactions in dogs and cats. Testing can also be performed in breeding cats to decrease the risk of neonatal isoerythrolysis.
+Courtesy of Dr. Shauna Blois.
+Courtesy of Dr. Shauna Blois.
+Plasma or serum from an individual with known alloantibodies can be used for slide or tube typing. Commercial antibodies can be used at reference laboratories for typing. Commercially available point-of-care typing options exist and have good agreement with laboratory methods.
+Card-based typing is available for dog erythrocyte antigen (DEA) 1, 4, and 5, as well as Dal antigen of dogs, and for AB typing of cats. Lyophilized monoclonal antibody in the card wells causes agglutination to indicate a positive blood type result for a patient (see card-based typing image).
+Immunochromatographic membrane test kits contain a membrane embedded with the relevant monoclonal antibody and are used in dogs for detection of DEA 1, including weak DEA 1 expression, and in cats for detection of AB (see immunochromatographic typing image).
+For More Information
+Cornell University College of Veterinary Medicine. Blood types. eClinPath. 2024.
+Also see pet owner content regarding blood groups and blood transfusions in dogs and cats.

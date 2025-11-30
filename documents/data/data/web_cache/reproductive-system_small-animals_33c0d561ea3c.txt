@@ -1,0 +1,43 @@
+Orchitis is inflammation of the testis; epididymitis is inflammation of the epididymis. These conditions frequently occur together (epididymo-orchitis) and can be acute or chronic. Orchitis and epididymitis are rare in cats, unless due to trauma (usually bite wounds).
+Etiology of Orchitis and Epididymitis in Dogs and Cats
+Orchitis and epididymitis are usually infectious (bacterial, fungal, or viral); however, noninfectious immune-mediated orchitis can occur. The source of infection can be hematogenous or urological or by direct inoculation.
+Noninflammatory causes of orchitis, which can result in testicular atrophy, include previous exposure to excessive heat or cold, cytotoxic agents, and hormonal causes (eg, glucocorticoids, estrogen from Sertoli cell tumor, iatrogenic exposure to human transdermal hormone replacement therapy, phytoestrogens, and microplastics in the environment [1]).
+Clinical Findings of Orchitis and Epididymitis in Dogs and Cats
+Clinical signs of orchitis and epididymitis include pain and enlargement of the testis and/or epididymis. Semen quality is affected, and libido can be poor. Scrotal edema and excoriation of the scrotal skin may also be present (see inflamed scrotum and excoriated scrotum images).
+Courtesy of Dr. Autumn Davidson.
+Courtesy of Dr. Autumn Davidson.
+Alternatively, pet owners may interpret epididymal prominence as a mass when testicular atrophy is marked. These cases, especially if bilateral, usually present with a history of semen abnormalities and subfertility.
+Diagnosis of Orchitis and Epididymitis in Dogs and Cats
+In patients with suspected orchitis and epididymitis, scrotal contents (including the testis and epididymis) should be carefully palpated to identify which structures are involved; however, patient discomfort and edema can make palpation difficult.
+Ultrasonography, with sedation or analgesia as needed, can help to identify and further evaluate the affected structures using direct diagnostic tests, such as fine-needle aspiration (FNA) for cytology, sterile swabs for culture, and tissue biopsy for histopathology. Ultrasonography with color flow Doppler can also help rule out differential diagnoses, such as testicular torsion, incarcerated scrotal hernia, hematoma, and neoplastic mass. Ischemic damage secondary to testicular torsion or a strangulated hernia becomes irreversible within hours.
+Abscesses can also be identified with ultrasonography. (See scrotal edema, testicular abscess, epididymal abscess, and enlarged epididymis ultrasonographic images.)
+Sagittal ultrasonogram of the scrotum of a dog with epididymo-orchitis. Note the ill-defined anechoic region (blue dot) suggestive of edema.
+Courtesy of Dr. Autumn Davidson.
+Sagittal ultrasonogram of affected testis in a dog with orchitis. Note the intratesticular mass (cursors) occupying the caudal aspect of the testis. Fine-needle aspiration identified the mass as an abscess.
+Courtesy of Dr. Autumn Davidson.
+Sagittal ultrasonogram of the caudal pole of the testis of a dog with an epididymal mass. Note the enlarged epididymis with a focal hypoechoic center (cursors and white dots). Fine-needle aspiration identified the mass as an abscess.
+Courtesy of Dr. Autumn Davidson.
+Transverse ultrasonogram of the scrotum of a dog with chronic epididymitis. Note the enlarged epididymis (four cursors), which has mixed echogenicity.
+Courtesy of Dr. Autumn Davidson.
+Diagnostic testing in dogs with suspected orchitis and epididymitis should include evaluation for Brucella canis infection because of the zoonotic potential of brucellosis.There is no successful treatment for B canis infection; castration and isolation are advised, and euthanasia should be considered.
+Pearls & Pitfalls
+Cytological examination of semen with bacterial and mycoplasmal culture are helpful; however, semen collection from patients that are ill or in pain may be difficult, and contamination from normal urethral flora is inevitable. Testicular or epididymal specimens for cytology and culture are best obtained by ultrasonography-guided FNA with appropriate sedation or analgesia.
+Testicular biopsy for histological evaluation and bacterial culture may be performed, if needed, after less-invasive diagnostic tests have been done. Because of the greater risk of granuloma formation, epididymal biopsy is rarely done.
+If future reproduction is not important, specimens can easily be obtained after castration and possible scrotal ablation.
+Histological evaluation may suggest a nonseptic, primary immune-mediated process (eg, lymphoplasmacytic infiltration). Chronic brucellosis can cause lymphoplasmacytic inflammation as well.
+Treatment of Orchitis and Epididymitis in Dogs and Cats
+If maintaining fertility is not important, castration is the treatment of choice for orchitis and epididymitis. Lesions of the scrotal skin are treated in the same way as other skin lesions; however, veterinarians should keep in mind that scrotal skin resection can permit thermal damage to the testes by bringing them closer to the abdominal wall.
+In cases of unilateral involvement, hemicastration may preserve fertility. In addition, in the case of a functional testicular tumor, the deleterious effect of estrogen on the nontumorous testicle is eliminated. The unaffected testis and/or epididymis must be protected against damage from heat, swelling, and direct extension of the disease process.
+As indicated on the basis of bacterial culture results, appropriate systemic antimicrobials should be administered for 3–4 weeks. The potential for prostate involvement by direct extension dictates the use of antimicrobials with good prostatic penetration (fluoroquinolones) once inflammation has subsided.
+All antifungal agents interfere with spermatogenesis, either directly or indirectly, and should only be used if fungal infection is confirmed by cytology or culture results.
+Even when a causative infectious organism has been identified and appropriate antimicrobial treatment has been administered, the prognosis for maintaining fertility in patients with infectious orchitis or epididymitis is guarded because of the potential for the following: irreversible damage and thermal insult to the germinal epithelium, tubular degeneration, development of immune-mediated orchitis (secondary to breakdown of the blood-testis barrier), and obstruction of the duct system. These sequelae may take months to develop.
+Treatment of immune-mediated orchitis with immunosuppressive drugs can be problematic because immunosuppressive treatment can arrest spermatogenesis. Glucocorticoids inhibit the hypothalamic-pituitary-gonadal axis and, as a result, can lead to testicular atrophy and infertility.
+Key Points
+Orchitis and epididymitis commonly occur together.
+Testing for brucellosis is recommended for any dog affected with orchitis and epididymitis.
+In valuable breeding animals, proper medical treatment can preserve their genetic contribution; if maintaining fertility is not important, castration is the treatment of choice.
+For More Information
+Mason SJ. An update on male canine infertility. Vet Clin North Am Small Anim Pract. 2023;53(5):1063-1081.
+Also see pet owner content on reproductive disorders of male dogs and male cats.
+References
+Hu CJ, Garcia MA, Nihart A, et al. Microplastic presence in dog and human testis and its potential association with sperm count and weights of testis and epididymis. Toxicol Sci. 2024;200(2):235-240. doi:10.1093/toxsci/kfae060

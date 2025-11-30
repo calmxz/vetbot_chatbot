@@ -1,1 +1,11 @@
-".env" 
+".env"
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ChromaDB
+chroma_db/ 

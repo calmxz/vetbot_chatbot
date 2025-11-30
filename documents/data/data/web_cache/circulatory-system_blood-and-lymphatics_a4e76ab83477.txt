@@ -1,0 +1,104 @@
+Congenital Coagulation Protein Disorders in Animals
+With a severe deficiency or functional defect of coagulation proteins, clinical signs appear at an early age. Marked decreases in activity of coagulation proteins essential to hemostasis are usually fatal. With < 1% of normal activity, animals can be stillborn or die shortly after birth as a result of massive hemorrhage.
+Insufficient production of coagulation proteins or limited access to vitamin K by the immature neonatal liver can exacerbate a coagulation defect.
+If activity of any particular coagulation protein is 5–10% of normal, the neonate could survive; however, signs of a congenital coagulation disorder usually appear before the age of 6 months. It is during this time—when teething and routine procedures (eg, vaccination, castration, ovariohysterectomy) are usually performed—that a bleeding tendency can become apparent.
+Most of the congenital coagulation protein disorders reported in domestic animals are deficiencies or abnormalities of a single factor.
+Factor I (Fibrinogen) Deficiency
+Primary fibrinogen deficiency can be divided into afibrinogenemia, hypofibrinogenemia, and dysfibrinogenemia.
+Congenital afibrinogenemia has been reported in a family of Saanen dairy goats. It has rarely been described in dogs and cats.
+Hypofibrinogenemia, accompanied by severe bleeding, has been reported in Saint Bernards and Vizslas and in one mixed-breed dog; the activated clotting time (ACT), activated partial thromboplastin time (aPTT), prothrombin time (PT), and thrombin time (TT) were prolonged.
+Dysfibrinogenemia has been reported in an inbred family of Borzois. The ACT, aPTT, PT, and TT were prolonged; however, the presence of fibrinogen was revealed by quantitative testing. Affected dogs had mild bleeding episodes with epistaxis and lameness, but trauma or surgery resulted in life-threatening bleeding. To stop the bleeding, IV administration of fresh frozen plasma or cryoprecipitate is the best treatment.
+Factor II (Prothrombin) Disorders
+Factor II (prothrombin) disorders are rare.
+Boxers have been reported to have normal concentrations of abnormally functioning prothrombin. The defect is inherited as an autosomal recessive trait.
+A disorder of factor II has been reported in English Cocker Spaniels.
+Clinical signs in affected puppies (epistaxis and gingival bleeding) decrease with age, and adults bruise easily or have dermatitis. In affected puppies, TT is normal, but ACT, aPTT, and PT are prolonged.
+The treatment is transfusion of fresh frozen plasma or fresh whole blood, if RBCs are needed.
+Factor VII Deficiency
+Factor VII deficiency has been reported in Beagles, English Bulldogs, Alaskan Malamutes, Alaskan Klee Kais, Miniature Schnauzers, Boxers, and mixed-breed dogs.
+Factor VII deficiency is inherited in an autosomal pattern with incomplete dominance.
+Usually, factor VII deficiency is not associated with spontaneous bleeding; however, affected dogs can have bruising or prolonged bleeding after surgery. Prolonged postpartum hemorrhaging has been reported.
+Factor VII deficiency is usually diagnosed coincidentally when coagulation screening tests are performed. The PT is prolonged, whereas aPTT and other test results are normal.
+Factor VIII Deficiency (Hemophilia A)
+Factor VIII deficiency (hemophilia A) is the most common inherited bleeding disorder in dogs and cats. It has also been reported in several breeds of horses, including Arabians, Standardbreds, Quarter Horses, and Thoroughbreds.
+There is an X-linked pattern of inheritance, so usually females are subclinically affected carriers and males are affected. Rarely, in highly inbred families, breeding of a carrier female with an affected male can produce affected female offspring.
+In puppies with factor VIII deficiency, prolonged bleeding occurs from the umbilical vessels after birth; from the gingiva during tooth eruption; and after surgery such as tail docking, dewclaw removal, or ear cropping.
+Hemarthrosis accompanied by intermittent lameness, spontaneous hematoma formation, and hemorrhagic body cavity effusions also are common clinical findings in dogs with < 5% of normal factor VIII activity. Animals with 5–10% of normal activity often do not bleed spontaneously but exhibit prolonged bleeding after trauma or surgery. Affected cats and sometimes small dogs can show prolonged bleeding after surgery or trauma; however, rarely do they bleed spontaneously, probably because of their agility and light weight.
+Affected animals usually have very low concentrations of factor VIII (< 10%) and prolonged ACT and aPTT. Von Willebrand factor (vWF) concentrations are greater than or equal to normal. Carrier animals have intermediate concentrations of factor VIII (40–60%), and results of coagulation screening tests are usually normal. Care should be taken in diagnosis if animals are < 6 months old, because of possible low production of coagulation factors by an immature liver. Usually, results of coagulation screening tests are normal in carrier animals.
+Treatment of bleeding diatheses requires repeated transfusions of cryoprecipitate or fresh frozen plasma (10 mL/kg, every 8–12 hours) until bleeding has been controlled. Unless the patient has clinical signs of anemia, fresh frozen plasma or cryoprecipitate is preferable to whole blood because of possible sensitization to RBC antigens with repeated transfusions.
+Factor IX Deficiency (Hemophilia B)
+Factor IX deficiency (hemophilia B) is diagnosed less often than factor VIII deficiency. It has been reported in several breeds of purebred dogs, a mixed-breed dog, a family of Siamese-cross cats, and a family of British Shorthair cats. The defect is X-linked with carrier females and affected males; however, affected females can occur in closely inbred families.
+Clinical signs of factor IX deficiency are similar to those of factor VIII deficiency. Some animals show no signs until trauma or surgery. The ACT and aPTT are prolonged. Carrier animals with 40–60% of normal factor IX activity are usually subclinically affected, and results of coagulation screening tests are normal.
+Treatment of factor IX deficiency requires transfusion with fresh frozen plasma (10 mL/kg, every 12 hours) until bleeding resolves. Often, hemorrhage into the abdomen, thorax, or CNS, or between muscle fascial planes, occurs and can be undetected until a crisis.
+Factor X Deficiency
+Factor X deficiency has been reported in a single family of American Cocker Spaniels; the inheritance pattern is autosomal dominant with variable penetrance (1).Factor X deficiency has also been reported in a Chihuahua and a Jack Russell Terrier (2, 3).
+Homozygotes usually die early in life or are stillborn because of massive internal hemorrhage. Heterozygotes have mild to severe bleeding problems.
+ACT, aPTT, and PT are usually prolonged when animals have < 30% normal factor X activity.
+Transfusions with fresh or fresh frozen plasma are required to control hemorrhage.
+Factor XI Deficiency
+Factor XI deficiency has been recognized in Kerry Blue Terriers, a female English Springer Spaniel, a Great Pyrenees dog, Weimaraners, and Holstein cattle.
+Inheritance is autosomal; however, whether the gene is dominant or recessive is not known. A single case involving an adult cat that had epistaxis and systemic lupus erythematosus was attributed to a circulating inhibitor of factor XI.
+Mild deficiencies usually go undetected. In severe deficiencies with factor XI at 30–40% or less of normal activity, mild prolonged bleeding can occur after trauma or surgery.
+Bleeding tendencies in patients with factor XI deficiency usually are not immediate, but delayed 3–4 days. ACT and aPTT are usually prolonged.
+Transfusion with fresh frozen plasma (10 mL/kg, IV, once) is sufficient to stop bleeding for up to 3 days.
+Factor XII (Hageman Factor) Deficiency
+In dogs, factor XII (Hageman factor) deficiency has been reported in German Shorthaired Pointers, Standard Poodles, and a family of Miniature Poodles; in cats it is also commonly reported. Affected animals do not have clinical bleeding problems. This deficiency is usually diagnosed coincidentally when coagulation screening tests show prolonged aPTT.
+Humans with factor XII deficiency do not have bleeding problems; however, they do show a predisposition to thrombosis or infections, which is attributed to the normal role of factor XII in fibrinolysis and complement activation. Tendencies for thrombosis or infection have not been reported in animals.
+Factor XII deficiency has been found to coexist with von Willebrand disease in dogs and with factor IX deficiency in cats. In affected animals, bleeding tendencies are not exacerbated (4, 5).
+Factor XII is not present in the plasma of birds, marine mammals, and reptiles, without untoward effects.
+Deficiency of Factors II, VII, IX, and X
+Deficiency of factors II, VII, IX, and X has been described in Devon Rex cats that experienced bleeding, most commonly after surgery. Bleeding can be controlled by vitamin K administration, and some of these cats appear to overcome this bleeding tendency as adults.
+Prekallikrein Deficiency
+Prekallikrein deficiency has been reported in Poodles, a family of miniature horses, and a family of Belgian horses. Clinical bleeding problems are not usually apparent; however, excessive bleeding after castration was reported in one horse (6). The diagnosis is usually made coincidentally when coagulation screening tests are performed. ACT and aPTT are usually prolonged.
+Poor Clot Strength
+Poor clot strength in Greyhounds has been found to cause delayed postoperative bleeding.Viscoelastic testing studies comparing Greyhound and non-Greyhound dogs have shown that Greyhounds have longer times to initial and maximal clot formation, lower maximal amplitude (7, 8), and faster clot breakdown (8). Epsilon-aminocaproic acid is effective at preventing or stopping bleeding in affected dogs (9).
+Acquired Coagulation Protein Disorders in Animals
+Liver Disease
+Most coagulation proteins are produced primarily in the liver. Therefore, liver disease characterized by necrosis, inflammation, neoplasia, or cirrhosis often is associated with decreased production of coagulation proteins, anticoagulants, and fibrinolytic proteins. Because the various coagulation proteins have a relatively short half-life (4 hours–2 days), mild to marked deficiencies secondary to severe hepatopathies can result.
+aPTT and/or PT is prolonged in 50–75% of dogs with severe liver disease (10), meaning that the factor activity is < 30% of normal. Because of the wide-reaching impact of liver disease on many aspects of hemostasis, it is difficult to predict bleeding tendencies in affected dogs. Coagulation tests are often performed before liver biopsy.
+Severe hepatic diseases can also lead to DIC. Activities of fibrinogen (an acute phase reactant) and vWF (which is produced extrahepatically) may be increased in some individuals with liver disease.
+Vitamin K Deficiency
+Vitamin K is solubilized in mixed micelles before its passive diffusion across the brush border of the intestines. Fat malabsorption associated with inadequate amounts of bile salts (as with biliary obstruction), lymphangiectasia, or severe villous atrophy can result in vitamin deficiency and coagulopathy because the functional vitamin K−dependent factors II, VII, IX, and X cannot undergo carboxylation necessary for their activation.
+Ingestion of Anticoagulant Rodenticides
+Ingestion of anticoagulant rodenticides causes a coagulopathy because functional vitamin K−dependent factors cannot undergo carboxylation necessary for their activation. Inactive precursor coagulation factors II, VII, IX, and X are still produced by the liver; however, gamma-carboxylation of the inactive precursors does not occur, because the rodenticide inhibits the epoxide reductase enzyme required for recycling active vitamin K.
+Anticoagulant rodenticide ingredients are classified by generation, with first-generation and intermediate-generation poisons necessitating multiple feedings to kill the target species. Second-generation anticoagulant rodenticides are more potent and kill in a single feeding.
+First-generation anticoagulant rodenticides include the coumarin class (containing ingredients like warfarin, pindone, coumafuryl, and coumachlor) and the indanedione class (containing ingredients like chlorophacinone and diphacinone). These two classes are derived from different chemical structures.
+Second-generation anticoagulant rodenticides include brodifacoum, bromadiolone, difenacoum, and difethialone.
+The half-lives of second-generation anticoagulant rodenticides are much longer; they depress clotting factors for 2–4 weeks, compared to the 7–10 days of depression produced by first- and intermediate-generation anticoagulant rodenticides.
+Animals that ingest anticoagulant rodenticides can develop bruising or hematomas over pressure points or in the nasopharynx after minor trauma from ingested hard or sharp particles. Bleeding into body cavities can occur, resulting in acute collapse. Often, affected animals do not bleed within the first 24 hours after ingesting the toxin. aPTT, PT, and ACT are usually prolonged.
+Pearls & Pitfalls
+Factor VII has the shortest half-life of the vitamin K−dependent coagulation proteins; therefore, PT is often abnormal before other tests and can be used to monitor response to treatment.
+In cases of acute ingestion, emetics, absorbents, and cathartics are administered to minimize absorption. Vitamin K therapy is often initiated in animals exposed to anticoagulant rodenticides even if they do not show clinical signs.
+Pearls & Pitfalls
+The recommended treatment for anticoagulant rodenticide poisoning is to administer phytonadione (vitamin K1) at an initial dosage of 2.5–3 mg/kg, SC, once, followed by 1.25–2.5 mg/kg, PO, every 12 hours for 14–28 days. PT should be measured 48 hours after completion of the initial course, and if it has not yet normalized, treatment should be continued for another week (followed by measurement of PT again 48 hours later).
+Intoxication with long-acting, second-generation anticoagulant rodenticides is more common, so shorter treatment durations should be considered only if the animal is known to have ingested a short-acting, first-generation anticoagulant rodenticide. IV administration of vitamin K1 is not recommended, because anaphylactic reactions can result. Administration of vitamin K3 is not useful. Treatment protocols are similar for most domestic species.
+In addition to instituting vitamin K therapy, clinically affected (eg, bleeding) animals could require treatment with blood products. The vitamin K–dependent clotting factors can be transfused via frozen, fresh frozen, or fresh plasma. RBCs can be delivered to clinically anemic patients as packed RBCs. Finally, clotting factors combined with RBCs can be delivered in fresh or stored whole blood.
+Ingestion of Moldy Sweet Clover
+Dicumarol formation in moldy sweet clover antagonizes vitamin K as described above for anticoagulant rodenticides. Ingestion can cause hemorrhage. Cattle are most commonly affected; horses, sheep, pigs, and other species can also be affected (see Sweet Clover Poisoning). Treatment is similar to that for anticoagulant rodenticide poisoning, but the duration is short: phytonadione (vitamin K1) administered at 1–1.5 mg/kg, SC, every 24 hours for 2–3 days.
+Disseminated Intravascular Coagulation
+DIC is not a primary disease; rather it is a syndrome that occurs secondary to numerous underlying diseases, such as bacterial, viral, rickettsial, protozoal, or parasitic diseases; heat stroke; burns; neoplasia; or severe trauma. Commonly, the underlying disease causes sepsis or systemic inflammatory response syndrome (SIRS), an uncontrolled mixed pro- and anti-inflammatory state characterized by massive activation and consumption of coagulation proteins, endogenous inhibitors, fibrinolytic proteins, and platelets.
+In the initial stage of DIC, the animal is hypercoagulable because of circulating inflammatory mediators that activate hemostasis via increased exposure of TF and inhibitor consumption. With time, consumption of coagulation factors can lead to a hypocoagulable state with overt bleeding.
+Because of the progressive nature of DIC, clinical findings vary considerably and range from no overt signs of disease, accompanied by subtle, if any, changes in routine hemostasis parameters (aPTT, PT, D-dimer, fibrinogen, and platelet count), to clinical signs of organ failure associated with microvascular thrombosis in vital organs, finally culminating in overt bleeding. The latter has historically been considered the typical DIC case, in which there are also pronounced alterations in hemostasis parameters and a drop in platelet count.
+Viscoelastic testing can differentiate the DIC stage in dogs. Dogs in the hypercoagulable stage have a much better chance of survival than do dogs in the hypocoagulable stage. This higher chance of survival is likely because of early and aggressive intervention through supportive and/or antithrombotic therapy while the underlying disease is treated. Aggressive treatment likely minimizes thromboembolic complications and delays or even prevents progression to overt signs.
+Pearls & Pitfalls
+In veterinary medicine, laboratory diagnosis of DIC is not standardized, and hemostatic function test results are not consistent; however, diagnosis of DIC is often based on the presence of three or more abnormal hemostatic parameters, such as aPTT, PT, fibrinogen concentration, D-dimer concentration, platelet count, and RBC morphology, along with a predisposing underlying disease. The increasing availability of viscoelastic testing has made definitive diagnosis of DIC possible. Postmortem fibrinolysis makes necropsy an insensitive diagnostic criterion.
+Treatment of DIC must be directed first at diagnosing and treating the underlying disease. In addition, if the patient is hypercoagulable, heparin is indicated. If hypocoagulability and bleeding are present, heparin is no longer indicated; instead, fresh frozen plasma should be administered. Supportive care with fluids and possibly plasma expanders helps to maintain effective circulating volume.
+Key Points
+Animals with clotting factor abnormalities are likely to develop hematomas or bleed into body cavities or joints.
+Important inherited factor abnormalities often become evident at teething or after surgery.
+Treatment of anticoagulant rodenticide toxicosis can require 4–6 weeks of treatment with vitamin K1.
+DIC is always secondary to another condition, and treatment must address the underlying disorder as well as the coagulopathy.
+For More Information
+Animal Health Diagnostic Center, Cornell University: Comparative Coagulation
+Also see pet owner content regarding coagulation disorders of dogs, cats, and horses.
+References
+Dodds WJ. Canine factor X (Stuart-Prower factor) deficiency. J Lab Clin Med. 1973;82(4):560-566.
+Heuss J, Weatherton L. A case of factor X deficiency in a Chihuahua dog. Can Vet J. 2016;57(8):865-868.
+Cook AK, Werner LL, O'Neill SL, Brooks M, Feldman BF. Factor X deficiency in a Jack Russell terrier. Vet Clin Pathol. 1993;22(3):68-71. doi:10.1111/j.1939-165x.1993.tb00655.x
+Randolph JF, Center SA, Dodds WJ. Factor XII deficiency and von Willebrand's disease in a family of miniature poodle dogs. Cornell Vet. 1986;76(1):3-10.
+Dillon AR, Boudreaux MK. Combined factors IX and XII deficiencies in a family of cats. J Am Vet Med Assoc. 1988;193(7):833-834.
+Geor RJ, Jackson ML, Lewis KD, Fretz PB. Prekallikrein deficiency in a family of Belgian horses. J Am Vet Med Assoc. 1990;197(6):741-745. doi:10.2460/javma.1990.197.06.741
+Vilar P, Couto CG, Westendorf N, Iazbik C, Charske J, Marín L. Thromboelastographic tracings in retired racing Greyhounds and in non-Greyhound dogs. J Vet Intern Med. 2008;22(2):374-379. doi:10.1111/j.1939-1676.2008.0061.x
+Chang J, Jandrey KE, Burges JW, Kent MS. Comparison of healthy blood donor Greyhounds and non-Greyhounds using a novel point-of-care viscoelastic coagulometer. J Vet Emerg Crit Care (San Antonio). 2021;31(6):766-772. doi:10.1111/vec.13129
+Marín LM, Iazbik MC, Zaldivar-Lopez S, Guillaumin J, McLoughlin MA, Couto CG. Epsilon aminocaproic acid for the prevention of delayed postoperative bleeding in retired racing greyhounds undergoing gonadectomy. Vet Surg. 2012;41(5):594-603. doi:10.1111/j.1532-950X.2012.00965.x
+Badylak SF, Dodds WJ, Van Vleet JF. Plasma coagulation factor abnormalities in dogs with naturally occurring hepatic disease. Am J Vet Res. 1983;44(12):2336-2340.

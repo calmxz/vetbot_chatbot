@@ -1,0 +1,8 @@
+Crossmatching helps identify immunological (antigen-antibody) incompatibilities between a donor and a recipient:
+The major crossmatch test combines the donor's erythrocytes with the recipient's plasma (or serum) to assess for the presence of recipient alloantibodies that will destroy the donor's RBCs.
+The minor crossmatch test combines the donor's plasma (or serum) with the recipient's RBCs, assessing for the risk of transfusing alloantibodies from the donor that will destroy the recipient's RBCs.
+Crossmatching can be performed in reference laboratories or in clinics manually using a tube or slide method. Point-of-care gel and immunochromatographic commercial crossmatch options are also available and have variable reported agreement with laboratory methods.
+Incompatible donor-recipient pairings result in agglutination and entrapment of RBCs within the gel matrix or on the immunochromatographic membrane, signifying a positive (incompatible) reaction (see gel crossmatch test image).
+Courtesy of Dr. Shauna Blois.
+Crossmatching is not required before a first transfusion in a dog, due to the lack of naturally occurring alloantibodies (NOAbs), but is strongly recommended > 4 days after a subsequent transfusion.
+Due to the presence of highly immunogenic NOAbs in cats, major crossmatching is strongly recommended both before a first transfusion in cats and then > 2 days after any subsequent transfusion.

@@ -1,0 +1,94 @@
+Gastric dilation and volvulus (GDV) is an acute, life-threatening condition that primarily affects large- and giant-breed dogs. Immediate medical and surgical intervention is required.
+Etiology and Pathophysiology of Gastric Dilation and Volvulus in Small Animals
+Gastric dilation and volvulus (GDV) occurs when the stomach dilates with gas and fluid (gastric dilation) and rotates along its axis (volvulus). The etiological basis of GDV has not been fully elucidated and is likely multifactorial.
+It is unclear whether dilation or volvulus occurs first during the development of GDV, although it is postulated that volvulus occurs first. Dilation of the stomach results from accumulation of gas and/or fluid, and volvulus prevents the normal release of these contents.
+During volvulus, the pylorus and duodenum first migrate ventrally and cranially. Viewed from a caudal to cranial direction, the stomach may rotate clockwise from 90° to 360° about the distal esophagus (see image of GDV). This rotation displaces the pylorus to the left of midline, entrapping the duodenum between the distal esophagus and the stomach. Depending on the degree of volvulus, the spleen may vary in position from the left caudodorsal to the right craniodorsal abdomen. A volvulus of > 180° causes occlusion of the distal esophagus.
+Courtesy of Dr. Gheorghe Constantinescu.
+After volvulus of the stomach, gas is trapped within this compartment, and intragastric pressure rises. Gastric outflow obstruction may be caused by compression of the duodenum by the distending stomach against the body wall, or it may be due to the presence of neoplasia, a gastric foreign body, or pyloric stenosis.
+Splenic entrapment often accompanies GDV.
+The progressively distending stomach compromises venous return by compression of the caudal vena cava and portal veins. Sequestration of blood in the dilated splanchnic, renal, and hindlimb capillary beds results in portal hypertension, GI tract ischemia, hypovolemia, and systemic hypotension. These factors combine with loss of fluid in the obstructed stomach and lack of water intake to produce clinical signs of hypovolemic shock.
+Affected dogs are at risk of endotoxemia, hypoxemia, metabolic acidosis, and disseminated intravascular coagulation.
+Epidemiology of Gastric Dilation and Volvulus in Small Animals
+Genetics are a proven risk factor for GDV, including deep/narrow thoracic conformation and a first-degree relative with a history of the problem.
+Breeds at risk of GDV include Great Danes, German Shepherd Dogs, Irish Setters, Gordon Setters, Weimaraners, Saint Bernards, Standard Poodles, and Bassett Hounds.
+No sex predisposition exists.
+Dogs appear to be at increased risk with advancing age.
+Other factors that have been associated with GDV include lean body condition, stress, aggressive or fearful behavior, once-daily feeding, feeding only dry kibble, rapid consumption of food, previous splenectomy, and increased gastric ligament laxity.
+Clinical Findings of Gastric Dilation and Volvulus in Small Animals
+Clinical signs in dogs with gastric dilation and volvulus may include nonproductive retching, hypersalivation, and restlessness. Acute or progressive abdominal distention may be noted, or the affected dog may be found recumbent and depressed with an enlarged abdomen.
+Physical examination findings include an enlarged or tympanic abdomen. Abdominal pain and/or splenomegaly may be appreciated on abdominal palpation.
+Progression from gastric dilation to volvulus predisposes affected animals to hypovolemic shock. Clinical signs of shock are common and can include weak peripheral pulses, tachycardia, prolonged capillary refill time, pale mucous membranes, and dyspnea. An irregular heart rate and pulse deficits indicate the presence of a cardiac arrhythmia.
+Additionally, the expanding stomach may compress the thoracic cavity and inhibit diaphragmatic movement, leading to respiratory distress.
+Diagnosis of Gastric Dilation and Volvulus in Small Animals
+Signalment, history, and clinical signs
+Radiographs
+Suspicion of gastric dilation and volvulus is usually high after considering history, signalment, and clinical signs.
+Radiographs help distinguish simple gastric dilation from GDV. The preferred radiographic views for identification of GDV are right lateral and dorsoventral recumbency. Ventrodorsal positioning should be avoided because of the potential for aspiration of gastric contents. (See radiographs of GDV in a dog, lateral and ventrodorsal views.)
+Pearls & Pitfalls
+Courtesy of Dr. Thomas Gibson.
+Courtesy of Dr. Thomas Gibson.
+The right lateral radiograph usually reveals a large, distended, gas-filled gastric shadow with the pylorus located dorsal and slightly cranial to the fundus. The classic radiographic appearance is commonly referred to as a "reverse C" sign, "Popeye’s arm" sign, or "Smurf's hat" sign. The gastric shadow is frequently compartmentalized or divided by a soft tissue “shelf” between the pylorus and fundus ("double bubble" sign). This shelf is created by the folding of the pyloric antral wall onto the fundic wall. (See double bubble radiographs, lateral and ventrodorsal views.)
+Courtesy of Dr. Kevin Winkler.
+Courtesy of Dr. Kevin Winkler.
+Splenic enlargement or malposition may be noted on radiographs.
+Gas within the gastric wall is suggestive of tissue compromise, whereas free gas within the abdomen indicates gastric rupture.
+Blood should be drawn for a CBC, serum biochemical profile, and coagulation assays. In particular, PCV and concentrations of total solids, electrolytes, blood glucose, and serum lactate should be evaluated.
+Prerenal azotemia is a common finding in animals with GDV and is secondary to systemic hypotension.
+Increased CK activity may be present due to striated muscle damage.
+Serum potassium levels may increase subsequent to cell membrane damage.
+Serum ALT and AST activity may increase secondary to hypoxic hepatic damage.
+Increased lactate concentration is a common finding and is secondary to systemic hypotension and inflammation. Hyperlactatemia (> 6 mmol/L) is associated with an increased likelihood of gastric necrosis and the need for partial gastric resection.
+Pearls & Pitfalls
+Continuous ECG and blood pressure monitoring are recommended.
+Treatment of Gastric Dilation and Volvulus in Small Animals
+Supportive care for patient stabilization
+Surgical correction
+Immediate goals in treatment of GDV include restoring circulating blood volume and gastric decompression. Rapid surgical correction of the volvulus follows initial patient stabilization. Because duration of clinical signs is one risk factor for GDV-associated death, recognizing and correcting this condition immediately is imperative.
+Correction of hypovolemia is the first treatment priority and is achieved by rapid fluid replacement with one or more large-bore (16- to 18-gauge) IV catheters placed in cranial (jugular, cephalic) veins. Hindlimb vessels are avoided where possible because the dilated stomach may decrease cardiac return from the abdomen and hindlimbs. Shock rate (90 mL/kg/hour) fluid therapy with crystalloids should begin immediately. Crystalloids are recommended as the fluid of choice in most cases (1).
+Other recommended fluids include colloids (eg, hetastarch at a rate of 10–20 mL/kg, IV) and hypertonic saline (eg, 7% hypertonic saline solution with dextran 70 at a rate of 5 mL/kg over 15 minutes). Current guidelines recommend caution in the use of synthetic colloids, given their risk of inducing acute kidney injury and coagulopathy. Renal and coagulation parameters should be monitored for up to 90 days if using synthetic colloids. These fluid rates are guidelines only, and fluid resuscitation choices must be tailored to the individual patient’s needs.
+Flow-by oxygen should be provided during stabilization. Electrolyte and acid-base disturbances are usually corrected by adequate fluid therapy and gastric decompression. Because of the potential risk of endotoxemia and GI translocation of bacteria, antimicrobials (eg, ampicillin 25–50 mg/kg, IV, every 6–8 hours, continued for 2–3 days after surgery) are often given.
+Gastric decompression occurs concurrently with fluid resuscitation. Initial decompression may be performed with an orogastric tube or via trocarization. Both are effective, and the choice is usually based on experience and available equipment. Orogastric tube placement can be performed after sedation with fentanyl (2–5 mcg/kg, IV, once) or hydromorphone (0.1–0.2 mg/kg, IV infusion, to effect), with or without diazepam (0.1–0.2 mg/kg, slow IV). Agents that cause vasodilation (eg, phenothiazines) should be avoided.
+A stomach tube is measured from the incisors to the last rib and marked. The tube must not be placed beyond this marking. The lubricated tube is introduced into the mouth (often held open with a roll of tape or bandage material) while the dog is in a sitting position. Some resistance is typically encountered at the esophageal-gastric sphincter. Gentle manipulation and counterclockwise movement of the tube may be necessary to allow passage of the tube into the stomach; however, caution must be exercised, because perforating the esophagus or gastric wall with the tube is possible. Once the tube enters the stomach, gastric gas rapidly escapes.
+Successful passage of a stomach tube does not exclude the presence of volvulus. After gas and gastric contents are released from the stomach via the tube, the stomach should be lavaged with warm water to decrease the rate of redilation with gas.
+Alternatively, percutaneous gastrocentesis may be performed to release excess gastric gas. An area (10 cm × 10 cm) over the right abdominal wall caudal to the last rib and ventral to the transverse vertebral process is clipped of hair and aseptically prepared. Percussion of the area should reveal tympany; this helps avoid accidental puncture of an overlying spleen. If a tympanic structure is not appreciated, the left paracostal region should be assessed. A large-bore needle or over-the-needle catheter is introduced through the skin and body wall into the stomach at the site of greatest tympany. Decompression may also allow for subsequent passage of an orogastric tube and lavage of the stomach. Placement of an orogastric tube prior to surgery does carry a risk of inadvertent gastric perforation.
+Surgical correction of GDV rapidly follows the initial stabilization and decompression. Aseptic preparation of the abdomen is performed before surgery, and a cranioventral midline approach is performed. (See images of GDV surgery.)
+Before correcting the gastric torsion, the surgeon should decompress the stomach by placing an orogastric tube with the help of an assistant or by intraoperative gastrocentesis. The stomach is then returned to its normal position, and the stomach and spleen are evaluated for ischemia and thrombosis. Any areas of ischemic gastric wall are removed, and a splenectomy is performed if necessary. Extensive gastric necrosis and necrosis of the gastric cardia are considered poor prognostic indicators.
+The stomach is emptied, and a gastropexy is performed to decrease risk of recurrence. While gastropexy techniques have been described, the most common are the simple incisional pexy and the belt-loop gastropexy. Other described techniques include circumcostal gastropexy and tube gastrotomy.
+Dr. Kevin Winkler.
+Pre-, intra-, and postoperative monitoring should include continuous ECG, intermittent blood pressure measurement, and frequent assessment of vital parameters, PCV, and concentrations of total solids, electrolytes, blood glucose, and serum lactate.
+Postoperative medical management includes IV fluid therapy and analgesia. Food should be withheld for 12–48 hours after surgery. Antiemetic agents (metoclopramide 0.2–0.5 mg/kg, SC, or 1–2 mg/kg, IV CRI, every 24 hours; maropitant 1 mg/kg, SC, every 24 hours) may be administered in cases of continued vomiting.
+Postoperative cardiac arrhythmias are common, but treatment is often not indicated. Criteria to initiate antiarrhythmic therapy include the following:
+clinical signs of persistent tachycardia (> 140 bpm)
+hypotension (systolic arterial blood pressure < 90 mm Hg)
+hypoperfusion (prolonged capillary refill time, weak pulses)
+“R on T wave” pattern (a phenomenon that predisposes patients to ventricular fibrillation)
+multifocal ventricular premature contractions
+If antiarrhythmic therapy is indicated, a bolus of 2% lidocaine (2–4 mg/kg, slowly IV) can be administered and repeated twice in a 30-minute period if necessary; a continuous IV infusion of lidocaine (25–80 mcg/kg/minute) may be indicated to control persistent arrhythmias. Cardiac arrhythmias associated with GDV are often difficult to control. If the arrhythmia is poorly responsive to this therapy, procainamide (2 mg/kg over 5 minutes, IV bolus; up to 15 mg/kg over 10–15 minutes) should be given. Life-threatening arrhythmias may respond to 12.5% magnesium sulfate (0.2 mEq/kg or 0.1 mmol/kg, IV, over 5–15 minutes).
+Less common postoperative complications can include life-threatening conditions such as sepsis, peritonitis, and disseminated intravascular coagulation.
+Overall mortality rate associated with GDV is approximately 25–30%. Risk factors associated with short-term death from GDV include the following:
+duration of clinical signs > 6 hours before examination
+splenectomy and partial gastrectomy
+hypotension at any time during hospitalization
+peritonitis
+sepsis
+disseminated intravascular coagulation
+Preoperative plasma lactate concentration has been shown to be a good predictor of gastric necrosis and a negative prognostic indicator of outcome for dogs with GDV.
+Owners of breeds at high risk of GDV should be educated about the risk factors for, and clinical signs of, GDV and advised to seek immediate veterinary care if clinical signs are apparent.
+Recommendations for owners of high-risk breeds of dog may include the following:
+feeding multiple small meals rather than one large meal
+restriction of exercise before and after meals
+decreasing stress at mealtime
+avoiding elevated feed bowls
+not breeding dogs with a first-degree relative with a history of GDV
+Prophylactic gastropexy is currently recommended by many veterinary surgeons for breeds at risk or for dogs with relatives that have been affected by GDV. Prophylactic gastropexy can be performed at the time of sterilization surgeries (spay/neuter). Minimally invasive techniques, such as laparoscopic-assisted gastropexy, are gaining favor. A gastropexy, either prophylactically or after a GDV, has not been shown to prevent bloat (gastric dilation) but should prevent the life-threatening volvulus.
+GDV patients treated with decompression, but no surgery, have an extremely high recurrence rate.
+Key Points
+GDV is an acute, life-threatening condition that primarily affects large- and giant-breed dogs, with a mortality rate of 20–45% in treated animals.
+Stabilization of the patient by administration of shock rate fluids and decompression of the stomach is the initial objective.
+Immediate medical stabilization and surgical correction are required.
+For More Information
+Gastric dilatation–volvulus. American College of Veterinary Surgeons
+Rosselli D. Updated information on gastric dilatation and volvulus and gastropexy in dogs. Vet Clin North Am Small Anim Pract. 2022;52(2):317-337.
+Also see pet owner content regarding bloat in dogs.
+References
+2024 AAHA Fluid Therapy Guidelines for Dogs and Cats. doi:10.5326/JAAHA-MS-7444

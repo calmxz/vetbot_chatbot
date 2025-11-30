@@ -1,0 +1,121 @@
+Abbreviations
+The following abbreviations are used throughout the text; other abbreviations are expanded at first mention in each topic.
+α alpha
+β beta
+γ gamma
+δ delta
+ε epsilon
+κ kappa
+λ lambda
+μ mu
+σ sigma
+2D two-dimensional
+3D three-dimensional
+ACTH adrenocorticotropic hormone
+ad lib as much as desired
+ADP adenosine diphosphate
+ALP alkaline phosphatase
+ALT alanine aminotransferase
+AST aspartate aminotransferase
+ATP adenosine triphosphate
+bpm beats per minute
+BUN blood urea nitrogen
+C Celsius (Centigrade)
+cal calorie(s)
+CBC(s) complete blood count(s)
+CDC Centers for Disease Control and Prevention
+CFU colony-forming unit
+CK creatine kinase
+cm centimeter(s)
+CNS central nervous system
+CPK creatine phosphokinase
+CPR cardiopulmonary resuscitation
+CRI constant-rate infusion
+CSF cerebrospinal fluid
+CT computed tomography
+d day(s)
+DIC disseminated intravascular coagulation
+dL deciliter(s)
+DNA deoxyribonucleic acid
+ECG electrocardiogram
+EDTA ethylenediaminetetraacetic acid
+eg for example
+ELISA enzyme-linked immunosorbent assay
+EPA Environmental Protection Agency
+EPG eggs per gram (of feces)
+ER emergency room
+EU European Union
+F Fahrenheit
+FDA Food and Drug Administration
+fL femtoliter(s)
+ft foot, feet
+g gram(s)
+gal gallon(s)
+GGT gamma-glutamyl transferase
+GI gastrointestinal
+GnRH gonadotropin-releasing hormone
+h hour(s)
+H&E hematoxylin and eosin
+Hgb hemoglobin
+ICU intensive care unit
+ie that is
+Ig immunoglobulin (with class following: A, D, E, G, or M)
+IL interleukin
+IM intramuscular(ly)
+in inch(es)
+IP intraperitoneal(ly)
+IU international unit(s)
+IV intravenous(ly)
+J joule(s)
+kcal kilocalorie(s)
+kg kilogram(s)
+L liter(s)
+lb pound(s)
+LDH lactate dehydrogenase
+M molar
+m meter(s)
+mc micro, mu
+Mcal megacalorie(s)
+mcg microgram(s)
+mcm micrometer(s)
+mEq milliequivalent(s)
+mg milligram(s)
+min minute(s)
+mL milliliter(s)
+mm millimeter(s)
+mo month(s)
+mol mole(s)
+mOsm milliosmole(s)
+MRI magnetic resonance imaging
+nm nanometer(s)
+NRC National Research Council
+NSAID nonsteroidal anti-inflammatory drug
+OIE Office International des Épizooties
+oz ounce(s)
+PCR polymerase chain reaction
+PCV packed cell volume
+pH negative logarithm of hydrogen ion activity
+PO per os, orally
+ppb part(s) per billion
+ppm part(s) per million
+q every (in drug doses)
+RBC red blood cell
+RNA ribonucleic acid
+RT-PCR reverse transcription polymerase chain reaction
+s second(s)
+SC subcutaneous(ly)
+SI units International System of Units
+tbsp tablespoon(s)
+TDN total digestible nutrients
+tsp teaspoon(s)
+U unit(s)
+UK United Kingdom
+US United States of America
+USDA United States Department of Agriculture
+UV ultraviolet
+WBC white blood cell
+WHO World Health Organization
+wk week(s)
+WOAH World Organisation of Animal Health
+wt weight
+yr year(s)

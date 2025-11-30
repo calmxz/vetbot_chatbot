@@ -1,0 +1,82 @@
+The digestive tract, or gastrointestinal (GI) tract, includes the following organs:
+oral cavity and associated organs (lips, teeth, tongue, and salivary glands)
+esophagus
+forestomachs (reticulum, rumen, omasum) in ruminants
+true stomach in all species
+small intestine
+liver
+exocrine pancreas
+large intestine
+rectum
+anus
+Gut-associated lymphoid tissue (tonsils, Peyer’s patches, diffuse lymphoid tissue) is distributed along the GI tract. The peritoneum covers the abdominal viscera and is involved in many GI diseases. Fundamental efforts to manage GI disorders should always be directed toward localizing disease to a particular segment of the tract and determining a cause. A rational treatment plan can then be formulated.
+Function of the Digestive System
+The primary functions of the GI tract include prehension of food and water; mastication, salivation, and swallowing of food; digestion of food and absorption of nutrients; maintenance of fluid and electrolyte balance; and evacuation of waste products. These functions can be broadly characterized as the following:
+motility
+secretion
+digestion
+absorption
+blood flow
+metabolism
+Normal GI tract motility involves peristalsis, which is the muscle activity that moves ingesta from the esophagus to the rectum; segmentation movements, which churn and mix the ingesta; and segmental resistance and sphincter tone, which retard aboral progression of gut contents. In ruminants, all of these movements are essential to normal forestomach function.
+Pathophysiology of the Digestive System
+Abnormal motor function in the digestive system usually manifests as decreased motility. Segmental resistance usually decreases, and transit rate increases. Motility depends on stimulation via the sympathetic and parasympathetic nervous systems (and thus on the activity of the central and peripheral parts of these systems) and on the GI musculature and its intrinsic nerve plexuses. Debility, accompanied by muscle weakness, acute peritonitis, and hypokalemia, produces atony of the gut wall (paralytic ileus). The intestines distend with fluid and gas, and fecal output decreases. In addition, chronic small intestinal stasis may predispose to abnormal proliferation of microbiota (intestinal dysbiosis). Such changes may cause malabsorption by injuring mucosal cells, competing for nutrients, decreasing deconjugation of bile salts, and hydroxylating fatty acids.
+Vomiting is a neural reflex act that results in ejection of food and fluid from the stomach through the oral cavity. It is always associated with antecedent events such as premonition, nausea, salivation, or shivering and is accompanied by repeated abdominal muscle contractions.
+Regurgitation is characterized by passive, retrograde reflux of previously swallowed material from the esophagus, stomach, or rumen. With esophageal disease, swallowed material may not reach the stomach.
+One of the major consequences of subnormal motility is abdominal distention with fluid and gas. Much of the accumulated fluid is saliva and gastric and intestinal juices secreted during normal digestion. Distention causes pain and reflex spasm of adjoining gut segments. It also stimulates further fluid secretion into the gut lumen, which exacerbates the condition. When distention exceeds a critical point, the ability of the gut wall musculature to respond diminishes, the initial pain disappears, and paralytic ileus develops in which all GI muscle tone is lost.
+Dehydration, acid-base and electrolyte imbalance, and circulatory failure are major consequences of GI distention. Accumulation of gut fluids stimulates additional secretion of fluids and electrolytes in the orad segments of the intestine, which can worsen the abnormalities and lead to shock.
+Abdominal pain associated with GI disease usually is caused by stretching of the intestinal wall. Contraction of the gut causes pain by direct and reflex distention of neighboring segments. Spasm, an exaggerated segmenting contraction of one section of intestine, results in distention of the immediately orad segment when a peristaltic wave arrives. Other factors that may cause abdominal pain include edema and failure of local blood supply (eg, local embolism or twisting of the mesentery).
+Specific diseases cause diarrhea by varied and characteristic mechanisms, the recognition of which is useful in understanding, diagnosing, and managing GI diseases. The major mechanisms of diarrhea are increased permeability (exudation), hypersecretion, dysmotility, and osmosis. Disorders of motility are often secondary and contribute to diarrhea. In most cases, diarrhea is due to more than one mechanism.
+In healthy animals, water and electrolytes continuously transfer across the intestinal mucosa; secretions (from blood to gut) and absorptions (from gut to blood) occur simultaneously; and absorption exceeds secretion, resulting in a net absorption. Intestinal inflammation can be accompanied by an increase in “pore size” in the mucosa, permitting increased flow through the membrane (“leak”) down the pressure gradient from blood to the intestinal lumen. If the amount exuded exceeds the absorptive capacity of the intestines, diarrhea results.
+The size of the material that leaks through the mucosa varies, depending on the magnitude of the increase in pore size. Large increases in pore size permit exudation of plasma protein, resulting in protein-losing enteropathies (eg, chronic enteropathy in dogs, paratuberculosis in cattle, nematode infections). Greater increases in pore size result in the loss of RBCs, producing hemorrhagic diarrhea (eg, acute hemorrhagic diarrhea syndrome, parvovirus infection, severe hookworm infection).
+Hypersecretion is a net intestinal loss of fluid and electrolytes that is independent of changes in permeability, absorptive capacity, or exogenously generated osmotic gradients. Enterotoxic colibacillosis is an example of diarrheal disease caused by intestinal hypersecretion; enterotoxigenic Escherichia coli produce enterotoxin that stimulates the crypt epithelium to secrete fluid beyond the absorptive capacity of the intestines. The villi, along with their digestive and absorptive capabilities, remain intact. The fluid secreted is isotonic, alkaline, and free of exudates. The intact villi are beneficial because a fluid (administered orally) containing glucose, amino acids, and sodium is absorbed, even with hypersecretion.
+Osmotic diarrhea occurs when inadequate digestion or absorption results in a collection of solutes in the gut lumen, which cause water to be retained by their osmotic activity. It develops in any condition that results in nutrient malabsorption or maldigestion (eg, exocrine pancreatic insufficiency).
+Malabsorption (see also Malassimilation Syndromes in Large Animals) is failure of absorption due to decreased absorptive capacity, enterocyte damage, or mucosal infiltration. Several epitheliotropic viruses directly infect and destroy the villous absorptive epithelial cells or their precursors; these include coronavirus in pigs (mainly transmissible gastroenteritis virus and porcine epidemic diarrhea virus) and rotavirus in calves. Feline panleukopenia virus and canine parvovirus destroy the crypt epithelium, which results in failure of renewal of villous absorptive cells and collapse of the villi; regeneration is a longer process after parvoviral infection than after viral infections of villous tip epithelium (eg, coronavirus, rotavirus). Intestinal malabsorption also may be caused by any defect that impairs absorptive capacity, such as diffuse inflammatory disorders (eg, chronic enteropathy,histoplasmosis) or neoplasia (eg, lymphoma).
+The ability of the GI tract to digest food depends on its motor and secretory functions and, in herbivores, on the activity of microbiota in the forestomachs (in ruminants) or in the cecum and colon (in horses and pigs). Ruminal microbiota can digest cellulose, ferment carbohydrates to volatile fatty acids, and convert nitrogenous substances to ammonia, amino acids, and protein. In certain circumstances, microbiota can be suppressed to the point that digestion becomes abnormal or ceases. Incorrect diet, prolonged starvation or decreased appetite, and hyperacidity (as occurs in engorgement on grain) all impair microbial digestion. Bacteria, yeast, and protozoa also may be adversely affected by the oral administration of antimicrobial drugs or drugs that drastically alter the pH of rumen contents.
+Clinical Findings of Gastrointestinal Disease
+Clinical signs of GI disease in animals include the following:
+anorexia
+excessive salivation
+regurgitation
+vomiting
+diarrhea
+constipation
+tenesmus
+hematochezia/melena
+abdominal distention
+dehydration and shock
+abdominal pain
+suboptimal performance
+weight loss
+The location and nature of lesions that cause digestive malfunction can often be determined by recognizing and analyzing clinical findings. In addition, abnormalities of prehension, mastication, and swallowing are usually associated with diseases of the oral mucosa, teeth, mandible or other bony structures of the head, pharynx, or esophagus.
+Vomiting is most common in single-stomached animals and is usually due to gastroenteritis or nonalimentary disease (eg, liver disease, kidney disease, pyometra, endocrine disease). The vomitus in a dog or cat with a bleeding lesion (eg, gastric ulcer or neoplasm) may contain frank blood or look like coffee grounds. Horses and rabbits do not vomit, because the muscles of their gastroesophageal sphincters contract tightly to prevent the retrograde flow of food from the stomach back up into the esophagus.
+Regurgitation may signify disease of the oropharynx or esophagus and is not accompanied by the premonitory signs observed with vomiting.
+Large-volume, watery diarrhea is usually associated with hypersecretion (eg, in enterotoxic colibacillosis in newborn calves) or with malabsorptive (osmotic) effects.
+Blood and fibrinous casts in the feces indicate hemorrhagic, fibrinonecrotic enteritis of the small or large intestine (eg, bovine viral diarrhea, coccidiosis, salmonellosis, or swine dysentery). Black, tarry feces (melena) indicate hemorrhage in the stomach or upper part of the small intestine.
+Tenesmus of GI origin usually is associated with rectal or anal disease.
+Abdominal distention can result from accumulation of gas, fluid, or ingesta, usually due to hypomotility (functional obstruction, adynamic paralytic ileus) or to a physical obstruction (eg, foreign body or intussusception). Distention may, of course, result from something as direct as overeating. A “ping” heard during auscultation and percussion of the abdomen indicates a gas-filled viscus. A sudden onset of severe abdominal distention in an adult ruminant is usually due to ruminal tympany. Ballottement and succussion may reveal fluid-splashing sounds when the rumen or bowel is filled with fluid.
+Varying degrees of dehydration and acid-base and electrolyte imbalance, which may lead to shock, are observed when large quantities of fluid are lost (as in diarrhea) or sequestered (as in gastric or abomasal volvulus).
+Abdominal pain is due to stretching or inflammation of the serosal surfaces of abdominal viscera or the peritoneum; it may be acute or subacute, and clinical signs vary among species. In horses, acute abdominal pain (colic) is common and is characterized by pawing, looking at or kicking the flank region, sweating, restlessness, or rolling. Subacute pain is more common in cattle and is characterized by reluctance to move and grunting with each respiration or deep palpation of the abdomen. Abdominal pain in dogs and cats may be acute or subacute and is characterized by whining, meowing, and abnormal postures (eg, outstretched forelimbs, sternum on the floor, and hindlimbs raised). Abdominal pain may be difficult to localize to a particular viscus or organ within the abdomen.
+Examination of the Gastrointestinal Tract
+A complete, accurate history and routine clinical examination can often determine the diagnosis of GI tract disease. In outbreaks of GI disease in farm animals, the history and epidemiological findings are of prime importance. In small animals, travel history or other details, such as recent adoption from a shelter or recent kenneling or exposure to other animals in dog parks, might give clinical suspicion to certain infectious diseases. If the history and epidemiological and clinical findings are consistent with GI disease, the lesion should be localized within the GI tract, and the type of lesion and its cause determined.
+The GI abnormality may sometimes be localized to the large or small intestine by history, physical examination, and fecal characteristics (see the table Differentiation of Small Intestinal from Large Intestinal Diarrhea). The distinction is important because it narrows the differential diagnoses and determines the direction of further investigation. However, clinicians should appreciate that some GI disorders can involve the entire bowel, with one set of localizing signs overshadowing the other.
+Differentiation of Small Intestinal from Large Intestinal Diarrhea
+The clinical examination includes the following:
+visual inspection of the oral cavity and the contour of the abdomen for distention or contraction
+palpation through the abdominal wall or per rectum to evaluate shape, size, and position of abdominal viscera
+abdominal percussion to detect “pings,” which suggest gas-filled viscera
+auscultation to determine the intensity, frequency, and duration of GI movements, as well as fluid-splashing sounds (associated with fluid-filled stomachs and intestines) and fluid-rushing sounds (associated with diarrheal disease)
+succussion to reveal fluid-splashing sounds
+ballottement to evaluate density and size of abdominal organs by their movement away from and back to the abdominal wall
+gross examination of feces to assess bulk, consistency, color, and presence of mucus, blood, or undigested food particles
+The diagnostic evaluation may include some or all of the following:
+cytological evaluation of a rectal or colonic mucosal smear, stained with new methylene blue or Wright stain, for fecal leukocytes to detect inflammation, neoplastic cells, or infectious organisms (eg, histoplasmosis)
+bacterial culture and virus isolation
+therapeutic trials (eg, probiotics or diet)
+endoscopic examination to visualize the mucosal surface of the esophagus, stomach, duodenum, ileum, colon, or rectum and to obtain biopsy samples
+abdominocentesis to collect fluid from the peritoneal cavity for examination
+radiographic evaluation (± contrast) to diagnose obstructive disease
+ultrasonographic examination of the abdomen to evaluate gastric and intestinal wall thickness and to detect obstructions, abdominal masses, intussusceptions, and mesenteric lymphadenopathy
+biopsy (endoscopic, laparoscopic, ultrasonography-guided, or surgical) to obtain samples for microscopic examination
+tests for digestion and absorption to estimate and differentiate malabsorption and maldigestion (eg, serum cobalamin/folate measurement, fecal fat/starch analysis)
+tests to assess exocrine pancreatic function (serum trypsin-like immunoreactivity concentration) and inflammation (serum canine and feline pancreatic lipase immunoreactivity concentration)

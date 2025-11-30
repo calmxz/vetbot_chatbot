@@ -1,0 +1,46 @@
+Acute hemorrhagic diarrhea syndrome (AHDS) in dogs is characterized by acute vomiting and hemorrhagic diarrhea, often accompanied by hemoconcentration. Historically, AHDS was known as hemorrhagic gastroenteritis.
+Etiology and Pathophysiology of Acute Hemorrhagic Diarrhea Syndrome
+The precise etiology and pathogenesis of acute hemorrhagic diarrhea syndrome are unclear. AHDS may be the result of infection with or hypersensitivity to Clostridium perfringens, particularly netF toxins. Clostridium spp have been identified by bacterial culture or immunohistological evaluation in small intestinal biopsies from dogs with AHDS, suggesting an association with clostridial overgrowth.
+Leakage of fluid, plasma proteins, and RBCs into the intestinal lumen occurs secondary to increased intestinal permeability.
+Epidemiology of Acute Hemorrhagic Diarrhea Syndrome
+Young (median age, 5 years) dogs and small- and toy-breed dogs (Yorkshire Terriers, Miniature Pinschers, Miniature Schnauzers, Miniature Poodles, Maltese) are overrepresented in AHDS.
+AHDS is not considered contagious.
+Clinical Findings of Acute Hemorrhagic Diarrhea Syndrome
+An acute onset of profuse hemorrhagic diarrhea (often said to resemble raspberry jam) in a small- or toy-breed dog is characteristic of AHDS. Vomiting, anorexia, lethargy, and abdominal pain are common. Vomiting may precede the onset of bloody diarrhea. Marked, peracute fluid loss can result in hypovolemic shock before clinically recognizable dehydration. Other historical findings (eg, dietary indiscretion, vaccination status) are unremarkable.
+Acute intestinal mucosal hemorrhagic necrosis and neutrophilic inflammation are the predominant histological lesions, with the most severe lesions occurring in the large intestine. Histological mucosal lesions are not generally identified in the stomach, leading to a change in name from hemorrhagic gastroenteritis to AHDS.
+Diagnosis of Acute Hemorrhagic Diarrhea Syndrome
+Acute onset of hemorrhagic diarrhea
+Severe hemoconcentration (PCV often > 60%)
+Diagnosis of acute hemorrhagic diarrhea syndrome is typically based on signalment and acute onset of clinical signs with hemoconcentration (PCV often > 60%) and normal to slightly decreased total plasma protein concentration. Presence of anemia is not expected or typical.
+Abnormalities on CBC are usually limited to hemoconcentration and neutrophilic leukocytosis. If neutropenia is present, sepsis and/or parvovirus enteritis may be a concern.
+The serum biochemical profile may be unremarkable or show mild panhypoproteinemia, hypoglycemia (sepsis, decreased intake with limited hepatic glycogen stores), and electrolyte abnormalities consistent with GI loss and decreased intake (ie, hypokalemia, hyponatremia, hypochloremia).
+If coagulation times are moderately or markedly prolonged, coagulopathy or DIC should be investigated.
+Radiographic and ultrasonographic abnormalities should be limited to diffuse ileus and fluid-filled bowel loops. Differential diagnoses include the following:
+bacterial, viral (eg, parvovirus, coronavirus), and parasitic (eg, Trichuris vulpis, Ancylostoma spp, Uncinaria spp) gastroenteritis
+systemic disturbances with secondary GI involvement (eg, hypoadrenocorticism)
+coagulopathy (eg, rodenticide toxicosis, thrombocytopenia, thrombocytopathia)
+severe GI ulceration
+neoplasia
+pancreatitis
+GI perforation of any etiology
+Treatment and Prognosis of Acute Hemorrhagic Diarrhea Syndrome
+Prompt IV fluid therapy and rehydration
+Supportive therapy (eg, antiemetics)
+Parenteral antimicrobials if indicated
+Prompt IV fluid therapy is the mainstay of treatment in acute hemorrhagic diarrhea syndrome. The rate of crystalloid fluid administration is based on patient perfusion, degree of dehydration, and ongoing losses.
+Dogs that are markedly hypoproteinemic or in shock may benefit from synthetic or natural colloid (stored or fresh frozen plasma) therapy.
+Parenteral antimicrobials are not recommended in mild to moderate cases. In dogs with concern for severe disease (eg, clinical signs of systemic disease despite adequate fluid therapy, severe neutrophilia [> 25 × 109/L], neutropenia, and/or degenerative left shift), antimicrobial treatment is suggested. Parenteral administration of antimicrobials (eg, ampicillin 20–40 mg/kg, IV, every 6–8 hours) for treatment of bacterial translocation or sepsis is advised.
+In animals with sepsis or neutropenia, additional antimicrobial coverage for gram-negative bacteria is indicated (eg, enrofloxacin [dogs only] 5–20 mg/kg, IV, every 24 hours) (1).
+In a prospective study of dogs with AHDS and no clinical indices of sepsis, treatment with amoxicillin-clavulanic acid did not affect mortality rate, duration of hospitalization, or severity of clinical signs (2). This might suggest that not all cases of AHDS are due to primary bacterial infection or that the bacteria involved may not be susceptible to amoxicillin-clavulanic acid.
+Depending on serum potassium concentration, maintenance fluids should be supplemented with potassium chloride (20–40 mEq/L) to prevent development of hypokalemia. Hypoglycemic dogs require dextrose supplementation (2.5–5%). Additional supportive care, including antiemetic therapy and dietary management, is as described for canine parvovirus and acute gastritis.
+The prognosis is good with appropriate treatment. However, serious complications, including marked hypoproteinemia, DIC, sepsis, hypovolemic shock, and death, can occur. Additionally, the mortality rate can be high if untreated but is less than 10% in hospitalized dogs.
+Key Points
+Dogs with acute hemorrhagic diarrhea syndrome develop acute vomiting and acute hemorrhagic diarrhea.
+Diagnosis is based on clinical presentation and evidence of hemoconcentration (PCV often > 60%).
+The primary treatment is prompt IV fluid therapy, rehydration, and supportive therapy.
+For More Information
+Unterer S, Busch K. Acute hemorrhagic diarrhea syndrome in dogs. Vet Clin North Am Small Anim Pract. 2021;51(1):79-92.
+Also see pet owner content regarding acute hemorrhagic diarrhea syndrome.
+References
+Jessen LR, Werner M, Singleton D, et al; ESCMID Study Group for Veterinary Microbiology (ESGVM); European Network for Optimization of Antimicrobial Therapy (ENOVAT). European Network for Optimization of Veterinary Antimicrobial Therapy (ENOVAT) guidelines for antimicrobial use in canine acute diarrhoea. Vet J. 2024;307:106208. doi:10.1016/j.tvjl.2024.106208
+Unterer S, Strohmeyer K, Kruse BD, Sauter-Louis C, Hartmann K. Treatment of aseptic dogs with hemorrhagic gastroenteritis with amoxicillin/clavulanic acid: a prospective blinded study. J Vet Intern Med. 2011;25(5):973-979. doi:10.1111/j.1939-1676.2011.00765.x

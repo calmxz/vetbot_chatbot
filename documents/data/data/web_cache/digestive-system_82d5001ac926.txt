@@ -1,0 +1,168 @@
+Chronic enteropathies are characterized by the presence of GI clinical signs (diarrhea, vomiting, anorexia) for more than 3 weeks. Chronic enteropathies refer to instances in which intestinal inflammation is suspected but not confirmed histologically. A diagnosis of chronic enteropathy does not imply that any specific treatment is indicated to control clinical signs.
+Chronic enteropathies can be subdivided into four main categories:
+Food-responsive (diet-responsive) enteropathy
+Antibiotic-responsive enteropathy
+Immunosuppressant-responsive enteropathy
+Nonresponsive enteropathy
+The term microbiota-related modulation-responsive enteropathy may be preferred over antibiotic-responsive enteropathy because of the uncertainty of antimicrobial utility in most forms of chronic enteropathy.
+Protein-losing enteropathy (PLE) is a fifth type of chronic enteropathy that affects small animals and is usually associated with a more guarded prognosis.
+Historically, the term inflammatory bowel disease (IBD) has been used to describe chronic enteropathy. However, most dogs with chronic GI signs will not need immunosuppressant treatment, so this term is misleading. For this reason, the term idiopathic IBD should be reserved to describe chronic enteropathy characterized by persistent clinical signs and histological evidence of inflammatory cell infiltrate of unknown etiology. Additionally, the term IBD implies that immunosuppressives will be needed to control clinical signs and that treatment trials with diet and deworming have failed.
+The various forms of IBD are classified by anatomical location and the predominant cell type involved. Lymphocytic-plasmacytic enteritis is the most common form in dogs and cats, followed by eosinophilic inflammation. Occasionally, inflammation with a granulomatous pattern (regional enteritis) is reported. A neutrophilic predominance in the inflammatory infiltrate is rare. A mixed pattern of cellular infiltrate is also described on many occasions.
+Certain unique IBD syndromes occur more often in some breeds, such as the co-occurrence of protein-losing enteropathy and protein-losing nephropathy (PLE/PLN) in Soft Coated Wheaten Terriers, immunoproliferative enteropathy of Basenjis, IBD in Norwegian Lundehunds, and histiocytic ulcerative colitis in Boxers and French Bulldogs.
+Etiology and Pathophysiology of Chronic Enteropathies in Small Animals
+The etiology of chronic enteropathies is poorly understood in small animals.
+Multiple factors may be involved, including the following:
+gut-associated lymphoid tissue (GALT)
+permeability defects
+genetic, ischemic, biochemical, and psychosomatic disorders
+infectious agents (including parasites)
+dietary allergens
+adverse drug reactions
+Chronic enteropathies may also be immune mediated. The intestinal mucosa has a barrier function and controls exposure of antigens to GALT. The latter can stimulate protective immune responses against pathogens while remaining tolerant of harmless environmental antigens (eg, commensal bacteria, food). Defective immunoregulation of GALT results in exposure and adverse reaction to antigens that normally would not evoke such a response.
+Chronic enteropathies likely involve hypersensitivity reactions to antigens (eg, food, bacteria, mucus, epithelial cells) in the intestinal lumen or mucosa. Multiple types of hypersensitivity reaction are involved in chronic enteropathies (eg, type I hypersensitivity is involved in eosinophilic gastroenteritis, whereas type IV hypersensitivity is likely involved in granulomatous enteritis). The hypersensitivity reaction incites the involvement of inflammatory cells, resulting in mucosal inflammation that impairs the mucosal barrier, in turn facilitating increased intestinal permeability to additional antigens.
+With chronic enteropathies, persistent inflammation may result in fibrosis.
+Additionally, microbiome dysregulation and motility disorders may be associated with chronic enteropathies in small animals.
+Epidemiology of Chronic Enteropathies in Small Animals
+There is no apparent age, sex, or breed predisposition associated with chronic enteropathy; IBD may be more common in German Shepherd Dogs, Yorkshire Terriers, Cocker Spaniels, and purebred cats.
+The mean age reported for development of clinical signs of disease is 6.3 years in dogs and 6.9 years in cats, but chronic enteropathy has been documented in dogs < 2 years old.
+Dogs with food-responsive enteropathy are typically younger than dogs with immunosuppressant-responsive enteropathy and more commonly develop clinical signs of large bowel disease.
+Dogs with antibiotic-responsive enteropathy are usually younger large-breed dogs, and German Shepherd Dogs are overrepresented.
+Granulomatous colitis has been reported in Boxers and French Bulldogs.
+Clinical Findings of Chronic Enteropathies in Small Animals
+As the name implies, clinical signs in cases of chronic enteropathies are typically chronic and sometimes cyclic or intermittent. Vomiting, diarrhea, changes in appetite, and weight loss can occur.
+In a retrospective study of cats with lymphocytic-plasmacytic enterocolitis, weight loss, intermittent vomiting progressing to more frequent daily vomiting, diarrhea, and anorexia occurred most often (1).
+Vomiting, melena, and cranial abdominal pain are often observed with gastroduodenal ulceration and erosion.
+Weight loss, vomiting, diarrhea, ascites, and peripheral edema can occur with PLE. In some patients with PLE, GI signs can be minimal. Pulmonary thromboembolism is a rare complication; however, it can occur in patients with PLE due to hypercoagulability.
+Clinical signs of large intestinal diarrhea, including anorexia and watery diarrhea, are not uncommon.
+An association between gastric dilation and volvulus (GDV) and chronic enteropathy in dogs has also been postulated. In this case, inflammation of the bowel may cause alterations in gastric motility and emptying and in GI transit time, thus predisposing dogs to GDV.
+An association between inflammatory hepatic disease, pancreatitis, and chronic enteropathy has been reported in cats, although an etiology for this triad of diseases has not been established. However, cats with cholangiohepatitis should also be evaluated for chronic enteropathy and pancreatitis.
+Differentiation of chronic enteropathy from alimentary lymphoma in cats is challenging, and it has been suggested that these are a continuum of disease (2).
+Diagnosis of Chronic Enteropathies in Small Animals
+History
+Clinical signs
+Response to treatment
+Histological examination as required
+Chronic enteropathies are diagnosed by excluding other causes of GI signs (eg, gastric foreign bodies, endoparasitism, or neoplastic etiologies such as lymphoma). Diagnosis is often based on history, clinical signs, and physical examination. Laboratory and imaging studies are normal in most cases.
+Food-responsive and antibiotic-responsive enteropathy are usually diagnosed based on response to a treatment trial. A dietary trial with a hypoallergenic (novel protein or hydrolyzed protein) diet is recommended for at least 2 weeks to judge efficacy. When there is a lack of response to an initial dietary trial, a second dietary trial should be considered in stable patients, as sometimes it can take several dietary trials to find the one the patient responds to. When chronic enteropathy is not food-responsive, endoscopic or surgical examination with biopsies is recommended to diagnose more specific enteropathies, followed by immunosuppressive treatment if necessary.
+Histological evaluation does not help to differentiate food-responsive enteropathy from antibiotic- or immunosuppressant-responsive enteropathy. For this reason, endoscopic or surgical biopsies are recommended when stable patients do not respond to treatment trials. If the patient is debilitated, diet change and antimicrobial trials are skipped, and further investigations are performed. Other exceptions include dogs at high suspicion of neoplasia or infection (eg, granulomatous colitis in Boxers).
+Chronic enteropathies are not associated with any specific abnormalities on CBC, serum biochemical analysis, or radiography. However, a number of nonspecific changes may be seen.
+Changes on CBC may include the following:
+Eosinophilia may be associated with eosinophilic enteritis; however, this is not a sensitive parameter and could also be associated with endoparasitism.
+Microcytic anemia may be present with loss of iron, associated with chronic blood loss.
+Nonregenerative anemia, if present, likely reflects anemia of chronic disease (anemia of inflammation).
+Erythrocytosis is associated with fluid loss from vomiting and diarrhea.
+A stress leukogram may be seen.
+Changes on serum biochemical analysis may include the following:
+Hypoproteinemia may occur due to decreased dietary intake and malabsorption or increased loss via the GI tract.
+Hypocalcemia and hypocholesterolemia may be attributed to malabsorption.
+Hypokalemia secondary to anorexia, potassium loss from vomiting and diarrhea, and mild increases in serum liver enzyme activities can be expected.
+Low serum concentrations of folate due to dysbiosis and cobalamin due to malabsorption are also documented.
+Testing for exocrine pancreatic insufficiency by measuring trypsin-like immunoreactivity is also recommended
+Radiographic changes may include gas or fluid distention of the stomach. Contrast films may show diffuse or focal mucosal irregularities suggestive of infiltrative disease. Loss of contrast can be related to ascites.
+Fecal examination is important to exclude other causes of mucosal inflammation (eg, nematodes, Giardia infection). Giardia may be difficult to detect because of intermittent shedding, and empirical treatment with fenbendazole (50 mg/kg, PO, every 24 hours for 3–5 days) is recommended in all cases.
+Abdominal ultrasonography can be used to assess all abdominal organs, examine the entire intestinal tract, and measure wall thickness (although this measurement is of no major value in diagnosis). Small intestinal hyperechoic mucosal striations are frequently associated with mucosal inflammation and PLE. Ultrasonographic evaluation also helps rule out the possibility of disease in other organs, localize the disease, and determine whether endoscopic biopsy is possible. Additionally, in some patients, abdominal lymphadenopathy can be identified ultrasonographically, facilitating sampling with fine-needle aspiration (in GI lymphoma) prior to more advanced diagnostic testing.
+Endoscopy allows examination of the esophagus, stomach, and duodenum. Colonoscopy allows exploration of the colon and the ileum. In some cases, gross mucosal lesions can be observed endoscopically, including erythema, friability, enhanced granularity, erosion, and ulceration.
+In many cases, the endoscopic appearance is normal. However, biopsy samples should always be taken, because the macroscopic and microscopic appearance of the intestinal mucosa are poorly correlated. At least ten biopsies of each segment of GI tract are recommended. Endoscopy is the easiest way to collect biopsy samples; however, such samples are superficial and usually can be collected only from the proximal small intestine.
+One study suggested that ileal biopsies can reveal lesions not apparent in the duodenum and, therefore, should be performed routinely. More specifically, feline lymphoma was much more likely to be found in the ileum than the duodenum (3).
+In some cases, exploratory celiotomy and full-thickness biopsy are necessary to reveal histological changes (eg, dilation of the lacteals in lymphangiectasia) at the mucosal level. However, wound healing can be compromised if severe hypoproteinemia is present or if urgent steroid treatment is needed. For this reason, most clinicians choose to perform endoscopic biopsies unless biopsies of other abdominal organs are required.
+Small populations of lymphocytes, plasma cells, macrophages, eosinophils, and neutrophils are normal components of intestinal mucosal tissue. Increased numbers of plasma cells, lymphocytes, eosinophils, and neutrophils in the lamina propria occur in chronic enteropathy. However, these morphological features may also be present with other causes of GI disease (eg, Giardia, Campylobacter, Salmonella, lymphangiectasia, lymphosarcoma).
+Although histological assessment of intestinal biopsy material remains the gold standard for diagnosis of many chronic enteropathies, it has marked limitations. Specimen quality can vary, pathological diagnoses are inconsistent, and differentiation between normal specimens and those showing chronic enteropathy and even lymphoma can be difficult. Biopsy must always be considered in relation to clinical signs, and the animal treated accordingly. Additionally, GI biopsies cannot differentiate diet-responsive enteropathy from immunosuppressive-responsive enteropathy, underscoring the importance of diet trials before endoscopy.
+Clonality testing (PCR for antigen receptor rearrangement [PARR] assay) is recommended in cases where lymphoma is suspected on histological evaluation. A positive result of a PARR assay (ie, monoclonality) suggests small cell lymphoma.
+Fluorescence in situ hybridization (FISH) is recommended to identify bacteria in formalin-fixed tissues in cases with granulomatous or neutrophilic inflammation. FISH is a more sensitive method than culture and facilitates visualization of bacterial cells in tissues. Assessment of dysbiosis can also be performed through the dysbiosis index.
+Capsule endoscopy has been used in small animals to detect GI bleeding. For patients weighing > 7 kg, a capsule equipped with a camera is administered as a pill and travels through the GI tract for approximately 15 hours, on average. This technology allows visualization of the GI mucosa throughout the GI tract and can detect GI bleeding from the mouth to the rectum. However, examination may be incomplete because insufflation of the stomach cannot be performed, and biopsies cannot be performed, and examination will be incomplete if the capsule is retained in the stomach.
+Capsule endoscopy is indicated mainly for GI bleeding or lesions between the duodenum and the distal ileum; it should not replace endoscopic examination.
+Treatment of Chronic Enteropathies in Small Animals
+Dietary changes
+Management of dysbiosis (probiotics, fecal transplant, antimicrobials when indicated)
+Steroids or cytotoxic drugs
+Unless the animal is debilitated, anorectic, or demonstrating severe weight loss, sequential treatment trials are recommended for chronic enteropathies.
+Treatment should begin with anthelmintic/antiparasitic medication (eg, fenbendazole at 50 mg/kg, PO, every 24 hours for 3–5 days).
+This is then followed by dietary change (to a hypoallergenic, hydrolyzed protein or novel protein diet exclusively). A marked response to diet change alone occurs in over 50% of patients with chronic enteropathy. Most patients respond within 2 weeks.
+In stable patients, a second dietary trial should be considered prior to more advanced diagnostic testing.
+Although a 3- to 4-week antimicrobial trial (usually tylosin, 10–15 mg/kg, PO, every 8–12 hours; or metronidazole 10–15 mg/kg, PO, every 12 hours) can be considered in nonresponsive patients, the utility of antimicrobials in most forms of chronic enteropathy (other than granulomatous colitis) is uncertain.
+If treatment is not successful, further investigation, including endoscopic examination and biopsies to confirm presence of inflammation, is followed by steroid therapy with or without cytotoxic drugs (eg, azathioprine, cyclophosphamide, cyclosporine).
+Typically, patients with suspected PLE are treated more aggressively because of their guarded prognosis, although many patients with PLE can respond to dietary change alone as well. In patients with PLE, a low-fat diet, which might or might not also be hypoallergenic, is prioritized.
+The goals of treating chronic enteropathies are decreasing diarrhea and vomiting, promoting appetite and weight gain, and decreasing intestinal inflammation. If a cause can be identified (eg, dietary, parasitic, bacterial overgrowth, drug reaction), it should be eliminated.
+The canine IBD activity index (CIBDAI) and the canine chronic enteropathy clinical activity index (CCECAI) are scoring systems that have been validated to evaluate clinical response to treatment. The CIBDAI is based on six clinical parameters:
+attitude/activity
+appetite
+vomiting
+stool consistency
+stool frequency
+weight loss
+The CCECAI includes the six CIBDAI parameters plus serum albumin, pruritus, and ascites/peripheral edema.
+Cobalamin and Folate Supplementation in Chronic Enteropathies
+Hypocobalaminemia is common in both exocrine pancreatic insufficiency (EPI) and chronic enteropathies and leads not only to metabolic changes that suppress appetite, but also to histological small intestinal changes; the small intestine needs cobalamin to be healthy.
+Cobalamin supplementation (cyanocobalamin, dogs: 20–25 mcg/kg, SC, once/week, or PO, every 24 hours for 6 weeks; cats: 250 mcg/cat, SC, once/week, or PO, every 24 hours for 12 weeks) has been reported to be beneficial in hypocobalaminemic cats and dogs with chronic enteropathy. Additionally, dogs with low normal cobalamin concentration (< 400 nmol/L) may benefit from cobalamin supplementation (4, 5).
+Traditionally, cyanocobalamin has been supplemented by weekly SC injections. However, recent studies in dogs and cats have shown that daily oral supplementation bypasses the normal absorption pathway and can restore normal serum cobalamin concentrations and correct any metabolic changes. Oral cyanocobalamin has even been shown to be effective in EPI, despite pancreatic secretion of intrinsic factor, a protein linked to impaired cobalamin absorption.
+The effect of hypofolatemia has not been elucidated in dogs and cats but leads to anemia in humans. So whether it is simply a marker of small intestinal damage or whether folate supplementation is needed is not yet known.
+Dietary Therapy in Chronic Enteropathies
+Dietary modification is a critical aspect of the management of small intestinal diseases both in dogs and cats. Dietary modification resolves clinical signs in more than 50% of cases of chronic enteropathy; in other cases, it can enhance the efficacy of concurrent medical therapy, allowing drug dosages to be decreased or for drug therapy to be discontinued once clinical signs are in remission.
+Dietary modification generally involves feeding an elimination diet with a source of protein to which the animal has not been previously exposed (eg, homemade diets, commercial diets). Novel antigen diets (new carbohydrate and protein source) or hydrolyzed diets (containing smaller proteins [peptides] to decrease antigenic reaction) have both been effective in dogs with chronic enteropathy. A hypoallergenic (hydrolyzed protein or novel protein) diet should be fed exclusively for a period of at least 2 weeks to judge efficacy; no treats of any kind should be fed.
+Diets generally contain moderate levels of limited protein sources and highly digestible carbohydrates (to decrease protein antigenicity and osmolar effects and to improve nutrient availability) and low to moderate levels of fat.
+Treatment with an exclusion diet consisting of a single novel protein source or a hydrolyzed protein should be used as trial therapy when intestinal inflammation or dietary sensitivity is suspected.
+Boiled white rice, tapioca, and potato are suitable gluten-free carbohydrate sources, while cooked white fish, lamb, and chicken are often used as protein sources, depending on the patient's dietary history.
+In stable patients, a second diet trial could be considered if insufficient response is noted to the first diet.
+Dogs with large intestinal diarrhea may benefit from diets high in insoluble fiber content (see Colitis in Small Animals). Supplementation of dietary fiber alone is rarely effective in animals with a severe inflammatory cell infiltrate. Most dogs with food-responsive enteropathy respond within a few days to 2 weeks. Several studies have reported a good long-term response after diet change in dogs with chronic enteropathy (up to a 65% success rate over 3 years). Cooperation of the owner is essential in treatment of dogs with chronic enteropathy. Some dogs (31–75%) can be fed their initial diet after 3 months of the diet trial (6, 7).
+Dietary trials may be effective in some patients with PLE. In one retrospective review, approximately 70% of dogs were dietary responsive (8). It was found that the CCECAI was lower (< 8) in those that responded to diet.
+In some patients with PLE, steroids are necessary because of intestinal inflammation secondary to lymph leakage, and they are used concurrently with dietary therapy to control clinical signs.
+Another study found dietary change alone to an ultralow-fat diet was successful in management of Yorkshire Terriers with PLE (9).
+Sulfasalazine in Chronic Enteropathies
+In dogs when the large intestine is affected, sulfasalazine (10–30 mg/kg, PO, every 8–12 hours for 4–6 weeks, then taper to lowest effective daily frequency) and related drugs are sometimes used (see Colitis in Small Animals). In the colon, sulfasalazine is split to release 5-aminosalicylic acid, which exerts its anti-inflammatory activity in the mucosa. The principal adverse effects in dogs are keratoconjunctivitis sicca and vasculitis.
+Because of the risk of salicylate toxicity in cats, sulfasalazine is not routinely used in feline colitis. Newer aminosalicylic drugs without some of sulfasalazine’s adverse effects are available, including olsalazine (dogs: 10–20 mg/kg, PO, every 8–12 hours long-term) and mesalamine (dogs: 10–20 mg/kg, PO, every 6–8 hours long-term).
+Manipulation of the Gastrointestinal Microbiome in Chronic Enteropathies
+Manipulation of the GI microbiome can be achieved through dietary change, probiotics, antimicrobials, prebiotics, fiber, and fecal microbiota transplantation (FMT). The use of antimicrobials in patients with chronic enteropathy is unclear other than in patients with histiocytic ulcerative colitis, due to concerns for short-lived treatment responses, the potential for persisting changes to the GI microbiota, and antimicrobial resistance.
+Histiocytic ulcerative colitis of Boxers is responsive to enrofloxacin (7.5–10 mg/kg, PO, every 24 hours for 8–10 weeks), which supports the hypothesis that this particular form of antibiotic-responsive enteropathy is the consequence of infection with a specific organism (Escherichia coli). Dogs receiving enrofloxacin should be reassessed every 2 weeks. Usually, a total of 8 weeks' treatment is sufficient. Culture is recommended (ideally, before initiating treatment) to ensure appropriate antimicrobial treatment due to increasing evidence of enrofloxacin resistance. Relapses are frequent, but restarting treatment is usually successful.
+There are no reports on the use of antimicrobials alone to treat PLE in small animals.
+In Yorkshire Terriers with PLE and crypt abscesses, FISH did not detect any bacteria.
+If an antimicrobial trial has not been successful within 2 weeks, reassessment of the patient is suggested, and immunosuppressants or other therapies may be indicated.
+Although probiotics are generally well tolerated by patients, their contents and potency can differ from the label claim, and evidence for their beneficial impact is scarce. As a result, alternative measures, such as FMT, to impact the GI microbiome have been investigated.
+FMT is defined as the transfer of feces from a healthy donor into the intestinal tract of a diseased recipient. FMT has been shown to be successful in treating refractory Clostridium difficile infection and IBD in humans. Data on the use of FMT in dogs and cats with IBD are more limited, although FMT has been shown to shorten the duration of diarrhea in puppies with parvovirus and improve clinical signs as part of the treatment of chronic enteropathy or IBD in dogs (10, 11, 12).
+After finding an appropriate fecal donor, a veterinarian can mix donor feces with saline solution (0.9% NaCl) and administer the mixture as a retention enema. (See For More Information for FMT protocols.)
+Immunosuppressives in Chronic Enteropathies
+Corticosteroids may be useful for both small- and large intestinal disease:
+prednisone or prednisolone: 2 mg/kg, PO, every 24 hours, initially; then tapered every 2–3 weeks to the lowest effective dosage (prednisolone should be used in cats)
+dexamethasone: 0.25 mg/kg, PO or SC, every 24 hours, initially; then tapered every 2–3 weeks to the lowest effective dosage
+Adverse effects include polyuria, polydipsia, polyphagia, and GI disturbances (eg, vomiting, melena, diarrhea).
+An enteric-coated formulation of the glucocorticoid budesonide has successfully maintained remission in human IBD. Note that dosages used in small animals must be compounded, and enteric protection of budesonide is lost in the compounding process. A preliminary study has shown apparent efficacy in dogs and cats; however, information on use of this drug is limited. It undergoes substantial first-pass elimination via rapid inactivation in the liver; the result is lower systemic bioavailability and possibly decreased effects on the hypothalamic-pituitary-adrenal axis, making iatrogenic hyperadrenocorticism potentially less common than with other glucocorticoids.
+Anecdotally, budesonide dosages in dogs (3 mg/m2, PO, every 24 hours) and in cats (1 mg/cat, PO, every 24 hours) have been recommended (13). In one study, the response rates in dogs with chronic enteropathy (after exclusion of food-responsive and antibiotic-responsive enteropathies) treated with prednisone or budesonide were similar (14).
+In refractory cases, adding an immunosuppressive drug to corticosteroid therapy may be beneficial.
+Azathioprine (2–2.5 mg/kg, PO, every 24–48 hours) can be added in dogs. Typically, azathioprine is given every 24 hours for 2–3 weeks, then reduced to every other day. Adverse effects include myelosuppression, pancreatitis, and hepatotoxicity.
+If response to steroids is poor, cyclosporine (5–10 mg/kg, PO, every 12–24 hours for at least 8–10 weeks) can be added. Some data support the use of cyclosporine in dogs with steroid-refractory IBD and PLE (6, 15).
+Azathioprine is not recommended in cats because of sensitivity to adverse effects. Instead, cats are treated with a combination of prednisolone and chlorambucil (0.1–0.2 mg/kg or 2 mg/cat every 2–3 days). Clinical signs typically improve in 3–5 weeks, although 4–8 weeks of treatment may be needed. A CBC should be done every 2 weeks to monitor for evidence of myelosuppression.
+Adjunctive treatment may include cobalamin supplementation (20 mg/kg, SC, every 7 days for 4–6 weeks, followed by an injection 1 month later, with remeasurement of levels 1 month after the last injection to determine the need for ongoing supplementation) in dogs and cats, and other supportive therapy as needed.
+Prognosis in Chronic Enteropathies in Small Animals
+The response rate to treatment of chronic enteropathy is variable. Negative prognostic factors for dogs include the following:
+marked endoscopic changes in the duodenum
+hypocobalaminemia
+hypoalbuminemia
+hypovitaminosis D
+high CIBDAI score
+Relapses occur with chronic enteropathy and are most often precipitated by dietary indiscretion. A poor outcome has been reported for dogs with PLE, with a median survival time of less than 6 months, except for Yorkshire Terriers (median survival time, 44 months). Dogs with PLE with large cell lymphoma have the worst prognosis (median survival time < 100 days).
+In most studies, 15–40% of dogs do not respond in the short term to any therapies described above (nonresponsive enteropathy). In addition, long-term treatment seems to be adequate only for dogs with food-responsive enteropathy.
+In nonresponders, the diagnosis should be reconsidered first. Motility disorders are underestimated in small animals. It is possible that some chronic enteropathies in small animals might be associated with motility disorders rather than infection or inflammation. Additionally, manipulation of the GI microbiome as part of treatment can also be considered. As well, some patients with nonresponsive enteropathy can be reclassified as diet-responsive enteropathy after an additional diet change.
+Key Points
+Chronic enteropathies are subdivided into four categories based on response to medical treatment (food-responsive, antibiotic-responsive, immunosuppressant-responsive, nonresponsive).
+Most small animals with chronic enteropathy respond to dietary modification.
+Sequential treatment using dietary modification, with or without antimicrobial trials, and steroid therapy are recommended. For debilitated or hypoproteinemic patients, a more aggressive approach is advised.
+For More Information
+Chaitman J, Gaschen F. Fecal microbiota transplantation in dogs. Vet Clin North Am Small Anim Pract. 2021;51(1):219-233.
+Dandrieux JRS. (2016), Inflammatory bowel disease versus chronic enteropathy in dogs: are they one and the same?J Small Anim Pract, 2016;57(11):589-599.
+Weese JS, Blondeau J, Boothe D, et al. International Society for Companion Animal Infectious Diseases (ISCAID) guidelines for the diagnosis and management of bacterial urinary tract infections in dogs and cats. Vet J. 2019;247:8-25.
+Also see pet owner content regarding chronic enteropathies in dogs and cats.
+References
+Dennis JS, Kruger JM, Mullaney TP. Lymphocytic/plasmacytic gastroenteritis in cats: 14 cases (1985-1990). J Am Vet Med Assoc. 1992;200(11):1712-1718.
+Marsilio S, Freiche V, Johnson E, et al. ACVIM consensus statement guidelines on diagnosing and distinguishing low-grade neoplastic from inflammatory lymphocytic chronic enteropathies in cats. J Vet Intern Med. 2023;37(3):794-816. doi:10.1111/jvim.16690
+Scott KD, Zoran DL, Mansell J, Norby B, Willard MD. Utility of endoscopic biopsies of the duodenum and ileum for diagnosis of inflammatory bowel disease and small cell lymphoma in cats. J Vet Intern Med. 2011;25(6):1253-1257. doi:10.1111/j.1939-1676.2011.00831.x
+Kather S, Grützner N, Kook PH, Dengler F, Heilmann RM. Review of cobalamin status and disorders of cobalamin metabolism in dogs. J Vet Intern Med. 2020;34(1):13-28. doi:10.1111/jvim.15638
+Berghoff N, Suchodolski JS, Steiner JM. Association between serum cobalamin and methylmalonic acid concentrations in dogs. Vet J. 2012;191(3):306-311. doi:10.1016/j.tvjl.2011.03.005
+Allenspach K, Wieland B, Grone A, Gaschen F. Chronic enteropathies in dogs: evaluation of risk factors for negative outcome. J Vet Intern Med. 2007;21(4):700-708. doi:10.1111/j.1939-1676.2007.tb03011.x
+Allenspach K, Culverwell C, Chan D. Long-term outcome in dogs with chronic enteropathies: 203 cases. Vet Rec. 2016;178(15):368. doi:10.1136/vr.103557
+Nagata N, Ohta H, Yokoyama N, et al. Clinical characteristics of dogs with food-responsive protein-losing enteropathy. J Vet Intern Med. 2020;34(2):659-668. doi:10.1111/jvim.15720
+Rudinsky AJ, Howard JP, Bishop MA, Sherding RG, Parker VJ, Gilor C. Dietary management of presumptive protein-losing enteropathy in Yorkshire Terriers. J Small Anim Pract. 2017;58(2):103-108. doi:10.1111/jsap.12625
+Pereira GQ, Gomes LA, Santos IS, Alfieri AF, Weese JS, Costa MC. Fecal microbiota transplantation in puppies with canine parvovirus infection. J Vet Intern Med. 2018;32(2):707-711. doi:10.1111/jvim.15072
+Toresson L, Spillmann T, Pilla R, et al. Clinical effects of faecal microbiota transplantation as adjunctive therapy in dogs with chronic enteropathies: a retrospective case series of 41 dogs. Vet Sci. 2023;10(4):271. doi:10.3390/vetsci10040271
+Collier AJ, Gomez DE, Monteith G, et al. Investigating fecal microbial transplant as a novel therapy in dogs with inflammatory bowel disease: a preliminary study. PLoS One. 2022;17(10):e0276295. doi:10.1371/journal.pone.0276295
+Allenspach K. GI therapeutics: which one to use and when. British Small Animal Veterinary Association 2011 Proceedings.
+Dye TL, Diehl KJ, Wheeler SL, Westfall DS. Randomized, controlled trial of budesonide and prednisone for the treatment of idiopathic inflammatory bowel disease in dogs. J Vet Intern Med. 2013;27(6):1385-1391. doi:10.1111/jvim.12195
+Allenspach K, Rufenacht S, Sauter S, et al. Pharmacokinetics and clinical efficacy of cyclosporine treatment of dogs with steroid-refractory inflammatory bowel disease. J Vet Intern Med. 2006;20(2):239-244. doi:10.1111/j.1939-1676.2006.tb02852.x
