@@ -1,0 +1,49 @@
+Tetralogy of Fallot in Animals
+Tetralogy of Fallot is an uncommon but complex congenital defect comprising pulmonic stenosis, ventricular septal defect, right ventricular hypertrophy, and overriding aorta. Clinical signs vary, depending on the severity of pulmonic stenosis and the degree of right-to-left shunting. Cyanosis is common, with subsequent development of polycythemia. Diagnosis is achieved by echocardiography, and treatment (medical, interventional, and surgical options) is determined on an individual patient basis.
+Tetralogy of Fallot is the most common defect that produces cyanosis. It results from a combination of four components:
+pulmonic stenosis
+large ventricular septal defect
+right ventricular hypertrophy
+dextropositioning (overriding) of the aorta
+A single conotruncal malformation (cranially displaced formation of the upper portion of the interventricular septum) is believed to result in narrowing of the right ventricular outflow tract (pulmonic stenosis), overriding of the aorta, and the ventricular septal defect. The right ventricular concentric hypertrophy is simply a consequence of the pulmonic stenosis. The pulmonic stenosis can be valvular, infundibular, or both. Breeds predisposed to tetralogy of Fallot include Keeshonds and English Bulldogs. The trait is inherited in Keeshonds and presumably in other breeds. This defect has been recognized in other breeds of dogs and in cats.
+Pathophysiology of Tetralogy of Fallot
+The hemodynamic consequences of tetralogy of Fallot depend primarily on severity of the pulmonic stenosis, size of the ventricular septal defect (which is typically large and nonrestrictive), and ratio of pulmonary to systemic vascular resistance. The direction and magnitude of the shunt through the septal defect depends in large part on the relative resistances to flow between the pulmonic circulation (obstructed by the pulmonic stenosis) and the systemic circulation. Consequences include decreased pulmonary blood flow (resulting in fatigue, shortness of breath) and generalized cyanosis (resulting in polycythemia and weakness) caused by the mixing of deoxygenated blood from the right ventricle with oxygenated blood from the left ventricle.
+Because of venous admixture, the kidneys release erythropoietin, resulting in polycythemia. The increased blood viscosity associated with polycythemia can lead to sludging of blood and poor capillary perfusion. Consequences of polycythemia include ocular changes, bleeding diathesis, and neurological abnormalities (ataxia, seizures).
+Clinical Findings of Tetralogy of Fallot
+Typical historical features of tetralogy of Fallot include stunted growth, exercise intolerance, cyanosis, collapse, and seizures. A precordial thrill may be felt in the area of the pulmonic valve, and in most cases, a murmur of pulmonic stenosis is present. The intensity of the murmur is attenuated when severe polycythemia is present, and in some affected animals, a cardiac murmur is not present.
+Diagnosis of Tetralogy of Fallot
+Echocardiography confirms the diagnosis (see tetralogy of Fallot image). Overriding (rightward displacement) of the aortic root, right ventricular hypertrophy, and a ventricular septal defect are evident. The left chambers may be small as a result of decreased pulmonary venous return. Routine contrast echocardiography demonstrates right-to-left shunting at the level of the ventricular septal defect. Flow through the defect can also be detected by Doppler echocardiography.
+Courtesy of Dr. Sandra Tou.
+A pattern of right ventricular enlargement is usually observed on electrocardiography (deep S waves in lead II, right axis shift), and arrhythmias are infrequent.
+Radiographs demonstrate variable right heart enlargement and undersized pulmonary vessels.
+Treatment of Tetralogy of Fallot
+Corrective or palliative surgical options
+Medical management for most cases
+Treatment options for tetralogy of Fallot include surgical and medical management.
+Open surgical repair has been reported in dogs but is rarely performed. Palliative surgical techniques to relieve clinical signs associated with tetralogy of Fallot are also rarely performed and include techniques to produce systemic to pulmonary anastomoses such as a modified Blalock-Taussig shunt. These procedures increase blood flow to the lungs to decrease signs of pulmonary hypoperfusion and systemic hypoxia. In some cases, palliative balloon dilation of pulmonic stenosis or surgical valvuloplasty may be considered.
+Beta-adrenergic blockade has been used to decrease the dynamic component of right ventricular outflow obstruction and to attenuate beta-adrenergic–mediated decreases in systemic vascular resistance. Increases in systemic vascular resistance lower the magnitude of shunting.
+Polycythemia should be controlled by resolving clinical signs through periodic phlebotomy or use of hydroxyurea.
+The prognosis is guarded, but animals with mild to moderate shunting may reach adulthood.
+Key Points
+Tetralogy of Fallot is a complex heart disease with four components: pulmonic stenosis, ventricular septal defect, right ventricular concentric hypertrophy, and dextropositioned (overriding) aorta.
+Right-to-left shunting across the ventricular septal defect may result in generalized cyanosis and polycythemia.
+Treatment is dependent on the severity of pulmonic stenosis, right-to-left shunting, and clinical signs.
+Miscellaneous Congenital Cardiac Abnormalities in Animals
+Peritoneopericardial diaphragmatic hernia is the most common congenital pericardial disease in dogs and cats. It results from abnormal development of the dorsolateral septum transversum or from failure of the lateral pleuroperitoneal folds and the ventromedial pars sternalis to unite. The result is herniation of abdominal viscera into the pericardial sac. The liver is the most commonly herniated organ, followed by the small intestine, spleen, and stomach.
+Clinical signs are highly variable, with many animals remaining clinically normal and the defect being discovered on postmortem examination.
+Thoracic radiographs can demonstrate enlargement of the cardiac silhouette (perceived as cardiomegaly), lack of a visible diaphragmatic border, and small intestinal loops or liver crossing the diaphragm into the pericardial sac.
+The suspicion of peritoneopericardial diaphragmatic hernia is heightened when abdominal organs are observed adjacent to the heart on echocardiogram.
+A contrast radiographic examination using oral barium may also identify small intestinal loops or stomach in the pericardial sac.
+CT can usually confirm the diagnosis before surgery.
+In animals with respiratory signs or clinical signs relatable to organ entrapment, the hernia should be surgically reduced.
+Cor triatriatum sinister and dexter result from a fibrous membrane dividing the left or right atrium, respectively, thereby forming three atrial chambers (triatria).
+Cor triatriatum sinister is a rare defect of cats. It occurs when the common pulmonary vein fails to regress normally; as a result, a fibrous membrane persists within the left atrium, dividing the left atrium into two subchambers. Commonly, one or more perforations in the separating membrane allow communication between the two portions of the atrium. The proximal, high-pressure subchamber receives pulmonary venous return, while the distal, low-pressure subchamber is adjacent to the mitral valve and contains the left auricular appendage.
+Affected cats can develop left-sided heart failure with pulmonary edema, pleural effusion, or both.
+Surgical resection and balloon dilation of the membrane using a surgical approach have been reported.
+Cor triatriatum dexter is a rare defect, mostly of dogs, caused by persistence of the right valve of the sinus venosus. The remaining fibrous membrane partitions the right atrium into two subchambers; the cranial vena cava and tricuspid valve are associated with the low-pressure subchamber (true right atrium), whereas the caudal vena cava and coronary sinus are typically associated with the high-pressure subchamber. The membrane may contain one or more perforations or be imperforate. The degree of blood flow between the subchambers determines disease severity.
+Dogs with more severe septation often develop right-sided heart failure (typically with ascites).
+Surgical resection, transcatheter balloon dilation, and stenting of the membrane are treatment options. Congestive heart failure should be medically managed before surgery.
+Double chamber right ventricle is an uncommon defect in which an anomalous muscle bundle divides the right ventricle into two subchambers. The muscle bundle leads to obstruction of the right ventricular outflow tract, creating a high-pressure proximal subchamber (receiving inflow through the tricuspid valve) and a low-pressure distal subchamber distal to the obstruction. Increased pressure in the proximal subchamber leads to right atrial dilatation and possible right-sided heart failure. A systolic ejection murmur is often evident on auscultation.
+Definitive therapy requires open-heart surgery to resect the muscle bundles, which requires cardiopulmonary bypass. Balloon valvuloplasty has not proved to be a successful treatment option.
+Anomalous pulmonary venous connection is a congenital abnormality in which varying numbers of pulmonary veins (from one to all) attach to the right atrium or a systemic vein.
+Dextrocardia, positioning of the heart in the right hemithorax, can be viewed as a congenital cardiac defect and by itself is typically benign. It can also occur in combination with situs inversus (reversed or mirror-image orientation of the internal organs). The combination has been associated with ciliary dyskinesis (Kartagener syndrome) and clinical signs related to abnormal mucociliary clearance (eg, respiratory infection, infertility).

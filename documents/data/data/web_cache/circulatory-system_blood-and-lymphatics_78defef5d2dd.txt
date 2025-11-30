@@ -1,0 +1,60 @@
+Major types of circulating WBCs, or leukocytes, include neutrophils, eosinophils, basophils, lymphocytes, and monocytes. These WBC types can be further classified according to specific characteristics.
+Granulocytes are characterized by the presence of cytoplasmic granules (specialized secretory vesicles containing various cytotoxic molecules, enzymes, and peptides). Neutrophils, eosinophils, and basophils are granulocytes that have lobulated nuclei and are classified according to the staining characteristics of their cytoplasmic granules as neutral (neutrophils), red or pink (eosinophils), or lavender or purple (basophils). Mast cells are another type of granulocytic leukocyte that has a round, rather than lobulated, purple nucleus.
+Some veterinary species (eg, rabbits and guinea pigs) have a WBC type called heterophils. Heterophils are analogous to neutrophils in other species but have eosinophilic cytoplasmic granules. Cytologically, they can be difficult to distinguish from eosinophils. The cellular equivalents to neutrophils in birds and reptiles are also called heterophils and have eosinophilic granules.
+Phagocytes are characterized by participation in phagocytosis, the process of engulfing and destroying particles such as invading microorganisms or debris. Neutrophils, macrophages, and dendritic cells are considered professional phagocytes, while other types of cells may participate in phagocytosis to a lesser extent.
+Cells can also be classified according to the shape of their nucleus. Mature neutrophils, as well as eosinophils and basophils, have a segmented nucleus and thus are known as polymorphonuclear cells. This is in contrast to mononuclear phagocytes (monocytes and macrophages) as well as lymphocytes, which prototypically have a round nucleus. However, monocytes can sometimes have a pseudolobulated nucleus, resembling that of a neutrophil.
+Band neutrophils are a type of immature neutrophil distinguished from mature neutrophils by a lack of clear segmentation in the shape of the nucleus. Other neutrophil precursors include myelocytes and metamyelocytes, which are classified by their stage of maturation.
+Reptiles have a type of mononuclear cell, thought to be a monocyte variant, called an azurophil. Birds, in contrast, lack azurophils.
+Mononuclear phagocytes arise primarily from bone marrow and are released into blood as monocytes. They can circulate for up to a few days before entering tissues and differentiating into macrophages.
+Neutrophils circulate for only a few hours before traveling to tissues. (See also Physiology of Leukocytes in Animals.)
+Phagocytes in Animals
+The principal function of phagocytes is to defend against invading microorganisms by ingesting and destroying them, thus contributing to cellular inflammatory responses.
+The process of phagocytosis can be divided into five distinct stages:
+Attraction of phagocytes (chemotaxis) to microorganisms, antigen-antibody complexes, and other inflammatory mediators
+Attachment to the organism
+Ingestion
+Fusion of cell lysosomes with ingested microorganisms and bacterial killing
+Digestion
+In addition, many phagocytes have other specialized functions.
+Functions of the immune system can be divided broadly into the innate immune system, which is rapid but nonspecific, and the adaptive immune system, which is slower but more specific toward specific pathogenic stimuli. The adaptive immune system can be further divided into cellular and humoral components. There is substantial cross-talk among these functional units of the immune system.
+Monocytes form a link to the adaptive immune system by processing antigen for presentation to lymphocytes and by producing substances such as IL-1, which initiates fever and lymphocyte activation and stimulates the development of early hematopoietic progenitors.
+Eosinophils, while having a role as phagocytes, also have more specific functions that include defending against metazoan parasites and modulating the inflammatory process. They respond chemotactically to histamine, immune complexes, and eosinophil chemotactic factor of anaphylaxis, a substance released by degranulating mast cells.
+Basophils are not true phagocytes but contain large amounts of histamine and other inflammatory mediators.
+Eosinophilia and basophilia may occur in response to systemic allergic reactions and to tissue invasion by parasites.
+As with RBCs, production and circulating numbers of phagocytes are tightly regulated and controlled by various humoral factors, including colony-stimulating factors and interleukins.
+Unlike RBCs, which remain circulating in blood, phagocytes use this compartment as a pathway to tissues. Consequently, the number of phagocytes in blood reflects circumstances in the tissues (eg, inflammation) as well as the proliferative function of bone marrow. The sensitivity with which phagocytes respond to these conditions varies from species to species.
+While neutrophilia is most commonly expected with tissue inflammation and infection, neutropenia can occur with overwhelming tissue demand, and some cases of neutropenia in dogs may be immune mediated. Regardless of the cause, severe neutropenia is likely to result in bacterial infection.
+Finally, phagocyte precursors may undergo malignant transformation, which results in acute or chronic myelogenous leukemia.
+Lymphocytes in Animals
+Lymphocytes are responsible for both humoral and cellular immunity. Cells of these two branches of the immune system cannot be differentiated morphologically; however, they differ in their dynamics of production and circulation.
+Lymphocyte production in mammals originates in bone marrow. Some lymphocytes destined to be involved in cellular immunity migrate to the thymus and differentiate further under the influence of thymic hormones. These become T cells and are responsible for a variety of helper or cytotoxic immunological functions. Most circulating lymphocytes are T cells, but T cells are also present in spleen and lymph nodes.
+B cells, on the other hand, migrate directly to organs without undergoing modification in the thymus and are responsible for humoral immunity (antibody production). (See also Physiology of Leukocytes in Animals.)
+Thus, lymphoid organs have populations of both B and T lymphocytes. In lymph nodes, follicular centers are primarily comprised of B cells, while parafollicular zones are primarily comprised of T cells. In the spleen, most lymphocytes of the red pulp are B cells, whereas those of the periarteriolar lymphoid sheaths are T cells. Close association of T cells and B cells within lymphoid organs is essential to immune function.
+Lymphocyte function in the cellular immune system features both afferent (receptor) and efferent (effector) components. Long-lived T cells of the peripheral blood are receptors. In response to antigens to which they have been previously sensitized, they leave the circulation and undergo blast transformation to form activated T cells, which in turn cause other T cells to undergo blast transformation, both locally and systemically. Stimulated T cells produce lymphokines with a wide range of activities, such as attraction and activation of neutrophils, macrophages, and lymphocytes.
+The humoral immune system is composed of B cells that produce several classes of antibodies. When sensitized B cells encounter antigen, they divide and differentiate into plasma cells that produce antibody. Therefore, each initially stimulated B cell produces a clone of plasma cells, all producing the same specific antibody.
+Antibody molecules (immunoglobulins) fall into several classes, each with its own functional characteristics:
+IgA is the principal antibody of respiratory and intestinal secretions.
+IgM is the first antibody produced in response to a newly recognized antigen.
+IgG is the principal antibody in circulating blood.
+IgE is the principal antibody involved in allergic reactions.
+Antibodies perform their functions by combining with specific antigens that stimulated their production. Antigen-antibody complexes can be chemotactic for phagocytes, or they can activate complement, a process that produces both cell lysis and substances chemotactic for neutrophils and macrophages. In this manner, the humoral immune system is related to, and interacts with, the innate immune system.
+The humoral immune system is also related to both the innate immune system and the cellular immune system in other ways. Both helper (CD4) and cytotoxic (CD8)T-cell classes have been described:
+Helper T cells recognize processed antigen and activate the humoral immune response.
+Cytotoxic T cells, after sensitization by antigen, are effector cells, which are especially important in antiviral immunity.
+Natural killer cells, a class of lymphocyte distinct from T cells and B cells, destroy foreign cells (eg, neoplastic cells), even without prior sensitization.
+Antigen processing by macrophages precedes recognition of an antigen by lymphocytes. These complex processes are involved in routine surveillance against neoplastic cells and recognition of normal “self” cells.
+Lymphocyte response in disease may be appropriate (activation of the immune system to defend against microorganisms) or inappropriate (immune-mediated disease and lymphoproliferative malignancies). (Also see The Biology of the Immune System.)
+Immune-mediated disease results from the immune system's failure to recognize host tissues as normal self cells. For example, in immune-mediated hemolytic anemia, antibodies are produced against the host’s own RBCs.
+Another inappropriate immune system response is allergy. In allergic individuals, IgE antibodies against allergens bind to the surface of basophils and mast cells. When exposure to an allergen occurs, antigen-antibody complexes form, and degranulation of mast cells and basophils releases vasoactive amines. Reaction to this can be mild (as in urticaria or atopy) or life-threatening (as in anaphylaxis).
+Lymphocytosis occurs in some species, especially cats, as a response to epinephrine secretion; lymphocytosis, therefore, may be nonspecific in this species and be accompanied by stress and a wide array of illnesses. Atypical lymphocytes may be present in the blood in response to antigenic stimulation (eg, vaccination). Persistent lymphocytosis in cattle infected with bovine leukemia virus is a benign polyclonal increase in lymphocyte numbers.
+Lymphoproliferative malignancies include lymphomas and acute lymphoblastic and chronic lymphocytic leukemias. Lymphopenia may occur most commonly in response to glucocorticoid secretion (stress, illness, hyperadrenocorticism) or exogenous corticosteroid medications. (See also Leukogram Abnormalities in Animals.)
+Key Points
+Phagocytes include granulocytes (neutrophils, eosinophils, and basophils), which circulate briefly, enter tissues, and have a short lifespan, and monocytes, which can persist for a long time in tissues as macrophages.
+T lymphocytes may be helper (CD4) T cells, which process antigens and interact with humoral antibody production, or cytotoxic (CD8) T cells, which act, when sensitized, against specific antigens.
+B lymphocytes differentiate into plasma cells and produce antibodies.
+Natural killer lymphocytes destroy foreign cells (eg, neoplastic cells or those of transplanted organs).
+For More Information
+Webb JL, Latimer KS. Leukocytes. In: Lattimer KS, ed, Duncan and Prasse’s Veterinary Laboratory Medicine: Clinical Pathology. 5th ed. Wiley-Blackwell; 2011:45-82.
+Weiser G. Interpretation of leukocyte responses in disease. In: Thrall MA, Allison RW, Campbell TW, Weiser G, eds. Veterinary Hematology, Clinical Chemistry, and Cytology. 3rd ed. Wiley-Blackwell; 2022:148-160.
+eClinpath. Physiology: hematopoiesis.
+Also see pet owner information regarding white blood cells of dogs.

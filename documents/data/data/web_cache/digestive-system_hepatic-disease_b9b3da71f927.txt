@@ -1,0 +1,32 @@
+Radiography in Hepatic Disease in Small Animals
+Routine abdominal radiographs are useful to determine liver size and may detect irregular liver borders.
+Mineralized densities overlying hepatic parenchyma or biliary structures may reflect mineralized choleliths or dystrophic mineralization associated with congenital bile duct malformations (DPMs), acquired duct sacculation secondary to chronic extrahepatic bile duct obstruction (EHBDO), or chronic bile duct inflammation.
+Choleliths containing enough calcium bilirubinate or calcium carbonate may be radiographically visible if > 3–5 mm in diameter. A mass effect in the right cranial (right cranial medial) quadrant in suspected EHBDO may represent an engorged gallbladder, pancreatitis, neoplasia, or focal bile peritonitis. Radiographic suspicion of abdominal effusion (poor abdominal detail) may prompt diagnosis of bile peritonitis or ascites.
+Gas within hepatic parenchyma or biliary structures indicates an emphysematous process (eg, cholecystitis, choledochitis, hepatic abscess, necrotic tumor mass) and warrants prompt antimicrobial treatment with either eventual surgical intervention or percutaneous, ultrasound-guided aspiration or lavage.
+Thoracic radiography may implicate systemic disease (eg, metastatic lesions, pleural fluid). Finding sternal lymphadenopathy is common in cats with the cholangitis/cholangiohepatitis syndrome, in which case it reflects hepatic or abdominal inflammation. However, this may also be due to lymphoma.
+Although cholecystography can be accomplished with iodinated contrast administered PO or IV, contrast radiographic imaging of the biliary system is rarely pursued. Distribution and concentration of some contrast agents in biliary structures are influenced by numerous variables, including hyperbilirubinemia and major duct occlusion. At best, these agents may disclose choleliths, polyps, or sludged bile but are insufficient to confirm bile peritonitis or to localize a site of bile leakage. Multisector CT or hepatic ultrasonography are more useful for discerning these disorders.
+Contrast studies of portal vasculature remain the gold standard for vascular imaging. Historically, radiographs were made in right and left lateral and ventrodorsal recumbency for best test sensitivity. Multisector CT imaging and intraoperative fluoroscopic portography have replaced radiographic portography in diagnosis of congenital portosystemic shunts. CT imaging allows contrast injection into a peripheral vessel and time-coordinated imaging of arterial and venous phases in thin slices that can undergo three-dimensional anatomic reconstruction.
+Ultrasonography in Hepatic Disease in Small Animals
+There are many diagnostic applications of ultrasonography in hepatic disease, including the following:
+assessing distention of biliary structures and mural thickness that may implicate bile duct or gallbladder obstruction, historic distension, malformations, or inflammation (choledochitis = wall inflammation; cholecystitis = gallbladder inflammation)
+detecting EHBDO and the site of obstruction important to consideration of differential diagnoses
+detecting gallbladder mucocele or cholelithiasis
+differentiating between diffuse and focal hepatic abnormalities
+identifying and determining dimensions of mass lesions and their arterial perfusion (specifies likelihood of hepatocellular carcinoma)
+identifying pancreatic structural changes (parenchyma, ducts, peripancreatic mesenteric fat hyperechogenicity) suggestive of pancreatitis
+detecting pancreatic, mesenteric, or hepatic hilar lymphadenopathy
+identifying congenital intrahepatic or extrahepatic portosystemic vascular anomalies (PSVAs), acquired portosystemic shunts (APSSs; caudal to the left renal vein), arteriovenous (AV) malformations, and hepatic venule distention reflecting passive congestion
+detecting large- or small-volume abdominal effusions and fluid loculated to specified regions (ie, small fluid volume adjacent to the gallbladder suggestive of gallbladder rupture, leakage, bile peritonitis)
+confirming liver torsion or diaphragmatic herniation
+Athough abdominal ultrasonography has become an indispensable diagnostic tool to assess the liver and biliary system, its use is highly operator dependent, and findings must always be reconciled with the clinical history, physical examination, and clinicopathologic data. Reconciliation of data is best done by the principal clinician managing the case, who has the most knowledge of the animal's management and prognosis, rather than an imaging agent.
+Some lesions of note can be completely missed on ultrasonography, not because of operator-related issues but rather because the change in parenchymal architecture is not detectable.
+Imaging helps guide considered differential diagnoses, decisions regarding the most prudent method of tissue collection if liver biopsy seems warranted, and prioritizing the urgency of surgical interventions; however, ultrasonography lacks the diagnostic value of histopathologic findings. Ultrasonography cannot definitively discern chronicity, fibrosis, glycogen-type from lipid-type vacuolation, abscessation from neoplasia, chronic hepatitis from acute hepatitis, or feline cholangiohepatitis. These diagnoses depend on histologic evaluation or at least cytologic sampling of liver tissue.
+Computed Tomography in Hepatic Disease in Small Animals
+Multisector CT imaging, available in specialty referral practices and university teaching hospitals, can do many things in hepatic disease:
+distinguish mass lesions and their arterial perfusion
+detect some structural changes in hepatic parenchyma and biliary structures
+confirm gallbladder and major bile duct distention and tortuosity of the cystic and common bile ducts consistent with EHBDO
+identify choleliths
+detect impaired portal venous perfusion, AV malformations, and portal thrombi
+detail the extent of traumatic hepatobiliary injuries and diaphragmatic hernias
+CT imaging can assist the surgical planning for resection of large, complicated hepatocellular carcinomas, attenuation of congenital portosystemic shunts, and repair of diaphragmatic hernias.

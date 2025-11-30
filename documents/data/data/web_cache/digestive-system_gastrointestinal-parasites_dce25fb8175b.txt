@@ -1,0 +1,37 @@
+Adult S lupi are bright red worms, 40 mm (male) to 70 mm (female) long, generally located within nodules in the esophageal wall. Infections occur in southern areas of the US as well as in many tropical and subtropical regions worldwide (eg, Greece, India, Israel, Japan, South Africa). Over the last two decades, global reports of spirocercosis in dogs have increased (eg, in Hungary and Israel). Dogs are infected by eating an intermediate host (usually dung beetle) or a paratenic host (eg, chickens, reptiles, rabbits, or rodents).
+The larvae migrate via the wall of the celiac artery to the thoracic aorta, where they usually remain for ~3 months. The final preferred location of adult parasites is the esophageal wall. Eggs are passed in feces ~5–6 months after infection. Adult parasites can live for 2+ years.
+Clinical Findings of S lupi Infection in Small Animals
+Most dogs with S lupi infection show no clinical signs; however, when signs are present, they most commonly include vomiting, weight loss, and coughing. When esophageal lesions are very large (usually when neoplastic), dogs may have difficulty swallowing and may vomit repeatedly after trying to eat. Affected dogs salivate profusely and eventually become emaciated.
+Associated complications include esophageal neoplasia, salivary gland enlargement, thickening of thoracic limb bones characteristic of hypertrophic osteopathy, and thoracic vertebral spondylitis. Occasional aberrant migration may result in neurologic signs; infarction of the small or large intestine may result in anorexia, weakness, and, less frequently, vomiting and diarrhea. Occasionally, a dog dies suddenly as the result of hemorrhage into the thorax after rupture of the aorta damaged by the developing worms.
+Disease is more commonly observed in large breeds and adult, stray, urban, and hunting dogs than in household pets, small breeds, and puppies.
+Lesions
+The characteristic lesions in S lupi are aneurysm of the thoracic aorta and nodules of variable size around worms in the esophagus. Esophageal nodules are classified as inflammatory, preneoplastic, or neoplastic with potential metastasis. Approximately 25% of esophageal nodules undergo neoplastic transformation, typically to one of four types of malignant sarcoma (fibrosarcoma, osteosarcoma, chondrosarcoma, or undifferentiated sarcoma). Exostoses may occur that bridge between ventral aspects of thoracic vertebrae. Dogs with Spirocerca-related sarcoma often develop hypertrophic osteopathy ( see Hypertrophic Osteopathy in Dogs).
+Diagnosis of S lupi Infection in Small Animals
+Clinical history and signs
+Identification of nodules using imaging
+Identification of S lupi eggs in feces
+Courtesy of Dr. Ronald Green.
+Endoscopy may reveal a nodule or an adult worm in the esophagus and is considered the gold standard for detection of canine esophageal spirocercosis (see imageEsophageal endoscopy, dog). A presumptive diagnosis can be made by radiographic examination when it reveals dense masses in the esophagus. A positive-contrast barium study may help define the lesion; a dilated esophagus and/or bone formation consistent with thoracic vertebral spondylitis may be observed.
+CT is an additional useful diagnostic tool, with a higher level of sensitivity than thoracic radiography for S lupi. However, while CT generally provides more information on the location and severity of the infection than radiographs, the specificity of the findings for S lupi is currently unclear.
+Diagnosis can be aided by demonstrating the characteristic small elongated eggs (11–15 × 30–38 mcm) that contain larvae. Eggs are most likely detected by fecal sedimentation. Fecal flotation using NaNO3 (specific gravity 1.36) or sugar flotation may also be used; however, these methods are less sensitive. Eggs are sporadically voided in feces and can be difficult to find, particularly if there is a neoplastic esophageal mass. PCR assay of feces is an additional diagnostic tool.
+Courtesy of Dr. Stephanie Nykamp.
+Courtesy of Gad Baneth.
+Courtesy of the National Center for Veterinary Parasitology, Oklahoma State University.
+Many infections are not diagnosed until necropsy. The nodules vary greatly in size and location in the esophagus but usually are sufficiently characteristic to be diagnostic, even if the worms are no longer present. Worms and nodules may be present in the lungs, trachea, mediastinum, stomach wall, or other abnormal locations.
+Healed aneurysms of the aorta persist for the life of the dog and are diagnostic of previous infection. When sarcomas are associated with the infection, the esophageal lesion usually is larger and often contains cartilage or bone; metastases frequently are present in the lungs, lymph nodes, heart, liver, or kidneys.
+Treatment and Control of S lupi Infection in Small Animals
+Doramectin
+Monitor efficacy with endoscopy and/or radiology
+Excision of nonmetastatic neoplasms
+Treatment of clinical cases of S lupi is often not possible based on the extent of the disease. Efficacy has been demonstrated for benign spirocercosis with doramectin (0.4 mg/kg, SC, six doses at 2-week intervals; additional treatments may be required). However, doramectin is not approved for use in dogs, and the specific breed toxicity associated with ivermectin in Collies and other herding dog breeds also occurs with doramectin. As alternatives, milbemycin oxime (0.5 mg/kg, PO, days 0, 7, 28, then monthly for at least 2 months) and 2.5% moxidectin/10% imidacloprid combination (2.5/10 mg/kg, respectively, topical, weekly for at least 12 weeks) have shown therapeutic efficacy but with lower success rates than with doramectin.
+For all treatment protocols, endoscopy and/or radiology should be used to evaluate treatment efficacy. Surgical removal usually is unsuccessful because of the large areas of the esophagus involved. In general, treatment is more effective if disease is diagnosed early. For dogs with Spirocerca-induced sarcomas, surgery is recommended when there is no evidence of metastasis and the neoplasm is in an accessible location. Endoscopic laser-assisted excision of esophageal tumors has the same prognosis as surgical excision; however, it has fewer potential complications and is less expensive.
+In endemic areas, dogs should be prevented from eating dung beetles, frogs, mice, lizards, etc and not fed raw chicken scraps. In Europe, monthly treatment with topical moxidectin/imidacloprid is approved for use in dogs as a preventive for S lupi infection.
+Key Points
+Spirocerca lupi (esophageal worm) is a parasite of dogs, typically acquired by ingestion of infected dung beetles.
+Adult parasites are usually found in the esophageal wall and elicit formation of nodules that may become neoplastic.
+Diagnosis is based on clinical history and signs, imaging (ideally endoscopy), and examination of feces for parasite eggs.
+Doramectin is currently the most effective treatment.
+Monthly treatment with topical moxidectin/imidacloprid can be used to prevent infection.
+For More Information
+Oesophageal Worm. Tropical Council for Companion Animal Parasites Ltd. Accessed Oct 3, 2022. https://www.troccap.com/canine-guidelines/gastrointestinal-parasites/oesophageal-worm/
+Rojas A, Dvir E, Baneth G. Insights on Spirocerca lupi, the carcinogenic dog nematode. Trends Parasitol 2020;36(1):52-63.

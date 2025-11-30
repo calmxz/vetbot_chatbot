@@ -1,0 +1,40 @@
+Clinical evaluation
+Blood pressure measurement
+Blood tests
+Electrocardiography
+Radiography
+Echocardiography
+Advanced imaging
+The mainstay of diagnosis of cardiovascular disease is clinical evaluation, based on history and signalment, plus physical examination (eg, inspection, auscultation, palpation).
+Heart disease should be considered if any of the following are identified on physical examination:
+rapid, slow, or irregular heartbeat, not due to respiratory sinus arrhythmia
+respiratory sinus arrhythmia that is absent even when the animal is at rest (can also occur due to pain, fever, or excitement)
+more than two heart sounds (eg, producing a “gallop” or extra heart sound) in any animal but a horse—most common in cats with cardiomyopathy or dogs with dilated cardiomyopathy
+loud murmur
+muffled heart sounds in the absence of obesity; may indicate pericardial or pleural effusion
+arterial pulsations that are bounding, rapid, feeble, or irregular, with more heartbeats than arterial pulsations (pulse deficits)
+fainting or decreased exercise tolerance in the absence of skeletal muscle disease or obesity
+acutely cyanotic mucous membranes in the absence of primary pulmonary disease
+Further diagnostic information is revealed by blood pressure measurement, heartworm and cardiac biomarker testing (N-terminal proBNP, brain natriuretic peptide [BNP], cardiac troponin I), thoracic radiography, electrocardiography (potentially with 24-hour Holter monitoring), and echocardiography (2D, M-mode, color and spectral Doppler, 3D). Genetic testing is also available for some types of heart disease.
+Additional advanced diagnostic tests include CT scan with angiography, diagnostic catheterization under fluoroscopic guidance with angiography, and cardiac MRI. Clear images must be obtained from radiography, electrocardiography, and echocardiography for accurate, valid interpretation.
+In dogs, heartworm disease is best diagnosed by detecting antigens of mature female heartworms circulating in blood. In cats, diagnosis of heartworm disease may entail heartworm antigen and antibody testing, supplemented by thoracic radiographs and echocardiography.
+Electrocardiography is specific for diagnosis of rhythm disturbances (eg, atrial fibrillation, AV block, sinus nodal dysfunction, ventricular premature contractions).
+Echocardiography (cardiac ultrasonography) is excellent to confirm tentative diagnoses, assess severity of valvular regurgitations and stenotic lesions, evaluate chamber enlargement and quantify systolic and diastolic myocardial function, characterize the form of cardiomyopathy in cats, detect cardiac tumors or pericardial disease, diagnose pulmonary hypertension or heartworm caval syndrome, and identify congenital cardiac defects.
+Thoracic radiography is the best diagnostic tool to evaluate the lungs for evidence of active congestive heart failure (CHF) or for further workup of the etiology of pulmonary hypertension, if present.
+Clinical nuances, as well as diagnostic results, are used to differentiate cardiac from noncardiac disease. For example, a middle-aged cat with labored breathing, intermittent lameness, and perhaps behavioral changes may have myocardial disease (eg, hypertrophic cardiomyopathy, resulting in heart failure or aortic thromboembolism), whereas an older cat with weight loss and behavioral changes is more likely to have hyperthyroidism, which can result in systemic hypertension and can exacerbate cardiac disease. Radiography, echocardiography, and NT-proBNP testing would be necessary to differentiate between cardiac and noncardiac causes of dyspnea in these cases. All diagnostic testing performed should be interpreted in conjunction with the whole clinical picture.
+Many heart diseases have specific breed prevalences:
+Older Cavalier King Charles Spaniels with a cough, labored breathing, exercise intolerance, and a left apical systolic heart murmur should be suspected of having left-sided CHF due to mitral regurgitation. However, chronic obstructive pulmonary disease with fibrosis can produce nearly identical clinical signs, and thoracic radiographs, echocardiography, and NT-proBNP testing may be needed to differentiate between cardiac and noncardiac causes of dyspnea.
+Middle-aged, depressed, coughing, exercise-intolerant Doberman Pinschers with a rapid, irregular heart rate may have dilated cardiomyopathy (DCM). Middle-aged to older Miniature Schnauzers that are fainting may have sick sinus syndrome.
+Boxers that faint intermittently should be suspected of having arrhythmogenic right ventricular cardiomyopathy; however, Boxers can also develop neurocardiogenic syncope or sick sinus syndrome, and Holter monitoring may be needed to diagnose the underlying cause of syncope and to formulate the best treatment plan.
+Echocardiography is more effective than radiography to detect enlargement of chambers of the heart and great vessels. In general, the degree of chamber enlargement or secondary cardiac remodeling parallels disease severity. However, the correlation between hemodynamic or echocardiographic measurements and prognosis is not always good; clinical parameters such as exercise intolerance and increased heart and respiratory rates appear to be better correlated to the severity of heart disease. NT-proBNP testing may also help in the prognostication of heart disease and heart failure.
+If a diagnosis cannot be made with standard cardiovascular testing, then advanced imaging under anesthesia should be performed. Advanced cardiac imaging studies include CT scan with angiography, diagnostic catheterization with hemodynamic monitoring and angiography under fluoroscopic guidance, transesophageal echocardiography, and cardiac MRI.
+See also an in-depth discussion of diagnosis of heart disease in animals.
+Key Points
+Diagnosis of cardiovascular disease is based on history, signalment, physical examination, cardiac biomarkers, thoracic radiography, electrocardiography, and echocardiography.
+Echocardiography is generally the most effective diagnostic tool to evaluate cardiac structure and function and to obtain a definitive cardiovascular diagnosis.
+All cardiovascular diagnostic test results should be interpreted in conjunction with the whole clinical picture.
+For More Information
+Ware WA, Bonagura JD. Cardiovascular Disease in Companion Animals: Dog, Cat and Horse. 2nd ed. CRC Press; 2021.
+Schwarzwald C, Mitchell KJ. Clinical Cardiology: An Issue of Veterinary Clinics Of North America: Equine Practice. Elsevier; 2019.
+Bonaguro JD. Overview of equine cardiac disease. Vet Clin North Am Equine Pract. 2019;35(1):1-22.
+Also see pet owner content regarding diagnosis of cardiovascular disease in dogs, cats, and horses.

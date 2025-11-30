@@ -1,0 +1,68 @@
+Etiology and Pathophysiology of Gastrointestinal Ulcers in Small Animals
+The gastric mucosal barrier is a complex defense mechanism, protecting normal mucosa from the harsh chemical environment of the gastric luminal contents. Gastric luminal peptides and gastric distention provide strong stimulation for gastric acid production.
+In response to stimulation, parietal cell H+,K+-ATPase and KCl transporters become incorporated into the parietal cell canalicular membrane. Upon stimulation, parietal cells release hydrogen ions into the gastric lumen in exchange for potassium, resulting in a very acidic environment.
+The gastric mucosal barrier protects the gastric epithelium from the highly acidic luminal contents. Tight junctions seal the cellular layers of the gastric mucosa, ensuring that luminal contents do not leak into or around these cells. A thick, bicarbonate-rich mucous layer covers the epithelial surface. The small amount of gastric acid that diffuses into epithelial cells is quickly cleared by the high blood flow to this area. This high blood flow also supports cellular metabolism and rapid renewal of injured cells. Local production of prostaglandins E2 and I2 helps maintain the GI mucosal blood flow and integrity, increase mucous and bicarbonate secretion, decrease acid secretion, and stimulate epithelial cell turnover.
+In the normal GI tract, the potential disruptive properties of luminal contents are balanced by the GI mucosal barrier's defense mechanisms. However, many drugs and diseases have the potential to upset the balance between the harsh luminal contents and the GI protective barrier. GI ulceration primarily targets the stomach and duodenum.
+A defect in the normal GI mucosal barrier leads to a self-perpetuating cycle of further mucosal damage. Injury to this barrier allows hydrochloric acid, bile acids, and proteolytic enzymes to degrade epithelial cells, disrupt lipid membranes, and induce inflammation and apoptosis. Back diffusion of luminal contents through the tight junctions leads to inflammation and hemorrhage of GI cells, with further acid secretion mediated by inflammatory cells and their products. Mast cell degranulation occurs, causing histamine release that perpetuates further gastric acid secretion.
+The inflammatory environment also causes decreased blood flow, resulting in ischemia, decreased ability for cellular repair, and decreased secretion of mucus and cytoprotective prostaglandins. Mucosal ulceration can result, exposing the submucosa or deeper layers of GI tissue to the harsh chemical luminal contents.
+The incidence of GI ulceration in dogs and cats is unknown but appears to be more common in dogs. NSAID administration, neoplasia, and hepatic disease are the most common reported causes of gastroduodenal ulceration or perforation in dogs. NSAIDs can cause direct topical damage to GI mucosa, and inhibition of cyclooxygenase-1 (COX-1) decreases production of protective prostaglandins. The use of COX-2-specific NSAIDs is thought to carry less risk for GI ulceration; however, ulceration and perforation can occur even with use of these medications.
+Primary GI neoplasia, such as lymphoma, adenocarcinoma, leiomyoma, and leiomyosarcoma, can result in ulceration due to local effects of the tumor. Additionally, paraneoplastic syndromes secondary to mast cell tumors and gastrinomas (eg, Zollinger-Ellison syndrome) have been associated with increased gastric hydrochloric acid production and subsequent ulceration in dogs.
+Various hepatic diseases (eg, acute hepatic injury, intrahepatic portosystemic shunt) are associated with gastroduodenal ulceration; however, the mechanism of disease is not known. Possible causes include increased gastric acid secretion and alterations in mucosal blood flow, potentially leading to ulcer formation.
+Other causes of GI ulceration in dogs include the following:
+major trauma
+spinal disease
+renal disease
+GI inflammation, such as inflammatory bowel disease or presence of a traumatic foreign body
+systemic inflammation, such as pancreatitis and sepsis
+extreme exercise, such as sled dog racing
+Corticosteroid therapy is a controversial cause of GI ulceration. Combining NSAID and corticosteroid therapies will increase risk of GI ulceration and is contraindicated.
+Causes of feline GI ulceration include neoplasia (eg, lymphoma, adenocarcinoma) and inflammatory disease (lymphoplasmacytic or eosinophilic inflammation).
+Clinical Findings of Gastrointestinal Ulcers in Small Animals
+Most patients with GI ulceration have nonspecific clinical signs, including vomiting, anorexia, abdominal pain, and weight loss. Signs of hematemesis and melena are variable.
+Clinical signs of a causative factor may be evident. Cats with GI ulceration rarely show specific clinical signs such as melena or hematemesis. Animals with severe ulceration or GI perforation may develop clinical signs of pain, weakness, pallor, and shock. Clinical signs consistent with sepsis can be present in cases of perforated ulcer.
+Some dogs and cats with GI ulceration do not show any clinical signs.
+Diagnosis of Gastrointestinal Ulcers in Small Animals
+Abdominal radiography and ultrasonography
+Endoscopy
+Abdominal radiographs generally do not help to diagnose nonperforating GI ulceration but can help rule out GI obstruction, intussusceptions, and peritonitis.
+Abdominal ultrasonography can reveal mural lesions, masses or ulceration, and non-GI lesions; however, overall sensitivity for ultrasonographic detection of nonperforated GI ulcers is low.
+Peritoneal fluid and gas can be detected radiographically or ultrasonographically in cases of perforating GI ulceration.
+Endoscopic detection of GI mucosal ulcers is typically considered the gold standard for diagnosis of GI ulceration.
+GI endoscopy allows visualization of the esophagus, stomach, duodenum, and colon and identification of mucosal lesions and ulcers. Endoscopy also allows for lesion fine-needle aspirates or biopsy collection, although full-thickness surgical biopsies may be required to identify infiltrative disease and tumors. Ulcerated areas should be biopsied only on the periphery to help avoid the potential complication of perforation.
+Capsule endoscopy is a noninvasive option to help visualize GI mucosal lesions (see duodenum ulceration image).
+Courtesy of Dr. Alice Defarges.
+A minimum database (CBC, serum biochemistry profile, and urinalysis) can help differentiate primary GI disease from non-GI disease and can identify metabolic derangements resulting from GI disease (see table Common Laboratory Abnormalities in Dogs and Cats With GI Ulceration).
+Additional testing, such as liver function tests or an ACTH stimulation test, may be warranted depending on the clinical picture and minimum database results.
+Common Laboratory Abnormalities in Dogs and Cats With GI Ulceration
+Treatment and Control of Gastrointestinal Ulcers in Small Animals
+Proton pump inhibitor therapy
+Address underlying cause (eg, discontinue NSAID therapy)
+Primary treatment of GI ulceration is directed at the underlying cause. Supportive care may be required to correct metabolic derangements and can include fluid therapy.
+Medication directed at the ulcer decreases gastric acidity, prevents further destruction of GI mucosa, and promotes ulcer healing. Optimal duration of antiulcerative therapy is not well described but is likely 4–6 weeks, based on recommendations in humans.
+Gastric acid production is stimulated by histamine (most potent), gastrin, and acetylcholine. Drugs that decrease acid secretion help protect damaged GI mucosa.
+Proton pump inhibitors (eg, omeprazole at 0.5–1.5 mg/kg, PO, every 12 hours; or pantoprazole at 1 mg/kg, IV, every 12 hours) offer more complete inhibition of gastric acid secretion than H2-receptor antagonists (eg, famotidine) by binding to and inhibiting the H+,K+-ATPase pumps of the parietal cell in an acidic environment. H2-receptor antagonists (eg, cimetidine, famotidine) decrease acid production by blocking H2-receptors on parietal cells, and some agents also act as prokinetics. Tachyphylaxis (diminishing response to successive drug doses) has been reported with short-term continuous use in dogs and cats.
+Famotidine (0.5–1 mg/kg, PO, SC, or IV, every 12–24 hours) has been shown to be more potent in decreasing gastric pH than other H2 blockers but is inferior to proton pump inhibitors.
+Combination therapy with an H2 blocker plus a proton pump inhibitor offers no benefit and may decrease the efficacy of the proton pump inhibitor.
+Pearls & Pitfalls
+Rebound hyperacidity is likely upon stopping a long treatment of either H2 blockers or proton pump inhibitors; dosage should be gradually tapered (eg, weekly decrease of 50%) when discontinuing proton pump administration in patients receiving therapy for ≥ 1 month.
+Because proton pump inhibitors are metabolized by cytochrome P450 enzymes, they can interfere with other drugs metabolized by this enzyme. Several drug classes (eg, antifungals) have been reported to have lower absorption in humans when administered simultaneously with proton pump inhibitors, thus caution should be taken if medications are prescribed concurrent with proton pump inhibitors.
+Prophylactic use of H2 blockers or proton pump inhibitors to prevent GI ulceration is controversial, although benefits have been observed in certain populations (eg, racing sled dogs). Antacids have a short half-life, and with scarce evidence of benefit to veterinary patients with GI ulceration, their utility is limited.
+The cytoprotective agent sucralfate (dogs: 0.5–1 g/dog, PO, every 8–12 hours; cats: 0.25 g/cat, PO, every 8–12 hours) consists of aluminum hydroxide and sucrose. Sucralfate's protective actions include binding to areas of eroded or ulcerated GI mucosa, cytoprotection, stimulating mucus and bicarbonate secretion, binding to pepsin, and decreasing apoptosis. Because this drug inhibits absorption, it should be administered separately from food or other drugs (1–2 hours before or after). Sucralfate was shown to help repair gastric mucosa when applied during or shortly after acid-induced injury, but there is no evidence that sucralfate provides benefit in addition to proton pump inhibitor therapy for GI ulceration in dogs or cats.
+Pearls & Pitfalls
+The prostaglandin E2 analogue misoprostol has cytoprotective and acid-inhibiting properties. The benefits of misoprostol for treatment of GI ulceration secondary to high-dose aspirin use have been reported in dogs; evidence for its use in treatment of NSAID- or corticosteroid-associated ulcer formation is sparse.
+Prophylactic use of antimicrobials can be considered in cases of major GI mucosal barrier disruption or shock or in other cases when clinicopathological signs (ie, fever, hematochezia, leukopenia, neutrophilia) suggest that bacterial translocation is of concern.
+Surgery is needed to treat perforated GI ulcers or in some cases for which medical management fails to resolve the ulceration.
+Prognosis of Gastrointestinal Ulcers in Small Animals
+The prognosis for GI ulceration in small animals depends on multiple factors, including reversibility of underlying causes, severity of ulceration, and rapidity of diagnosis and therapy. The prognosis is favorable in cases in which the underlying cause can be treated or removed, ulceration is mild, and the condition is rapidly diagnosed and treated appropriately.
+Ulceration associated with severe or end-stage conditions such as hepatic insufficiency is difficult to control. Perforated ulcers and peritonitis require more aggressive therapy and can be associated with poorer prognoses. Dogs and cats undergoing surgery for GI perforation have approximately a 60% mortality rate.
+The prognosis for GI ulceration related to neoplasia is typically poor, depending on the type of neoplasia.
+Key Points
+Administration of NSAIDs, neoplasia, and liver disease are risk factors for GI ulceration in dogs and cats.
+Proton pump inhibitors are superior to H2-receptor antagonists to decrease gastric acidity.
+Perforated GI ulcers have a poorer prognosis than nonperforated ulcers.
+For More Information
+Marks SL, Kook PH, Papich MG, Tolbert MK, Willard MD. ACVIM consensus statement: Support for rational administration of gastrointestinal protectants to dogs and cats. J Vet Intern Med. 2018;32(6):1823-1840.
+Daure E, Ross L, Webster CR. Gastroduodenal ulceration in small animals: part 1. Pathophysiology and epidemiology. J Am Anim Hosp Assoc. 2017;53(1):1-10.
+Daure E, Ross L, Webster CR. Gastroduodenal ulceration in small animals: part 2. Proton pump inhibitors and histamine-2 receptor antagonists. J Am Anim Hosp Assoc. 2017;53(1):11-23.
+Bottero E, Pierini A, Ruggiero P, Cattaneo D, Campanile A, Benvenuti E. Gastroduodenal ulceration detected endoscopically in cats: retrospective study of 61 patients. J Feline Med Surg. 2022;24(10):e347-e352.
+Also see pet owner content regarding gastrointestinal ulcers in dogs, cats, and horses.

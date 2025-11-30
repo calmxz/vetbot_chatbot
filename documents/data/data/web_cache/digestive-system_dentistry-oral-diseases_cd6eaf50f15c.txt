@@ -1,0 +1,83 @@
+Ptyalism in Small Animals
+Ptyalism is drooling of saliva. This may be caused by hypersialosis (hypersecretion of saliva) or pseudoptyalism (eg, secondary to conformational abnormalities of the lower lip or swallowing disorders secondary to oral or oropharyngeal pain, esophageal foreign body, etc in animals producing a normal quantity of saliva). Both are discussed together as ptyalism.
+Ptyalism may result from the following:
+drugs, toxins, or poisons (eg, organophosphates)
+local irritation or inflammation associated with stomatitis, glossitis (especially in cats), oral/oropharyngeal/esophageal foreign bodies, neoplasms, injuries, or other mucosal defects
+infectious diseases (eg, rabies), the nervous form of distemper, or other convulsive disorders
+motion sickness, fear, nervousness, or excitement
+reluctance to swallow or interference with swallowing (from irritation of the esophagus, esophageal obstruction by regional pathology, or from stimulation of GI receptors caused by gastritis or enteritis)
+sublingual lesions (eg, linear foreign body, tumor)
+tonsillitis
+administration of medicine (particularly in cats)
+conformational defects (eg, heavy, pendulous lower lips)
+metabolic disorders (eg, hepatic encephalopathy, especially in cats) or uremia
+abscess or other inflammatory blockage or condition of the salivary gland
+The possibility of rabies should be eliminated before oral examination is undertaken. The underlying cause, whether local or systemic, should be determined and treated. Acute moist dermatitis of the lips and face can develop if the skin is not kept as dry as possible. Cleansing with a dilute chlorhexidine solution, benzoyl peroxide, or other dermatological wipes may be helpful.
+Salivary Mucocele (Sialocele) in Small Animals
+A salivary mucocele, or sialocele, is an accumulation of saliva in the submucosal or subcutaneous tissues after damage to the salivary duct or gland capsule/parenchyma. This is the most common salivary gland disorder of dogs.
+Although any of the salivary glands can be affected, the sublingual and mandibular glands are involved most commonly (see salivary mucocele CT).
+Courtesy of Dr. Brenda Mulherin.
+Saliva often collects in the intermandibular or cranial cervical area (cervical mucocele). It can also collect in the sublingual tissue on the floor of the oral cavity (sublingual mucocele or ranula). A less common site is in the pharyngeal wall (pharyngeal mucocele) or lower eyelid (zygomatic mucocele).
+The inciting cause may be trauma or an inflammatory blockage or rupture of the duct or capsule (with damage to the parenchyma) of the sublingual, mandibular, parotid, or zygomatic salivary gland. Usually, the exact cause is not determined.
+A breed predilection has been suggested in Poodles, German Shepherd Dogs, Dachshunds, and Silky Terriers (1).
+Clinical Findings
+Clinical signs of a salivary mucocele depend on the site of saliva accumulation. In the acute phase of saliva accumulation, the inflammatory response results in swelling and pain. Frequently, this stage is not noted by the owner. The first observed clinical sign may be a nonpainful, slowly enlarging, fluctuant mass, frequently in the cervical region. A sublingual sialocele may not be observed until it is larger, traumatized, and bleeding. A pharyngeal mucocele can obstruct the airways and impair normal swallowing. A zygomatic mucocele may result in exophthalmos or enophthalmos, depending on its size and location.
+Diagnosis
+Palpation
+Sialography and CT
+A mucocele is detectable as a soft, fluctuant, painless mass that must be differentiated from other cysts, abscesses, and tumors. Pain or fever may be present if the mucocele becomes infected.
+A salivary mucocele usually can be diagnosed by palpation and aspiration of light brown or blood-tinged viscous saliva. Careful palpation with the patient in dorsal recumbency may help determine the affected side.
+Sialography, with standard radiographic equipment, can provide a more definitive identification of the affected tissues. CT (soft tissue algorithm with contrast) should ideally be performed to determine location, origin, and potential inciting cause of the mucocele. In addition, CT may provide information to rule out other differential diagnoses and assist in creating an appropriate treatment plan.
+Treatment
+Surgical resection
+Periodic drainage
+Treatment of salivary mucoceles includes surgical resection of the affected salivary gland and its duct.
+Due to the intimate association between the mandibular salivary gland and the monostomatic part of the sublingual salivary gland (sharing the same capsule), resection of both is performed regardless of the duct from which the mucocele originates. As much as possible of the polystomatic portion (located in the caudal sublingual region) of the sublingual salivary gland should also be included during resection to avoid mucocele recurrence.
+If surgical resection of the affected glands and ducts is not an option, periodic drainage of the mucocele is a temporary treatment option, which has the potential to introduce iatrogenic infection. Marsupialization can be effective if a permanent stoma can be created that allows saliva to flow into the mouth. This is usually only an option for sublingual and pharyngeal mucoceles.
+Salivary Fistulas in Small Animals
+Salivary fistulas are uncommon and can result from trauma to salivary glands. Wounds associated with the parotid gland or injury to its duct are most likely to develop a fistula. Injury may be the result of a traumatic wound (eg, a bite wound), abscess drainage, or prior surgery in the area with iatrogenic damage to the gland or its duct. The constant flow of saliva prevents healing, and a fistula develops.
+History of injury in the area of the gland or its duct, location of the fistula, and nature of the discharge are characteristic. A salivary fistula must be differentiated from a draining sinus tract (due to a penetrating foreign body, endodontic/periapical disease, etc) in the neck and from draining sinus tracts arising from congenital defects.
+Surgical ligation of the duct usually results in resolution; however, excision of the associated gland-duct complex may be necessary for complete resolution of clinical signs.
+Salivary Gland Tumors in Small Animals
+Salivary gland tumors are uncommon in dogs and cats, although cats are affected more frequently than dogs. Affected animals tend to be older (> 10 years old). No clear breed or sex predilection exists, although Poodles and Spaniels may be predisposed.
+Most salivary gland tumors are malignant, with adenocarcinomas and squamous cell carcinomas being the most common.
+Local infiltration and metastasis to regional lymph nodes and lungs are common. Local recurrence after surgical excision of a salivary gland tumor with margins that have extended beyond its capsule and started infiltrating adjacent soft tissue or bone is also common. Radiotherapy, with or without surgery, offers the best prognosis.
+Sialadenitis in Small Animals
+Sialadenitis, or inflammation of the salivary gland, may be due to trauma from penetrating wounds or systemic infection also affecting the salivary gland or surrounding tissue. Sialoliths may be a contributing factor, with associated ductal obstruction and parenchymal inflammation.
+Sialadenitis as a component of systemic disease has been reported with rabies, distemper, and the paramyxovirus that causes mumps in humans.
+Sialadenitis typically occurs in middle-aged to older dogs
+Clinical signs may include fever, lethargy, and enlarged regional lymph nodes. Painful swelling may be apparent along the vertical ear canal (parotid gland); caudal to the mandible (mandibular or sublingual gland); or in the orbital/retrobulbar area with exophthalmos, divergent strabismus, epiphora, and reluctance to the open the mouth (zygomatic gland). Mucopurulent material may be noted at the duct opening.
+Rupture of an abscessed gland discharges pus into the surrounding tissue or the mouth. Rupture through the skin may cause a salivary fistula to form.
+Advanced diagnostic imaging (CT, MRI) should be considered. Radiographs and laboratory tests are usually not helpful, although fine-needle aspiration and cytological evaluation of the sampled material can lead to a diagnosis. Histological examination of salivary gland tissue can reveal acute or chronic inflammatory changes or necrosis.
+Mild sialadenitis requires no treatment, and recovery is usually rapid and complete. Abscesses that have developed should be drained through the overlying skin or, if they involve the zygomatic gland, caudal to the last upper molar tooth on the affected side. Systemic antimicrobials should be administered according to culture and sensitivity results. Pain medication may be warranted if the patient exhibits evidence of discomfort.
+Recurrence or lack of resolution may require surgical removal of the affected gland.
+Sialadenosis and Necrotizing Sialometaplasia in Dogs
+Sialadenosis and necrotizing sialometaplasia (salivary gland necrosis or infarction) can occur in dogs of all ages; however, young adult to middle-aged small breeds (eg, Terriers) seem to be most often affected. Although both conditions appear to have similar history, clinical signs, and responses to phenobarbital treatment, it is not known whether sialadenosis can progress to necrotizing sialometaplasia.
+Sialadenosis is noninflammatory, nonneoplastic, usually bilateral enlargement of the mandibular or other salivary glands. Depending on the location, sialadenosis is associated with regional swelling and exophthalmos, if zygomatic salivary glands are affected.
+Sialadenosis is an apparently painless condition. Retching and gulping may be elicited by mild excitement and occur several times a day. Patients may exhibit weight loss, reluctance to exercise, snorting, lip smacking, nasal discharge, hypersalivation, inappetence, and listlessness. No obvious abnormalities are present on histological examination. Excessive saliva production may be associated with increased parasympathetic activity or changes in sympathetic innervation.
+Phenobarbital (1–2 mg/kg, PO, every 12 hours) administration usually results in lasting improvement, providing support for a neurogenic pathogenesis.
+Necrotizing sialometaplasia is an inflammatory lesion of the salivary glands that is characterized by squamous metaplasia of the salivary gland ducts and lobules, with ischemic necrosis of the salivary gland lobules. The mandibular salivary gland is most commonly affected; however, other salivary glands can also exhibit evidence of disease.
+Necrotizing sialometaplasia is frequently reported in small breed dogs.
+Clinical signs include salivary gland enlargement that may be painful on palpation, weight loss, ptyalism, retching, gagging, regurgitation, and vomiting. Affected dogs usually are listless, nauseated, painful, and anorectic. Other clinical signs include persistent swallowing, lip smacking, coughing, tachypnea, dyspnea, and abdominal respiration.
+Definitive diagnosis is by histological evaluation of the affected salivary gland.
+Surgical removal of the affected salivary gland produces minimal, if any, improvement in clinical signs. Pain management, antimicrobials (based on culture and sensitivity of the fluid/tissue aspirate), NSAIDs, anti-inflammatory doses of glucocorticoids, and control of internal parasites have resulted in favorable responses in some cases. Phenobarbital administration (1–2 mg/kg, PO, every 12 hours, liver value monitoring recommended) has resulted in dramatic improvement in several cases, providing support for a neurogenic pathogenesis.
+Xerostomia in Small Animals
+Xerostomia is a condition of oral dryness, or a lack of saliva, usually due to decreased production and secretion of saliva (hypoptyalism).
+Xerostomia is uncommon in dogs and cats but very common in human patients who have undergone radiotherapy for head and neck tumors that resulted in collateral radiation injury to the salivary glands. As radiation treatment becomes more common in veterinary medicine, xerostomia may become more frequent in animals.
+Decreased salivary secretion can also result from use of certain drugs (eg, atropine), extreme dehydration, pyrexia, or anesthesia. Xerostomia is present in some dogs with keratoconjunctivitis sicca and can be immune-mediated. Occasionally, it is due to disease of the salivary glands.
+Xerostomia can cause substantial discomfort and difficulty during eating and predispose teeth to disease (eg, caries). Swelling of the mandibular salivary glands and lymph nodes may be observed.
+Diagnostic imaging, including ultrasonography of the enlarged salivary glands, can demonstrate evidence of abnormal glandular architecture, as observed in humans. In addition, histological evaluation of the affected glands can also yield information to help diagnose the condition. Determination of the underlying cause is of primary importance.
+Treatment depends on the underlying cause. Physiologically balanced mouthwashes relieve discomfort that results from xerostomia. Fluids should be administered if the patient is dehydrated. Immunosuppressive therapy (eg, prednisolone, azathioprine) is indicated if immune-mediated disease is suspected.
+Key Points
+Salivary mucoceles (sialoceles) are the most common salivary disorder of dogs. A breed predilection in Poodles, German Shepherd Dogs, Dachshunds, and Silky Terriers has been suggested.
+Salivary gland tumors are relatively uncommon. Local infiltration and recurrence after surgery are common.
+Patients with sialadenitis may have clinical signs of fever, listlessness, pain, and swelling of regional lymph nodes. This condition may be self-limiting, necessitate administration of antimicrobials or pain medication, or require surgical removal of the affected gland.
+Sialadenosis is a nonpainful, noninflammatory, nonneoplastic enlargement of the salivary glands (frequently mandibular). This condition is commonly phenobarbital-responsive.
+For More Information
+Lieske DE, Rissi DR. A retrospective study of salivary gland diseases in 179 dogs (2010-2018). J Vet Diagn Invest. 2020;32(4):604-610.
+Mukaratirwa S, Petterino C, Bradley A. Spontaneous necrotizing sialometaplasia of the submandibular salivary gland in a Beagle dog. J Toxicol Pathol. 2015;28(3):177-180. Erratum in: J Toxicol Pathol. 2016;29(1):74.
+Alcoverro E, Tabar MD, Lloret A, Roura X, Pastor J, Planellas M. Phenobarbital-responsive sialadenosis in dogs: case series. Top Companion Anim Med. 2014;29(4):109-112.
+Nabeta R, Kambe N, Nakagawa Y, et al. Sjögren's-like syndrome in a dog. J Vet Med Sci. 2019;81(6):886-889.
+Also see pet owner content regarding disorders of the mouth in dogs.
+References
+American College of Veterinary Surgeons. Salivary mucocele.

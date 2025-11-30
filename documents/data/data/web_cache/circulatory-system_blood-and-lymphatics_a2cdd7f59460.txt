@@ -1,0 +1,14 @@
+A blood type, or blood group, is based on the inherited antigens on an RBC surface:
+The major blood group antigens on canine erythrocytes are classified as dog erythrocyte antigen (DEA).
+Blood group antigens in cats are classified according to the AB system.
+Other blood groups have been recognized outside of the DEA and AB systems.
+Exposure to foreign erythrocyte antigens (eg, via blood transfusion) can induce alloantibodies against these antigens in dogs and cats. Cats can have strong naturally occurring alloantibodies (NOAbs) against nonself blood types.
+Canine Blood Groups
+Recognized DEA blood groups include DEA 1, 3, 4, 5, 6, 7, and 8. DEA 1 is considered the most clinically relevant blood type in dogs. Historically, DEA 1 was subtyped into DEA 1.1, 1.2, and 1.3; however, quantitative differences in DEA 1 antigenic expression explain these subtypes. DEA 1 is now described as negative, weak positive, and 2+ to 4+ positive. Depending on geographic area, approximately 33–65% of dogs are DEA 1-positive. Anti-DEA 1 antibodies can be induced in DEA 1-negative dogs by transfusion with DEA 1-positive blood, leading to future hemolytic transfusion reactions.
+Other identified canine blood groups include Dal, the Japanese D1D2 system, and Kai 1 and 2.
+The Dal antigen is present on the surface of most canine erythrocytes, and therefore most dogs are considered Dal-positive. Breeds frequently negative for Dal include Doberman Pinschers, Dalmatians, and Shih Tzu, as well as Lhasa Apsos and Bichons Frises to a lesser extent. Exposure of Dal-negative dogs to Dal-positive erythrocytes leads to sensitization and hemolytic transfusion reactions upon repeated exposure.
+Feline Blood Groups
+The AB blood group is the predominant feline blood grouping system.
+Cats are most commonly positive for type A, although prevalence of type B varies geographically and by breed. Rarely, cats are positive for A and B antigens (type AB). The A antigen is inherited as a simple autosomal trait with A being dominant over B. The mode of inheritance for type AB is not known.
+The common erythrocyte antigen Mik was previously identified on the erythrocyte surface of most cats. Mik-negative cats can have NOAbs against Mik. In 2021, 5 novel feline erythrocyte antigen (FEA) blood groups were identified (designated FEA 1–5). NOAbs to these antigens can be present in cats that do not express the corresponding antigens.
+Typing reagents for Mik are no longer available; however, FEA 1 might correspond to the previously identified Mik antigen.

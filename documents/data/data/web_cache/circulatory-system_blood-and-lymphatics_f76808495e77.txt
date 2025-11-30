@@ -1,0 +1,8 @@
+Bleeding diathesis can be caused by congenital or acquired defects in the vasculature, platelets, or coagulation proteins.
+Congenital or acquired defects or deficiencies of platelets usually manifest as superficial petechial and ecchymotic hemorrhages (especially of mucous membranes), epistaxis, melena, or prolonged bleeding at injection and incision sites.
+Congenital or acquired deficiencies of coagulation proteins usually manifest clinically as delayed or recurring deep tissue hemorrhage, hematoma formation, and bleeding into joints and body cavities. Petechiae generally do not occur in conditions caused by abnormalities in coagulation proteins.
+Pathological thrombosis can result from primary or inherited disorders of anticoagulant protein factors or, more commonly, from acquired disorders. Collectively, these conditions are called hypercoagulable states.
+Syndromes, such as DIC, that enhance platelet responsiveness to agonists and alter the balance between anticoagulant and procoagulant protein factors or that increase the reactivity of endothelium are always secondary to another disease or injury that must be recognized and treated for a successful outcome. DIC is more common in animals than are inherited disorders.
+For More Information
+eClinPath.com (Cornell University): Hemostasis: Disorders
+Goggs R, Blais M-C, Brainard BM, et al. American College of Veterinary Emergency and Critical Care (ACVECC) Consensus on the Rational Use of Antithrombotics in Veterinary Critical Care (CURATIVE) guidelines: small animal. J Vet Emerg Crit Care (San Antonio). 2019;29(1):12-36.

@@ -1,0 +1,155 @@
+Internal Parasite (Endoparasite) Diagnosis in Small Animals
+Antemortem diagnosis of endoparasitic infections in small animals usually results from the detection of immature stages of the parasites that can be present in feces, urine, saliva-sputum, or blood.
+Fecal examination makes up a large part of laboratory diagnostic testing for parasitic infection. Detection of a wide range of endoparasites infecting small animals is possible through the use of various fecal examination techniques.
+Fecal examination techniques are noninvasive and relatively inexpensive, making them among the most cost-effective diagnostic tests available. Fecal samples should be as fresh as possible.
+Dog owners should be instructed to submit only samples collected immediately after deposit (to be certain the sample came from their own dog).
+Cat owners should clean the litter box and then collect the next available sample.
+Samples should be collected in leakproof, sealable plastic containers. If samples cannot be submitted within 2 hours of collection, they should be refrigerated at 4°C.
+Samples exposed to soil or grass for extended lengths of time are unsuitable because they could have been invaded by free-living nematodes.
+Samples incubated at room temperature for > 6 hours are unsuitable because it takes < 6 hours for helminth eggs to develop and hatch and for protozoal trophozoites or cysts to degrade.
+Immature parasite stages can be sporadically shed in the feces of an infected animal. Therefore, for animals showing clinical signs that suggest parasitic infection, a single negative fecal examination result is insufficient to rule out parasitism.
+To rule out parasitism, examinations should be conducted on three samples collected either on consecutive days or over 7–10 days.
+Pearls & Pitfalls
+False-positive results are possible with all of the fecal examination methods because of coprophagia (dogs) and hunting (cats, dogs).
+A dog that ingests feces containing helminth eggs, protozoal cysts, or nematode larvae from an infected animal will shed those parasites in its feces over the next several days.
+A cat or dog that hunts will shed in its feces the immature stages of any parasite that is in a prey animal it eats for several days after feeding on that animal.
+Examination of Feces for Internal Parasite Diagnosis in Small Animals
+The most widely used fecal examination methods are simple flotation and centrifugal flotation. Other methods include direct smear, simple sedimentation, Baermann examination, and ELISA. Each of these additional methods is preferred for certain indications, as detailed below.
+Simple Fecal Flotation
+Simple flotation is often done with commercial kits (see simple fecal flotation kit image), in which a small amount of feces is mixed with a high-specific-gravity (1.18–1.33) salt or sugar flotation solution in a chamber. The specific instructions for the commercial kit should be followed. In general, the instructions for these kits are a variation of the following:
+A small amount of feces is placed in the bottom of the chamber.
+The chamber is half filled with flotation medium.
+The insert is placed in the chamber and rotated back and forth one-quarter turn for 20–30 seconds to mix the feces with the flotation medium.
+The insert is firmly snapped into place in the chamber.
+The chamber is completely filled with flotation medium to form a positive meniscus.
+A coverslip or slide is added on top.
+The sample is allowed to sit for 5–10 minutes. The parasite stages are concentrated as they float up to the surface of the flotation medium and attach to the slide or coverslip.
+The coverslip is then placed on a glass slide and examined under the microscope using the 10X objective to identify the parasites.
+Courtesy of Dr. Gary Conboy.
+Centrifugal Fecal Flotation
+Detection sensitivity of fecal flotation is greatly improved if centrifugation is added (see centrifuge image). In general, centrifugal flotation is far superior to simple flotation for detecting parasites. The most dramatic example is the detection of the bipolar-plugged eggs of whipworms or capillarids.
+Pearls & Pitfalls
+Courtesy of Dr. Gary Conboy.
+Centrifugal flotation is conducted as follows:
+Approximately 1 teaspoon of feces (3–5 g) is mixed in flotation medium, sieved through cheesecloth or a tea strainer, poured into a test tube, and centrifuged at 650 g for 10 minutes.
+Flotation medium is then added to completely fill the test tube (forming a positive meniscus),
+A coverslip is added, and the sample is allowed to sit for 5–20 minutes.
+The coverslip is placed on a microscope slide, and the entire area under the coverslip is systematically examined, using the 10X objective of a compound microscope.
+Most helminth eggs and protozoal cysts are detected by centrifugal flotation (see dog sample and sheep sample images). Protozoal trophozoites, nematode larvae, spirurid eggs, acanthocephalan eggs, and operculate eggs (trematodes, Diphyllobothrium spp, Spirometra mansonoides) are not reliably detected by flotation methods.
+Pearls & Pitfalls
+Courtesy of Dr. Gary Conboy.
+Courtesy of Dr. Gary Conboy.
+Various flotation media are available for use. Sugar flotation medium has the advantage of not crystallizing as readily as salt solutions do; therefore, slides prepared with sugar medium can be stored for a few days in the refrigerator if there is a need to reexamine the slide or consult with a colleague.
+For use in small animal diagnostics, centrifugal flotation using zinc sulfate (ZnSO4; specific gravity 1.18) is considered the best option for detecting Giardia duodenalis cysts.
+Direct Smear
+The simplest and most inexpensive fecal examination test is the direct smear. A tiny speck of feces (on the end of an applicator stick) is mixed in a drop of saline solution on a microscope slide, and the slide is examined under a microscope. Care must be taken not to mix in too much fecal matter (print should be easily visible through the preparation if placed on a book). Turning down (partially closing) the condenser on the microscope helps decrease brightness and increases contrast, typically making it easier to see unstained parasite ova or trophozoites.
+Direct smear is the method of choice for detecting protozoal trophozoites such as G duodenalis and Tritrichomonas blagburni. When these parasites are suspected, direct smears should be done on very fresh feces (within 20 minutes of deposit) because the trophozoites die and become unrecognizable very quickly after feces are passed by an infected animal.
+All of the parasites listed above that are not reliably detected by centrifugal flotation can be diagnosed by direct smear; however, false-negative results are common because such a small amount of feces is examined.
+Simple Sedimentation
+Simple sedimentation is the method of choice for detecting operculate eggs. The test is simple to set up but relatively time-consuming to perform:
+A small amount of fecal matter (1–2 g) is mixed with water and passed through a coarse sieve (cheesecloth or tea strainer).
+The fecal-water solution is poured into a test tube and left to stand upright in a rack for 5 minutes.
+The supernatant is poured off, the tube is refilled with clean water, the sediment is resuspended by stirring with an applicator, and the tube is left to stand for another 5 minutes.
+This sequence is repeated a third time, during which the supernatant is poured off and the small amount of remaining fluid and sediment are examined microscopically (several drops placed on a slide with a coverslip added).
+Because of the time required to examine a sedimentation sample, this test should be reserved for cases in which an animal has clinical signs that suggest infection with a parasite that has eggs not reliably detected by centrifugal flotation.
+Simple sedimentation is the method of choice for the operculate eggs of trematodes (Alaria spp, Cryptocotyle lingua, Nanophyetus salmincola, Paragonimus kellicotti, Platynosomum illiciens) and pseudophyllidean cestodes (Diphyllobothrium spp, S mansonoides).
+When infection by the blood fluke Heterobilharzia americana is suspected, saline solution must be used instead of water for the sedimentation procedure. Water induces the eggs to hatch and release the ciliated miracidia, which would be lost with the supernatant, giving false-negative test results.
+Simple sedimentation is also recommended for detecting the eggs of spirurid worms (Physaloptera spp) or acanthocephalans (eg, Onicola canis), neither of which are reliably detected by flotation methods.
+Baermann Examination
+Baermann examination is the method of choice for detecting nematode larvae (ie, lungworms and Strongyloides stercoralis). The test is simple to set up; however, accurate identification of nematode larvae tends to be challenging.
+Extra care must be taken to ensure that the client has collected only fresh samples (ie, fecal matter collected and submitted within 2 hours of deposit or refrigerated immediately after collection and stored for no longer than 2–3 days before submission). In addition, the shedding of larvae in feces tends to be sporadic in animals infected with lungworms, increasing the chances of a false-negative result. Therefore, three Baermann examinations of samples collected on 3 consecutive days or every 2–3 days might be necessary to detect infections.
+Baermann examination requires a glass funnel with tubing attached, a clamp, a funnel rack, cheesecloth, and hot tap water (see Baermann examination setup image):
+With the clamp securely in place and closing off the tubing, the funnel is half-filled with hot tap water (not too hot to touch without gloves).
+Approximately 10–20 g of fresh feces is placed in a double layer of cheesecloth, and an applicator stick is pushed through the cheesecloth corners to form a sling around the fecal sample.
+The cheesecloth-wrapped sample is placed in the water and left to sit for at least 8 hours.
+With care taken not to spill any of the first drops, the clamp is gently released, and the fluid is caught in a 15-mL test tube.
+The tube is centrifuged (650 g, 10 minutes), the supernatant is discarded, and the few remaining drops and sediment are examined by placing a drop on a microscope slide and adding a coverslip.
+Courtesy of Dr. Gary Conboy.
+Nematode larvae are usually fairly active, moving vigorously, so they are relatively easy to see under the microscope's 10X objective. Once detected, the larvae should be killed to examine them in detail for accurate identification. The larvae might be killed simply by placing a drop of dilute iodine (approximately the color of tea) at the edge of the coverslip and allowing it to wick across the parasites under the coverslip.
+Baermann examination is the method of choice for detecting intestinal infections caused by S stercoralis (in dogs) and cardiorespiratory infections caused by Aelurostrongylus abstrusus (in cats), Angiostrongylus vasorum (in dogs), and Crenosoma vulpis (in dogs).
+Baermann examination is not the method of choice for identifying infections caused by Filaroides hirthi or Oslerus osleri in dogs. The larvae of these two pathogens lack the vigor and motility necessary to swim from the fecal sample out into warm water; therefore, they are not reliably detected by Baermann examination.
+For F hirthi and O osleri in dogs, microscopic examination of saliva, sputum, or samples from transtracheal wash or bronchoalveolar lavage is recommended instead. Bronchoscopy also can be used to identify the large wartlike nodules of O osleri at the bifurcation of the trachea.
+Immunological Tests
+A commercially available fecal ELISA can be used to test for G duodenalis infection in dogs and cats. It is accurate and more sensitive than a single ZnSO4 centrifugal flotation examination performed by an experienced laboratory diagnostician.
+A single ELISA is approximately equivalent to performing three ZnSO4 centrifugal flotation examinations. This ELISA does not require the skill level and experience that are necessary for an accurate morphological diagnosis.
+One disadvantage of ELISA is expense: it detects only one pathogen, whereas fecal flotation can detect multiple parasites. In addition, ELISA produces positive results for a prolonged period of time in animals that have been treated, have recovered, and no longer appear to be shedding cysts in the feces. Therefore, it is not suitable for posttreatment monitoring or when a dog must test negative to reenter a canine day care facility.
+Pearls & Pitfalls
+In cats with tritrichomoniasis, although the trophozoites of T blagburni are readily detected by direct smear, they cannot be differentiated from those of the nonpathogenic Pentatrichomonas spp. Definitive diagnosis requires the culturing of feces, followed by PCR assay.
+Examination of Urine for Internal Parasite Diagnosis in Small Animals
+The eggs of Pearsonema plica (syn Capillaria plica) and Dioctophyme renale might be detected in the sediment during urinalysis of dogs.
+The eggs of P plica are bipolar plugged and contain a single embryo cell. The eggs of D renale have a thick shell wall, are slightly larger, and contain a two-celled embryo.
+The bipolar-plugged eggs of Pearsonema feliscati (syn Capillaria feliscati) can be detected in the urine of cats.
+Examination of Saliva-Sputum for Internal Parasite Diagnosis in Small Animals
+See the discussion of F hirthi and O osleri under Baermann Examination above.
+Examination of Blood for Internal Parasite Diagnosis in Small Animals
+Blood samples are examined to detect infection by heartworm (Dirofilaria immitis) and various bloodborne protozoal parasites (eg, Babesia spp, Cytauxzoon felis, Hepatozoon canis).
+Testing for Heartworm
+Currently, both an antigen detection test and a microfilaria test are recommended for the laboratory diagnosis of heartworm infection in dogs.
+Various commercial antigen test options are available for detecting D immitis infection in dogs and cats. These tests detect circulating adult female antigens and are recommended for use in animals that were exposed at least 7 months before testing.
+The tests are so accurate and sensitive that clinicians can easily forget that both false-negative and false-positive results are still possible. Previously, false-negatives were thought to occur only if the animal was tested too soon after exposure (ie, before 7 months) or if very few female worms were present. It is now recognized that some dogs test negative even when a large worm burden is present, because the antigen can be sequestered in antibody-antigen complexes.
+The current recommendation of doing both an antigen test and a microfilaria test achieves the greatest detection sensitivity. The microfilaria tests with the highest detection sensitivity are the modified Knott's test and the filter test. Both tests examine anticoagulated blood, mixed with formalin and dyed with methylene blue, to enable identification of microfilariae on a microscope slide, as outlined here:
+Modified Knott's test:
+1 mL of anticoagulated blood (EDTA or heparin) is added to 9 mL of 2% formalin in a 15-mL test tube.
+The blood is immediately mixed with the formalin by inverting the test tube up and down 5–6 times.
+The sample is centrifuged (173 g for 5 minutes).
+The supernatant is poured off.
+1–2 drops of 0.1% methylene blue are added, and the sediment is resuspended into the dye by stirring with an applicator stick.
+The solution is pipetted onto a slide, coverslipped, and examined using the 10X objective of a compound microscope.
+The entire volume of the 0.1% methylene blue–sediment mixture is microscopically examined.
+Filter test:
+1 mL of anticoagulated blood (EDTA or heparin) is added to 9 mL of 2% formalin in a syringe.
+The blood is immediately mixed with the formalin by inverting the syringe up and down 5–6 times
+The syringe is attached to a filter holder containing a 25-mm filter with a 5-mcm pore size.
+The plunger is depressed, pushing the entire mixture through the filter.
+The syringe is refilled with water, and the water mixture is pushed through the filter.
+The syringe is refilled with air, and the air is pushed through the filter.
+The filter holder is unscrewed, and the filter is removed with a forceps and placed on a microscope slide (syringe side up).
+One drop of 0.1% methylene blue is added, and the sample is coverslipped and examined using the 10X objective of a compound microscope.
+Note that 25–33% of infected dogs have no circulating microfilariae, making the infection undetectable by these tests.
+Besides containing D immitis microfilariae, canine blood samples in North America might also contain microfilariae of the nonpathogenic, subcutaneous-dwelling worm Acanthocheilonema reconditum (formerly Dipetalonema reconditum). The microfilariae of D immitis and A reconditum can be differentiated by size and morphology using the modified Knott's test (see Knott's test sample image). They cannot be differentiated with the filter test.
+Courtesy of Dr. Gary Conboy.
+Less sensitive methods of detection are the direct blood smear (drop of blood placed on a slide, covered with a coverslip, and examined for microfilariae) and the hematocrit tube test (blood is centrifuged, and the buffy coat is examined microscopically as microfilariae migrate into the plasma). In addition, microfilariae can be detected on a dried blood smear stained with Wright-Giemsa stain.
+Diagnosis of heartworm infection in cats is based on a combination of the antigen test and an antibody test. The antigen tests are less useful in cats than in dogs because of the lower worm burdens that typically occur in cats.
+Available for use in cats, antibody tests detect circulating antibody and therefore detect exposure. Both tests of cats that are currently infected and of cats that have been exposed in the past give positive results. Because infected cats rarely have circulating microfilariae, microfilaria tests are not recommended for use in cats.
+Testing for Bloodborne Protozoa
+The bloodborne protozoal parasites Babesia spp, Cytauxzoon felis, and Hepatozoon canis can be detected on dried, Giemsa-stained hematology blood smears and by immunological and molecular methods.
+Parasitemia is the most pronounced in the acute phase of the infection and therefore can be detected on stained blood smears. As infections become more chronic, parasitemia might not be present, necessitating immunological methods (ELISA, immunofluorescence assay, indirect hemagglutination assay) or molecular methods.
+Morphological Identification
+To achieve the expertise necessary for making accurate morphological identification of various immature parasite stages requires a high level of training and experience. A very subjective acquired skill, it requires the ability to recognize and evaluate subtle morphological characteristics. An extremely valuable tool that adds objective data to morphological assessment of parasite stages is an ocular micrometer.
+An ocular micrometer is a small scale that fits into the eyepiece of the compound microscope and is calibrated for each objective of the microscope. It allows the user to measure the size of each parasite found on the slide, thereby facilitating accurate characterization and diagnosis. It is relatively inexpensive and can be easily moved to another microscope as needed. Ocular micrometers can be purchased from any microscope dealer.
+Internal Parasite (Endoparasite) Diagnosis in Horses and Production Animals
+Fresh fecal samples from production animals should be collected from pasture, barn, or, preferably, the animal's rectum using plastic gloves. Samples should be placed in a properly identified, sealed specimen jar. Samples > 6 hours old are unsuitable for the same reasons that are stated above for pet fecal sample collection.
+A representative number of herd samples should be collected from a minimum of 10 animals to account for the typical high individual variation in the number of eggs shed. Samples can be combined after thorough mixing to enable examination of a single composite sample for the herd.
+Refrigeration is important for sample integrity; unless refrigerated, helminth eggs can develop and hatch in samples collected in the morning and not returned to the laboratory until the end of the day.
+The same qualitative fecal examination methods described above for small animals are used in horses and production animals.
+Quantitative fecal egg count (FEC) methods are also used in large animal practice. FECs are a necessary tool for the early detection of anthelmintic resistance, and they are the cornerstone upon which selective programs in equine parasite control are based.
+The Cornell-Wisconsin (double-centrifugation)and McMaster methods are available for obtaining FECs in production animals. The mini-FLOTAC device is a newer apparatus for fecal egg detection that is now commercially available in the US.
+The Cornell-Wisconsin double-centrifugation technique is the most sensitive FEC method and should be used only when relatively low counts are expected (as with adult cattle or camelids). At counts of > 100 eggs per gram (EPG), counting fatigue negatively affects FEC accuracy. In such situations, more accurate counts will be achieved using a dilution method such as the McMaster count.
+The mini-FLOTAC procedure is more sensitive than the McMaster method; however, it is also more time-consuming.
+In ruminants, these FEC methods can be used to estimate relative infection burden for nematodes of the “GI parasite complex” (eg, trichostrongylid eggs of cattle), while also detecting coccidia and other parasites, such as tapeworms. In horses, FECs are used mainly to quantify fecal shedding of strongylid eggs.
+The Cornell-Wisconsin method consists of the following steps:
+Three grams of fecal matter is placed in a container, suspended in approximately 15 mL of water, strained through a gauze square into a 15-mL tube, and centrifuged (270 g, 10 minutes).
+The supernatant is poured off, and the sediment is mixed with saturated sugar solution, filling the tube enough to form a positive meniscus before a 22 × 22-mm coverslip is placed on the lip of the test tube.
+The tube is centrifuged again at low speed (270 g, 5 minutes).
+The coverslip, with the surface film containing eggs, is removed and transferred to a microscope slide to count trichostrongylid eggs in cattle, sheep, goat, or camelid feces.
+The total is divided by 3 to derive the EPG.
+Other parasites are noted, if present, and assigned a general abundance designation of +1 (few), +2 (small number), +3 (large number), or +4 (too numerous to count).
+When FECs are likely to be high (> 100 EPG), the McMaster or mini-FLOTAC method is recommended. Both methods use a calibrated slide or chamber and sugar flotation medium. A saturated solution of table salt (specific gravity 1.20) is an inexpensive alternative medium for diagnosing production animal parasites; however, salt can be highly corrosive to metal surfaces. Magnesium sulfate (specific gravity 1.20) is the preferred medium for swine feces.
+McMaster slides contain two chambers with etched areas of known volume (see McMaster slide image) that are used to estimate the EPG and are frequently used for FECs in horses and small ruminants. The McMaster method proceeds as follows:
+Fecal matter (4 g) mixed with sugar flotation medium (56 mL) is strained (through cheesecloth or tea strainer).
+After thorough mixing, the solution is introduced into each chamber with a Pasteur pipette.
+The eggs within the marked grid are counted under low-power magnification (10X objective).
+Courtesy of Dr. Gary Conboy.
+Each chamber of the McMaster slide has a volume of 0.15 mL under the etched grid. Because two chambers are examined, 0.3 mL is evaluated from the total sample volume of 60 mL (ie, the total sample is 200 times greater than the portion examined). For example, if 4 g of fecal matter is mixed with 56 mL of sugar solution, then each egg counted is multiplied by 50 (ie, the factor of 200 noted above, divided by 4 g of feces in the original sample) to yield the EPG in the fecal sample (ie, the sensitivity is 50 EPG). In horses, the sensitivity can be increased to 25 EPG by using 4 g of feces in half the volume (26 mL) of sugar solution; the total number of eggs counted on the slide (in chambers 1 and 2) is still multiplied by 50 to yield the EPG.
+Acceptable correlation between the EPG and the relative worm burden is often possible in young animals; adult animals, however, typically have low (< 5 EPG) or zero counts.
+In young cattle, which generally have EPG counts 10 times higher than those of adult animals, EPG counts > 50 reflect a moderate infection, and EPG counts > 500 indicate a heavy burden and a need for treatment. There is no consensus on the exact number; however, treatment thresholds of ≥ 250 EPG are often used for strongyle control programs in horses. For sheep and goats, an EPG count > 5,000 is considered high and warrants treatment.
+Because fluke eggs do not float readily, quantitative fecal sedimentation procedures are usually used:
+Two grams of fecal matter is mixed with 35 mL of soapy solution (2% liquid detergent) and strained through gauze into a 50-mL centrifuge tube.
+The tube is filled with soapy water and allowed to stand for 3 minutes, after which half of the supernatant is discarded.
+This procedure is repeated two or three times, until the supernatant is clean.
+All but 15 mL is poured off, and two drops of new methylene blue are added.
+The eggs are counted with a dissecting microscope in a gridded Petri dish or by examining several coverslipped microscope slides of the new methylene blue mixture.
+The eggs of the liver fluke Fasciola hepatica can be differentiated from those of Paramphistomum rumen flukes by their golden color, more distinct barrel shape, and slightly greater size, compared with the gray color, more pointy end, and lesser size of the usually nonpathogenic rumen fluke eggs. Commercial sieve-sediment kits can decrease sample preparation time by 50%.
+In cattle, Fasciola EPG counts of > 3 suggest economic losses, and an EPG count of > 10 might be associated with clinical signs.
+External Parasite (Ectoparasite) Examination in Small Animals and Production Animals
+See related chapters in the Integumentary System section.

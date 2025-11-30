@@ -1,0 +1,44 @@
+Helicobacter spp are commonly found in the stomachs of both healthy and vomiting dogs and cats; however, their significance is not well defined. Although H pylori infections in humans have been linked to gastritis, peptic ulcers, and a higher rate of gastric neoplasia, similar direct causative relationships between Helicobacter infections and GI disease have not been established in dogs and cats.
+Etiology and Pathophysiology of Helicobacter Infection in Small Animals
+Helicobacter organisms are spiral or curved, gram-negative, motile, flagellated bacteria. H pylori is the most commonly reported species in human GI infections; however, non–H pylori organisms (such as H canis, H felis, H heilmannii, and H bizzozeronii) are more common in dogs and cats. At least 38 different Helicobacter spp have been identified in animals, and infected animals can harbor multiple species.
+Gastric and enterohepatic groups of Helicobacter spp are recognized. Helicobacter organisms have been identified most commonly in gastric tissue of dogs and cats, especially in the gastric fundus and cardia, but they are also found in the intestines and liver. Colonization of gastric mucosa appears to be most prevalent in the surface mucus layer and within gastric glands and parietal cells. Helicobacter organisms have been identified in the hepatic tissue of a dog with multifocal necrotizing hepatitis, as well as in healthy cats and in cats with cholangiohepatitis.
+Whether Helicobacter infections can be transmitted between groups of dogs or cats is unclear, and reservoir hosts have not been defined. Because of the increased rates of morbidity and mortality associated with Helicobacter infections in humans, concerns about zoonotic transmission have been raised.
+Clinical Findings and Diagnosis of Helicobacter Infection in Small Animals
+Impression smear
+PCR assay
+Histological examination
+Helicobacter spp can be found incidentally or in healthy individuals; simultaneous detection of both marked gastritis and Helicobacter in samples could suggest Helicobacter-associated gastritis.
+Studies report up to 100% of healthy dogs and cats are positive for Helicobacter infections; similar infection rates are reported in vomiting dogs and cats.
+In humans, H pylori infection is associated with gastritis, peptic ulcers, and increased risk of gastric neoplasia.
+Gastritis, vomiting, and diarrhea have been associated with Helicobacter infection in dogs and cats, although a direct causative relationship has not been identified.
+Peptic ulceration is rarely associated with Helicobacter infections in dogs and cats. It is not known whether Helicobacter infection increases risk of gastric neoplasia in dogs or cats.
+Diagnosis involves upper GI endoscopy or exploratory laparotomy.
+Surface mucus from a large area of the stomach can be obtained by taking brush samples via endoscopy. Because brush cytology samples a large area of the stomach, the sensitivity of this test is high. Organisms can be readily identified under the 100X oil-immersion objective lens.
+Gastric biopsies should be obtained from multiple areas in the stomach because organism distribution can be patchy. Routine H&E staining is usually sufficient to identify organisms, although special silver stains may be required if the organisms have a glandular location.
+Mucosal inflammation, glandular degeneration, and lymphoid follicle hyperplasia accompany some infections.
+Cytological and histological testing is not sufficient to identify specific species. A commercially available rapid urease test to detect production of bacterial urease in gastric biopsies can identify the presence of Helicobacter organisms or other urease-producing bacteria. However, because cytological and histological tests are highly sensitive and specific for detection of Helicobacter infections, urease testing may not add further diagnostic information in some cases.
+Noninvasive tests for Helicobacter infection available in the research setting include urea breath testing, fecal antigen detection, and serological testing. However, these tests are not commercially available.
+Treatment of Helicobacter Infection in Small Animals
+Treatment is not likely to eradicate Helicobacter spp and might not be warranted because of the controversy over its association with clinical signs.
+Combination therapy for Helicobacter-associated gastritis
+The lack of knowledge regarding the pathogenicity of Helicobacter infections in dogs and cats makes treatment decisions difficult.
+H pylori infections in humans are treated with a variety of approaches, including double or triple antimicrobial agent therapy plus an acid secretory inhibitor (eg, clarithromycin, amoxicillin, bismuth subsalicylate, and a proton pump inhibitor) for 2 weeks (1, 2). Similar therapeutic approaches have been used in veterinary medicine.
+Currently, the role of Helicobacter as a causative agent of gastritis in dogs and cats is unclear. Treatment decisions for dogs and cats should be based on the presence of Helicobacter in combination with appropriate clinical signs and/or gastric lesions.
+Pearls & Pitfalls
+In many veterinary studies, Helicobacter infections have been difficult to eradicate. Recommended treatment regimens include amoxicillin or tetracycline, metronidazole, bismuth subsalicylate, and a proton pump inhibitor (eg, omeprazole) or H2-receptor blocker (eg, famotidine) for 2–3 weeks. Other treatment combinations of omeprazole and azithromycin or clarithromycin have been described.
+Although many dogs and cats treated with the above combinations did not experience longterm eradication of Helicobacter infection when retested, the frequency of vomiting and gastric lesions did improve with therapy for many patients.
+Zoonotic Risk of Helicobacter Infection in Small Animals
+Non–H pylori Helicobacter spp are increasingly identified in humans, suggesting the possible zoonotic transmission of these organisms. Transmission of Helicobacter infections from dogs and cats to humans is possible. Helicobacter species such as H canis, H felis, and H heilmannii naturally colonize the stomachs of dogs and cats, and these strains of Helicobacter have been linked to gastritis, ulcers, and lymphoma in humans.
+Although many strains of Helicobacter in dogs and cats are genetically distinct from those implicated in human infections, some case reports document a genetically identical strain of Helicobacter in a person and a pet in the same household. Some studies suggest a higher risk of Helicobacter infection in people who are in contact with dogs and cats; however, other research has not supported this association.
+Given the unknown risk of transmission, proper hygiene practices are encouraged, and identification of infections in dogs and cats with chronic gastritis and vomiting is likely prudent.
+Key Points
+Helicobacter is an important cause of GI disease in humans, but a similar link has not been established in dogs and cats.
+The zoonotic potential of Helicobacter is not known, and proper hygiene practices are recommended when handling pets suspected or known to have Helicobacter infection.
+For More Information
+Taillieu E, Chiers K, Amorim I, et al. Gastric Helicobacter species associated with dogs, cats and pigs: significance for public and animal health. Vet Res. 2022;53(1):42.
+Husnik R, Klimes J, Kovarikova S, Kolorz M. Helicobacter species and their association with gastric pathology in a cohort of dogs with chronic gastrointestinal signs. Animals (Basel). 2022;12(10):1254.
+Kubota-Aizawa S, Ohno K, Kanemoto H, et al. Epidemiological study on feline gastric Helicobacter spp. in Japan. J Vet Med Sci. 2017;79(5):876-880.
+Also see pet owner content regarding Helicobacter infection in dogs and cats.
+References
+Fallone CA, Chiba N, van Zanten SV, et al. The Toronto consensus for the treatment of Helicobacter pylori infection in adults. Gastroenterol. 2016;151(1):51-69. doi:10.1053/j.gastro.2016.04.006
+Chey WD, Leontiadis GI, Howden CW, Moss SF. ACG clinical guideline: treatment of Helicobacter pylori infection. Am J Gastroenterol. 2017;112(2):212-239. doi:10.1038/ajg.2016.563
