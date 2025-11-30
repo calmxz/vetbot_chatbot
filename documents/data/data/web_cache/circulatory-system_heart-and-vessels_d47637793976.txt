@@ -1,0 +1,111 @@
+Bovine high-mountain disease (BHMD) is characterized by swelling due to edema in the ventral parasternal muscles (sternal region), ventral abdomen, and submandibular region in cattle raised at high altitudes (> 1,524 meters [5,000 feet]).
+In the US, BHMD most commonly and substantially affects cattle in Colorado, Wyoming, New Mexico, and Utah. It also affects cattle in other mountainous regions of the world, predominantly at elevations > 1,981 meters [6,500 feet]) in western Canada and South America.
+BHMD occurs in cattle of all ages and breeds. The most commonly affected animals are calves 6–8 months old. BHMD occurs during high-stress periods—ie, during weaning or in the fall months, when there is weather stress, including extreme temperature variation. No cattle breed appears to be totally resistant to the effects that high altitude has on the development of BHMD; however, susceptibility varies across breeds.
+BHMD results from pulmonary arterial hypertension induced by pulmonary hypoxia occurring at high altitude. Hypoxia-induced pulmonary arterial vasoconstriction and arterial hyperplasia decrease the diameter of the pulmonary arterioles, leading to pulmonary hypertension and subsequent right ventricular (RV) hypertrophy. Without intervention to lower hypoxia-induced pulmonary hypertension, the disease eventually progresses to RV congestive or dilatory failure.
+The incidence of BHMD in cattle on high-mountain pastures averages 3%–5% (varying from 0.5% to 10%); however, it has been as high as 65% in genetically susceptible calves. A 25% rate of calf loss due to BHMD is not uncommon at high elevations in Colorado and Wyoming.
+Although BHMD is most commonly associated with high altitude, other genetic, physiological, environmental, and toxic factors play important roles in disease development and progression. Any pulmonary disease, acute or chronic, that hinders pulmonary function can result in a hypoxic condition similar to altitude-induced BHMD.
+A condition similar to BHMD has been observed in feedlots, wherein excessive body size and obesity lead to cardiac failure; this phenomenon is the subject of current research. Although these feedlots are not at high elevations (they are at ≤ 1,219 meters [4,000 feet]), an increased incidence of right-sided heart failure has been observed since approximately 2014. The condition has been estimated to cause 4% of feedlot deaths and therefore has obvious economic impact. Current working theories suggest that cattle with an obese and/or over-muscled phenotype become hypoxic because their very large body size simply exceeds their inherent cardiopulmonary capacity; research into this subject is ongoing.
+Etiology of Bovine High-Mountain Disease
+Although many factors can contribute to the incidence of BHMD, the pathogenesis is directly related to hypoxia that results from high altitude.
+Pulmonary vascular shunting is a normal physiological response to hypoxia and occurs in all animals. Strong responses occur in cattle and pigs; humans, dogs, guinea pigs, and llamas are less responsive. These findings and the high incidence of disease in cattle indicate that cattle are uniquely susceptible.
+The vasoconstriction mechanism of shunting is a way to divert unoxygenated blood to oxygen-rich, dorsal pulmonary tissues and away from poorly oxygenated, ventral pulmonary fields. Exaggerated shunting in response to hypoxia, the anatomical pattern of the bovine lobulated lung, and the low ratio of lung size to body weight all contribute to severe loss of functional pulmonary capacity in susceptible cattle.
+Pulmonary vascular shunting is initially mediated through pulmonary arteriole constriction in the acute stages of hypoxia. Chronic hypoxic exposure (> 3 weeks) leads to vascular remodeling consisting of vascular hypertrophy and thickening of the medial layers of pulmonary arterioles (medial hypertrophy) and adventitial tissues. The narrowing of the luminal space within pulmonary arterioles decreases the blood flow through these arterioles and increases pulmonary resistance.
+This combination of events results in marked pulmonary hypertension and an increase in PAP, which leads to a progression of cardiac pathology: RV hypertrophy, followed by RV dilation, and finally right-sided congestive heart failure (CHF).
+The role of genetics in BHMD is supported by high familial incidence, with marked variation in susceptibility between individual animals and breeds. Other species, including pigs, also show pulmonary hypertension in response to high altitude–induced hypoxia. Strong evidence suggests that the susceptibility of cattle to hypoxia-induced pulmonary hypertension is inherited. In addition, acute viral or bacterial respiratory disease can exacerbate pulmonary hypoxia at high altitude, resulting in a rapid onset of RV failure.
+Various range plants, both browsing and nonbrowsing types, have been associated with increased incidence of BHMD; however, only locoweed (Oxytropis and Astragalus spp) has been experimentally shown to induce the disease. When consumed by cattle at high elevation, locoweed directly contributes to increased pulmonary vascular resistance and hypertension, leading to BHMD within 1–2 weeks, and often affecting all animals in the herd.
+Clinical Findings of Bovine High-Mountain Disease
+Subacute sternal edema that extends cranially and caudally
+Pleural effusion and ascites
+Distention and pulsation of jugular veins
+Clinical changes of RV CHF in BHMD usually develop slowly over several weeks, commonly within the first 3–4 weeks after cattle are moved from lower to higher elevations. This 3- to 4-week period is the average time to onset; however, clinical signs and death from pulmonary hypertension and right-sided CHF can occur both in animals that have been exposed to high altitude for < 24 hours and in animals that have lived at higher elevations for years.
+In areas of North America where cattle spend summer and fall grazing at high altitudes and return to lower elevations later in the fall, BHMD usually manifests in late summer or early fall, and it seems to be associated with weather and environmental conditions (cold nights and hot days) that occur at high elevations.
+Pulmonary hypertension and RV CHF seem to follow respiratory disease that is associated with these climatic influences. In areas where cattle live year-round at high altitudes, BHMD incidence is greatest in late fall, winter, or early spring. Periods of severe cold or other environmental stress (eg, pregnancy, change in nutrition) appear to precipitate the onset of clinical signs.
+The following clinical signs are characteristic of BHMD:
+initial listlessness and reluctance to move
+subacute edema that develops in the sternal region and extends cranially to the intermandibular space and caudally to the ventral abdominal wall (see edema images)
+profound pleural effusion and ascites
+marked distention and pulsation of the jugular veins
+decreased appetite
+profuse diarrhea resulting from intestinal venous hypertension
+labored respiration
+cyanosis
+Courtesy of Dr. Timothy Holt.
+As BHMD progresses, affected cattle become more reluctant to move and can become recumbent. With forced exertion, severely affected animals can collapse and die. In the terminal stages, the animal is often anorectic, recumbent, and unable to rise.
+To ranchers and cattle handlers, an animal experiencing "brisket disease" is most often characterized by the following clinical signs:
+severe sternal and abdominal edema and swelling
+jugular enlargement and pulsation
+bulging eyes
+exophthalmos (secondary to venous congestion)
+ventral abdominal distention (ascites)
+bloating
+recumbency or inability to travel with the herd
+profuse diarrhea
+Lesions
+Generalized edema associated with BHMD is especially severe in the ventral subcutaneous tissues, skeletal musculature, perirenal tissues, mesentery, and wall of the GI tract. Ascites, hydrothorax, and hydropericardium are consistent findings. Fluid characteristics include low cellularity and low to normal protein concentrations, consistent with a transudate secondary to cardiac failure.
+The liver lesions with BHMD, due to chronic passive congestion, vary from an early “nutmeg” appearance to severe lobular and vascular fibrosis. The lungs can have varying amounts of atelectasis, interstitial emphysema, edema, and pneumonia.
+The heart in cases of BHMD has marked RV hypertrophy and dilatation; the cardiac apex is displaced to the left, making the enlarged heart appear round (see cardiac pathology image). The right atrium is often two to three times larger than the left atrium and is flaccid.
+Courtesy of Dr. Timothy Holt.
+Pulmonary arterial thrombosis is a common finding in cattle with BHMD. Microscopically, there is hypertrophy of the lamina media of small pulmonary arteries and arterioles. Acute rupture of the pulmonary artery (aneurysm) secondary to severe pulmonary hypertension is often identified as a reason for acute death when there were no preceding clinical signs of RV CHF.
+Diagnosis of Bovine High-Mountain Disease
+Pulmonary arterial catheterization and PAP testing
+Visible clinical signs of RV failure
+A diagnosis of BHMD can be based on clinical findings related to CHF and the presence of elevated PAP (> 50 mm Hg). Body temperature and CBC are generally normal unless there is other underlying inflammatory pathology.
+Calves living at elevations ≥ 2,743 meters (9,000 feet) can also be hyperthermic (> 40°C [104°F]). This elevated temperature is hypothesized to be due to the increased muscular work of breathing in these dyspneic, hypoxic animals.
+Thoracic auscultation in cattle with BHMD and pleural effusion can reveal a decreased intensity of breath sounds in the ventral thorax and muffled heart sounds. Heart rate and respiratory rate are generally increased, and a systolic cardiac murmur can be auscultated if RV enlargement has resulted in right atrioventricular or pulmonic valve insufficiency. In end-stage CHF, a gallop rhythm is often detected.
+Although jugular distention is a characteristic clinical sign of BHMD, an abnormal jugular pulse may or may not be observed.
+BHMD should be differentiated from other causes of CHF, including the following:
+pericarditis
+traumatic reticuloperitonitis (hardware disease)
+valvular endocarditis
+viral or bacterial myocarditis
+cardiomyopathy (nutritional, hereditary, or idiopathic)
+pulmonary arterial obstruction from embolic pneumonia
+chronic hypoxia and cor pulmonale due to other primary pulmonary disease
+Sternal edema is not always present in animals with peracute RV CHF. For this reason, BHMD in calves can be mistaken for acute viral or bacterial pneumonia.
+Treatment and Control of Bovine High-Mountain Disease
+Thoracocentesis
+Relocation to lower altitude
+Selective breeding for cattle resistant to hypoxia through use of PAP measurement
+Animals with BHMD should be moved to a lower altitude with minimal restraint, stress, and excitement. Before transport, stabilization with general supportive care, including diuretics, thoracocentesis, prophylactic antimicrobials, and appetite stimulants such as vitamin B complex, is often necessary.
+Thoracocentesis is the treatment that most dramatically improves the survival rate for an animal with BHMD. At high elevations, use of oxygen or a hyperbaric chamber can be considered for valuable animals. After these interventions and transport to lower elevations, some animals will recover and return to a normal life.
+Pearls & Pitfalls
+Because BHMD can recur, affected animals should not be returned to high altitudes.
+Given the heritability of BHMD, affected cattle should not be retained for breeding. Concurrent diseases, including respiratory or cardiac disease, GI disease, parasitism, and plant toxicosis, should be treated.
+Because locoweed poisoning has been directly linked to the development of CHF in cattle, the exposure of susceptible animals to locoweed should be minimized by ensuring that animals have a good selection of forages. To prevent severe and irreversible damage, cattle should be moved to pastures free of locoweed as soon as poisoning is recognized.
+Treatment of BHMD can be expensive and unrewarding, so prevention is preferred. Genetic selection, through the use of PAP measurements to select cattle resistant to the effects of hypoxia, is a more effective way to control BHMD.
+PAP Testing
+Animals that have PAP measurements > 50 mm Hg, and thus are highly susceptible to the effects of high altitude–induced hypoxia, should be eliminated from the breeding pool as a practical way to lower the prevalence of BHMD in a herd.
+PAP measurement is carried out as follows (see PAP testing images):
+Flexible polyethylene catheter tubing is passed through a large-bore needle inserted into the jugular vein.
+The catheter is advanced through the jugular vein to the right atrium, into the right ventricle, and then into the pulmonary artery.
+A pulmonary artery pressure is taken and evaluated.
+Courtesy of Dr. Timothy Holt.
+Results of PAP testing can be interpreted as follows:
+At altitudes of 1,524–2,133 meters (5,000–7,000 feet), the normal mean PAP is 34–41 mm Hg. Animals > 1 year old with PAP in this range are unlikely to develop BHMD and are reasonable breeding prospects.
+In cattle displaying clinical signs of pulmonary artery hypertension, PAP can range from 48 to 213 mm Hg.
+Any animal with PAP > 50 mm Hg is considered at risk of developing BHMD and can be a potential genetic carrier. Such animals should not be maintained or used in breeding programs at high altitudes. Importantly, not all animals with pulmonary hypertension display clinical signs; this is why screening is required. Cattle with elevated PAP should also be auscultated for cardiac murmurs and evaluated for possible congenital cardiac defects, such as atrial or ventricular septal defects.
+Multiple factors contribute to the variation of PAP in cattle, including breed, gender, age, body condition, concurrent illness, environmental conditions, elevation, and genetics.
+Breeding and genetics: In the author's own work, tests of > 496,000 head of cattle have shown that no single breed is resistant to the effects of high-altitude hypoxia. However, some breeds, and pedigrees within breeds, appear to be more naturally resistant. Some cattle seem prone to developing right-sided CHF; others live at high altitude with a documented increased PAP and never develop disease. Even though these animals might not develop BHMD, they can pass the genetic predisposition to their offspring.
+Sex: It is not unusual to see a difference in PAP measurements between heifers and bulls because of husbandry practices. Bulls are often pushed nutritionally for faster growth and muscling, which can affect pulmonary function and give rise to pulmonary hypertension.
+Pregnancy: Pregnant cows have been noted in some studies to have higher PAP measurements than nonpregnant cows. However, this finding is not consistent. Because of the stress of handling during testing, it is recommended that PAP testing not be conducted in females at > 7 months of gestation.
+Age: PAP measurements are variable in cattle ≤ 1 year old. Testing animals at ≥ 16 months old appears to be the most consistent and accurate approach for predicting susceptibility to pulmonary hypertension induced by high altitude.
+Other conditions: Any concurrent illness, especially respiratory disease, or any cause of temporary or permanent pulmonary hypoxia can influence PAP measurement. In cattle with end-stage right-sided CHF, PAP and RV pressure can be normal to subnormal because of the failing myocardium.
+Timing: Cattle moved from low to high elevations should remain at the new altitude for ≥ 3 weeks before PAP testing.
+In herds at low elevations (< 1,524 meters) that have a high number of unexplained deaths, PAP measurements can be useful to identify and cull animals that will be highly susceptible to hypoxia at higher elevations. Animals that are hypertensive (PAP> 50 mm Hg) at elevations < 1,524 meters are likely to develop fulminant heart failure and die if transferred to higher altitude.
+Current research on pulmonary hypertension in cattle is directed at pinpointing DNA markers to identify animals that are genetically susceptible to BHMD. In addition, efforts are underway to investigate the relationship between absolute body condition (obesity) and development of pulmonary hypertension and cardiac failure in cattle on feedlots at low elevation.
+Cardiac Grading System
+The mortality rate of cattle with BHMD before slaughter and the effect that heart failure can have on feedlot performance and carcass quality are questions of great interest. Increasing concerns about heart failure in feedlots at low and moderate elevations (approximately 600–1,500 meters [2,000–5,000 feet]) led to the development of a cardiac grading system to identify the extent of heart remodeling and ultimately to quantify the problem.
+The cardiac grading system enables the identification of animals at slaughter experiencing cardiac compromise or remodeling due to pulmonary hypertension. This grading information, along with feedlot records and carcass data, is used by the USDA in evaluating the amount of economic loss to the feedlot that is due to cardiac disease. Because there is a strong positive correlation between cardiac score and PAP measurement in sires, veterinarians also use this grading system for genetic selection of bulls for breeding.
+The grading system is based on gross changes in heart anatomy. Grade 1 and 2 hearts are normal and variants of normal, respectively; hearts in grades 3–5 show marked anatomical changes associated with cardiac change, as well as loss of function and efficiency. For detailed descriptions and images of the grades, see the table Cardiac Grading System for Bovine High-Mountain Disease.
+Cardiac Grading System for Bovine High-Mountain Disease
+Research has shown that cardiac disease in low-elevation feedlots is real and very costly. The most current data suggest that PAP is increased with weight gain, heart grade, and carcass weight.
+The greatest gain and heaviest carcasses correspond to grade 3 hearts, and performance declines with grade 4 hearts. Of note, in the data that show these relationships, no grade 5 hearts were found at harvest, because these animals usually die before slaughter. Ongoing research shows a direct correlation between PAP score and cardiac grade, effect on carcass, and other traits.
+Key Points
+Bovine high-mountain disease (BHMD) is directly related to altitude-induced alveolar hypoxia, resulting in pulmonary arterial hypertension and right ventricular failure.
+Exaggerated pulmonary vascular constriction and hypertrophy is a moderately to highly heritable trait best controlled via genetic selection based on pulmonary arterial pressure (PAP) measurement.
+Other forms of pulmonary compromise (eg, due to pneumonia, toxins, migrating parasites, or myocardial and epicardial fat deposition) can also lead to pulmonary hypertension and cardiac failure, mimicking BHMD.
+Cardiac condition in BHMD cases is evaluated by use of a grading system ranging from 1 to 5, where grades 1 and 2 are clinically normal, and grade 5 is equivalent to cardiac collapse.
+For More Information
+Newman JH, Holt TN, Cogan JD, et al. Increased prevalence of EPAS1 variant in cattle with high-altitude pulmonary hypertension. Nat Commun. 2015;6:6863. doi:10.1038/ncomms7863
+Holt TN, Callan RJ. Pulmonary arterial pressure testing for high mountain disease in cattle. Vet Clin North Am Food Anim Pract. 2007;23(3):575-596, vii. doi:10.1016/j.cvfa.2007.08.001
+Pauling RC, Speidel SE, Thomas MG, Holt TN, Enns RM. Genetic parameters for pulmonary arterial pressure, yearling performance, and carcass ultrasound traits in Angus cattle. J Anim Sci. 2023;101:skad288. doi:10.1093/jas/skad288

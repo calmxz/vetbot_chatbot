@@ -1,0 +1,100 @@
+Regenerative anemias include anemias due to blood loss, hemolysis (hemolytic anemias), toxins, infections, and heritable diseases.
+Anemia Due to Blood Loss in Animals
+Blood loss anemia is typically regenerative (see blood smear images). Acute blood loss can lead to shock and even death if > 30%–40% of blood is lost and the resulting hypovolemia is not treated aggressively with IV fluid therapy, the administration of compatible blood products, or both.
+Courtesy of Dr. John W. Harvey.
+Causes of acute blood loss can be known (eg, trauma, surgery) or occult (eg, GI blood loss). Coagulopathies, bleeding tumors, gastric ulceration, and external or internal parasites should be excluded as causes. GI parasites, such as Haemonchus in ruminants and hookworms in dogs, can lead to severe blood loss, especially in young animals.
+Low-grade, chronic blood loss eventually results in iron-deficiency anemia; however, some reticulocytosis can persist after iron stores have become depleted.
+The hallmark of iron-deficiency anemia is microcytic, hypochromic anemia. This chronic blood loss can be due to some type of parasitism in young animals (eg, fleas, lice, intestinal parasitism); in older animals, however, bleeding from GI ulcers or tumors is more common.
+Anemia Due to Hemolysis in Animals
+Hemolytic anemia results from the destruction of RBCs.
+Hemolytic anemias are typically regenerative and result from the lysis of RBCs in either the intra- or extravascular space. Intravascular hemolysis results in hemoglobinemia and hemoglobinuria; extravascular hemolysis does not.
+Both types of hemolysis can result in icterus. In dogs, the most common cause of hemolytic anemia is immune mediated (60%–75% of cases). Toxins, RBC trauma, infections, neoplasia, and RBC membrane defects can also cause hemolysis.
+Immune-Mediated Hemolytic Anemia
+Immune-mediated hemolytic anemia (IMHA) can be primary (idiopathic) or secondary to neoplasia, infectious agents, inflammatory diseases, drugs, or vaccinations. The ACVIM consensus statement on IMHA diagnosis in dogs and cats recommends a full diagnostic workup that includes infectious disease testing.
+In IMHA, the immune system no longer recognizes RBCs as self, and it develops antibodies against circulating RBCs, leading to RBC destruction by macrophages and complement. In some cases, antibodies are directed against RBC precursors in the marrow, resulting in nonregenerative anemia.
+Clinical Signs
+Animals with IMHA usually have icterus, sometimes have fever, and can have splenomegaly.
+Diagnosis
+The following clinical signs and diagnostic test results are hematological hallmarks of IMHA:
+regenerative anemia
+hyperbilirubinemia
+spherocytosis
+autoagglutination (see agglutination image)
+a positive Coombs test result
+Courtesy of Dr. Robert Jacobs.
+A definitive diagnosis of IMHA requires at least two clinical signs of immune-mediated destruction (spherocytosis, autoagglutination, or a positive Coombs test result) and at least one clinical sign of hemolysis (hyperbilirubinemia, hemoglobinemia, or hemoglobinuria).
+When blood is placed in an EDTA tube or onto a microscope slide, autoagglutination can be appreciated as red blood cells sticking together in three-dimensional clumps. To distinguish autoagglutination from overlapping rouleaux formation or other pseudoagglutination, a saline agglutination test (also called slide agglutination test or saline dispersion test) can be performed:
+A drop of saline solution (0.9% NaCl) is placed on a microscope slide with a fresh drop of the animal's blood.
+The slide should be gently rotated to mix the drops together.
+The slide should be evaluated grossly for macroagglutination (see agglutination image). For microagglutination, a 1:4 or 1:10 dilution of blood to saline solution can be evaluated microscopically as a wet mount.
+Animals with IMHA that do not demonstrate autoagglutination can still test positive on a direct agglutination test (Coombs test). Confirmatory testing should be performed before treatment for IMHA is initiated.
+Pearls & Pitfalls
+A Coombs test detects antibodies or complement on the erythrocyte surface. Results must be interpreted in light of the sensitivity and specificity of the test. If there is clear evidence of IMHA (spherocytosis and true autoagglutination), a Coombs test may not be necessary.
+Another technique used to evaluate patients for anti-RBC antibodies is flow cytometry, which enables the detection and quantitation of IgG and IgM bound to the surface of RBCs. Flow cytometry has been found to be 87%–92% specific for diagnosing patients with anti-RBC antibodies. However, it might not be readily available to all veterinary hospitals. The use of flow cytometry has been suggested to assess the response to treatment (1), because there is a decrease in surface anti-RBC antibodies before reticulocytosis or an increase in RBC count.
+Treatment
+Patients with IMHA can show mild clinical signs or be in acute crisis. It is important to tailor treatment to the patient's clinical signs, including treating any underlying infections. Transfusion with packed RBCs is usually required.
+The goal of IMHA treatment is to stop the destruction of RBCs by administering immunosuppressive drugs. Supportive care is also a priority.
+Prednisone or prednisolone (2 mg/kg, PO, every 24 hours) in dogs, and prednisolone (2–4 mg/kg, PO, every 24 hours) in cats, is considered first-line treatment of IMHA. Dexamethasone (0.2–0.4 mg/kg, IV, every 24 hours) can be administered on a temporary basis to patients that will not eat or take oral medications.
+Adjunctive immunosuppressive drugs are indicated in IMHA patients that have life-threatening disease, depend on transfusions, or are expected to develop severe adverse effects related to the use of glucocorticoids. Such adjunctive agents include the following (2):
+mycophenolate (8–12 mg/kg, PO, every 12 hours)
+cyclosporine (5 mg/kg, PO, every 12 hours)
+azathioprine (2 mg/kg, PO, every 24 hours, decreased after 2–3 weeks to 2 mg/kg every 48 hours) in dogs (note that azathioprine is contraindicated in cats and can be replaced by chlorambucil, which has been administered with anecdotal success at 0.1–0.2 mg/kg, PO, every 24 hours)
+The veterinary literature is ambiguous on how to select a drug adjunctive to corticosteroids and when to introduce it in the treatment of IMHA. The addition of second-line treatment must be tailored to the individual patient, with consideration of adverse effects.
+Pulmonary thromboembolism is a risk in dogs with IMHA. These dogs are often hypercoagulable, which can be documented by thromboelastography.
+Dogs documented to be in a hypercoagulable state should be anticoagulated with heparin, which, if the platelet count is > 40,000/mcL, can be administered in combination with an antiplatelet (aspirin at 1–2 mg/kg every 24 hours or clopidogrel at 1–4 mg/kg every 24 hours). The ACVIM consensus statement on IMHA treatment in dogs suggests that clopidogrel be administered in preference to aspirin.
+The dosing range for heparin is wide and variable, and it depends on whether the heparin is fractionated or unfractionated. Heparin treatment can be monitored by measuring activated partial thromboplastin time (APTT) or antifactor Xa concentrations (low-molecular-weight heparin).
+Thromboprophylaxis should be initiated at the time of diagnosis and continued until the patient is in remission and no longer receiving prednisone or prednisolone.
+Mortality rates for IMHA range from 20% to 75%, depending on the severity of clinical signs and the extent of hypercoagulability. Negative prognostic indicators can include the following:
+rapid drop in PCV
+high bilirubin concentration
+moderate to marked leukocytosis (28,000 to > 40,000 cells/mcL)
+increased BUN concentration
+petechiae
+intravascular hemolysis
+autoagglutination
+disseminated intravascular coagulation
+thromboembolic complications
+Moderate to marked leukocytosis has been reported as associated with tissue necrosis, most likely secondary to tissue hypoxia or thromboembolic disease. Referral to tertiary care facilities and consideration of extracorporeal treatments (eg, plasmapheresis) can improve the outcome.
+Alloimmune Hemolytic Anemia
+Alloimmune hemolytic anemia is caused by alloantibodies against nonself erythrocyte antigens. Examples include hemolytic transfusion reactions and neonatal isoerythrolysis.
+Neonatal isoerythrolysis (NI) is an immune-mediated hemolytic disease that occurs in neonatal horses, mules, cattle, pigs, cats, and, rarely, dogs.
+NI results when the neonate ingests maternal colostrum containing antibodies against one of the neonate’s blood group antigens. The maternal antibodies develop against specific foreign blood group antigens during previous pregnancies, as a result of unmatched transfusions, and from Babesia and Anaplasma vaccinations in cattle.
+Cats are unique in that cats with blood type B have naturally occurring anti-A antibodies without prior exposure, and their kittens with blood type A develop hemolysis after nursing.
+In horses, the antigens usually involved are A, C, and Q. NI occurs most commonly in Thoroughbreds and mules.
+Neonates with NI are apparently normal at birth; however, they develop severe hemolytic anemia within 2–3 days and become weak and icteric (see icteric mucous membranes image).
+Diagnosis is confirmed by screening of maternal serum, plasma, or colostrum and comparison to the paternal or neonatal RBCs.
+Courtesy of Dr. Thomas Lane.
+Treatment of NI consists of stopping any colostrum, supportive care, and blood transfusions. If necessary, neonates can be transfused with triple-washed maternal RBCs.
+NI can be avoided by withholding maternal colostrum and giving colostrum from a maternal source free of the antibodies. The newborn’s RBCs can be mixed with maternal serum to look for agglutination before the newborn is allowed to receive maternal colostrum.
+Microangiopathic Hemolytic Anemia
+Microangiopathic hemolytic anemia results from RBC damage secondary to turbulent flow through abnormal vessels.
+In dogs, it can occur secondary to severe heartworm infection, vascular tumors (hemangiosarcoma), splenic torsions, and disseminated intravascular coagulation.
+Causes in other species include hemolytic uremic syndrome in calves, equine infectious anemia, African swine fever, and chronic classical swine fever.
+Schistocytes are common in blood smears from animals with microangiopathic hemolytic anemia. Treatment is to correct the underlying disease process.
+Metabolic Causes of Hemolytic Anemia
+Hypophosphatemia causes postparturient hemolysis and hemoglobinuria in cattle, sheep, and goats. It can occur 2–6 weeks after parturition.
+In dogs and cats, hypophosphatemia with secondary hemolysis occurs secondary to diabetes mellitus, hepatic lipidosis, and refeeding syndrome. Oral or IV administration of phosphorus is indicated, depending on the extent of hypophosphatemia.
+Cattle that drink too much water (water intoxication) are at risk of developing hemolysis secondary to hypotonic plasma. Such cases occur in calves 2–10 months old and lead to respiratory distress and hemoglobinuria. Clinical signs can progress to seizures and coma.
+Diagnosis of water intoxication in calves is suggested by hemolytic anemia, hyponatremia and hypochloremia, decreased serum osmolality, and low urine specific gravity. Treatment consists of hypertonic fluids (eg, hypertonic saline solution [2.5% NaCl]) and diuretics (eg, mannitol).
+Anemia Due to Toxins, Infections, or Heritable Diseases in Animals
+Toxins
+Toxins and drugs can cause anemia via many mechanisms. Those implicated most frequently in animals, along with their pathogenic mechanisms, are listed in the table Toxic Causes of Anemia.
+Toxic Causes of Anemia
+Infections
+Many infectious agents can cause anemia by direct damage to RBCs, leading to hemolysis, or by direct effects on precursors in the bone marrow (see the table Infectious Causes of Anemia).
+Infectious Causes of Anemia
+Heritable Diseases
+Several heritable RBC disorders lead to anemia.
+Pyruvate kinase deficiencies occur in Basenjis, Beagles, West Highland White Terriers, Cairn Terriers, and other dog breeds, as well as Abyssinian and Somali cats. There is no treatment for pyruvate kinase deficiency.
+Dogs with pyruvate kinase deficiency have a shortened lifespan because of myelofibrosis and osteosclerosis of the bone marrow. Affected cats have chronic intermittent hemolytic anemia, which is sometimes helped by splenectomy and corticosteroids. Cats have not been reported to develop osteosclerosis.
+Phosphofructokinase deficiency occurs in English Springer Spaniels. Deficiencies in these enzymes lead to shortened RBC lifespan and regenerative anemia. In dogs with phosphofructokinase deficiency, the hemolytic crises are set off by alkalosis secondary to excessive excitement or exercise. If such situations are minimized, affected dogs can have a normal life expectancy.
+A hereditary hemoglobinopathy, porphyria, leads to a buildup of porphyrins in the body and has been described in cattle, cats, and pigs. It is most prevalent in Holstein cattle and can result in a hemolytic crisis. Affected calves fail to thrive and are photosensitive. Diagnosis is based on a finding of increased concentrations of porphyrins in bone marrow, urine, or plasma. Teeth of affected animals fluoresce under ultraviolet light.
+Key Points
+Hematological hallmarks of immune-mediated hemolytic anemia (IMHA) are hyperbilirubinemia, spherocytosis, autoagglutination, or a positive Coombs test result.
+IMHA is commonly treated with supportive care, along with immunosuppression and anticoagulants.
+Neonatal isoerythrolysis is an immune-mediated hemolytic disease that results from the ingestion of maternal colostrum containing antibodies against one of the neonate’s blood group antigens.
+Other causes of regenerative anemias include hypophosphatemia, drugs, and toxins.
+For More Information
+References
+Garden OA, Kidd L, Mexas AM, et al. ACVIM consensus statement on the diagnosis of immune-mediated hemolytic anemia in dogs and cats. J Vet Intern Med. 2019;33(2):313-334. doi:10.1111/jvim.15441
+Swann JW, Garden OA, Fellman CL, et al. ACVIM consensus statement on the treatment of immune-mediated hemolytic anemia in dogs. J Vet Intern Med. 2019;33(3):1141-1172. doi:10.1111/jvim.15463

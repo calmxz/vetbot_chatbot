@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "source": "Veterinary Knowledge Base",
+    "version": "1.0",
+    "topics": [
+      "disease",
+      "prevention",
+      "treatment",
+      "care"
+    ]
+  },
+  "documents": [
+    "Spaying and neutering pets can prevent certain cancers and behavioral problems. It's typically recommended between 4-6 months of age for most pets.",
+    "Fleas and ticks can cause skin irritation, anemia, and transmit diseases. Regular prevention is important, especially during peak seasons.",
+    "Ear infections in pets are often caused by bacteria, yeast, or ear mites. Signs include scratching at ears, head shaking, and foul odor. Treatment depends on the underlying cause.",
+    "Arthritis is common in older pets and can cause pain, stiffness, and difficulty moving. Treatment options include pain medication, supplements, and physical therapy."
+  ]
+}

@@ -1,0 +1,70 @@
+Lymphoma (malignant lymphoma or lymphosarcoma) in dogs arises from the uncontrolled and pathological clonal expansion of lymphoid cells of either B-cell or T-cell immunophenotype. Usually primary and secondary lymphoid tissues are involved, including the bone marrow, thymus, lymph nodes, and spleen.
+In addition to these lymphoid-rich organs, extranodal sites that lymphoma affects include the skin, intestinal tract, liver, eye, CNS, and bone.
+Etiology of Lymphoma in Dogs
+The underlying causes of malignant lymphoma in dogs remain incompletely characterized, and it is likely multifactorial. Potential contributing factors include infectious viruses or bacteria, environmental contamination with phenoxyacetic acid herbicides or other chemical exposures, strong magnetic fields, chromosomal abnormalities, and immune dysfunction.
+Advanced genetic studies have revealed that lymphoma in dogs can be molecularly distinguished and categorized into discrete groups that correlate with biological aggressiveness.
+Epidemiology of Lymphoma in Dogs
+Lymphoma is the most common hematopoietic neoplasm in dogs, with a reported incidence approaching 0.1% of susceptible dogs.
+Lymphoma in dogs usually occurs in middle-aged to older dogs. There is no significant association with sex. Some breeds may be at increased relative risk (eg, Boxer, Rottweiler, Golden Retriever); however, any breed can be affected.
+Clinical Findings of Lymphoma in Dogs
+In dogs, lymphoma is a heterogeneous cancer, with variable clinical signs, responses to treatment, and survival times. The heterogeneity associated with canine lymphoma is influenced in part by several tumor and host factors, including anatomical involvement, extent of disease, morphological subtype, host constitution, and immunocompetence.
+The most common clinical forms of canine lymphoma are high-grade T-cell or B-cell variants, which manifest as generalized, nonpainful, peripheral lymphadenopathy in 80%–85% of cases. Less commonly, lymphoma primarily affects other organ systems, including the alimentary tract, skin, mediastinum, and other extranodal sites.
+In dogs with substantial tumor burden or paraneoplastic hypercalcemia, systemic constitutional signs, including profound lethargy, weakness, fever, anorexia, and dehydration, may become severe and life-limiting.
+Alimentary lymphoma accounts for < 10% of all cases of canine lymphoma. Dogs with focal intestinal lesions may exhibit clinical signs consistent with partial or complete luminal obstruction (eg, vomiting, constipation, abdominal pain). With diffuse involvement of the intestinal tract, dogs with alimentary lymphoma may show marked and debilitating GI disturbances, including anorexia, vomiting, diarrhea, hypoproteinemia, and weight loss secondary to malabsorption and maldigestion.
+Exclusive involvement of the cranial mediastinum characterizes only a small fraction of lymphoma cases. Typically, canine lymphoma is characterized by enlargement of the cranial mediastinal lymph nodes, thymus, or both. Mediastinal lymphoma arising from the thymus is predominantly high-grade malignant T-cell lymphoma. With advanced disease, clinical signs may include respiratory distress associated with pleural fluid accumulation, direct compression of adjacent lung lobes, or cranial vena cava syndrome.
+In addition to respiratory signs, some dogs with mediastinal lymphoma may have primary polyuria with secondary polydipsia resulting from humoral hypercalcemia of malignancy, a paraneoplastic syndrome that occurs in 10%–40% of dogs with lymphoma. Humoral hypercalcemia of malignancy can be confirmed by measurement of the concentrations of ionized calcium, parathyroid hormone, and parathyroid hormone–related peptide (PTHrP) in circulating blood.
+Courtesy of Dr. Louis-Philippe de Lorimier.
+The most common extranodal form of lymphoma involves the skin (ie, cutaneous lymphoma). Lesions associated with cutaneous lymphoma (epitheliotropic and nonepitheliotropic) may appear as solitary, raised, ulcerative nodules or generalized, diffuse, scaly lesions. The peripheral lymph nodes and mucocutaneous junctions are often involved.
+Clinical signs associated with lymphoma that involve other extranodal sites may include respiratory distress (lungs), renal failure (kidneys), blindness (eyes), seizures (CNS), and skeletal pain or pathological fracture (bone).
+Although the most commonly diagnosed type of lymphoma in dogs is high-grade lymphoma of either B-cell or T-cell origin, low-grade (indolent) lymphoma is a molecular variant. Indolent lymphoma consists of several histopathologic subtypes, including marginal-zone, follicular, mantle-cell, and T-zone lymphomas.
+Indolent lymphomas most commonly involve the spleen or lymph nodes; generally, the clinical progression is slow. Dogs with indolent lymphomas often remain subclinically affected for a prolonged time, regardless of treatment.
+Lesions
+Commonly, peripheral and various internal lymph nodes are 3–10 times normal size (multicentric form) in canine lymphoma, and nonpainful on digital palpation. Affected nodes are initially freely movable but firm. With disease progression, however, lymph nodes can become fixed and compress surrounding normal structures, leading to discomfort or functional compromise.
+Histologically, effaced lymph nodes are gray to tan in coloration, and when transected, they bulge and lose cortical-medullary demarcation. Frequently, there is hepatosplenomegaly, with either diffuse enlargement or multiple, pale nodules of variable size disseminated in the parenchyma.
+In the alimentary form of canine lymphoma, any part of the GI tract or mesenteric lymph nodes may be affected.
+Involvement of the bone marrow, CNS, kidney, heart, tonsils, pancreas, and eyes is possible but less common.
+Diagnosis of Lymphoma in Dogs
+Clinical evaluation
+Fine-needle aspiration with cytologic evaluation
+Tissue biopsy with histologic evaluation
+Molecular diagnostic techniques
+On clinical examination, generalized, nonpainful lymphadenopathy should raise suspicion for multicentric lymphoma.
+Fine-needle aspiration with cytologic evaluation is a highly effective and practical method for identifying pathological monomorphic populations of lymphoid cells. Cytologic diagnosis of lymphoma depends on the proportions of large (lymphoblastic), intermediate, and small (lymphocytic) lymphocytes assessed on multiple well-made, highly cellular fine-needle aspirate smears sampled from an entire lymph node or from multiple lymph nodes.
+Image courtesy of Dr. Michael Rosser.
+The key cytologic hallmark of most lymphomas in dogs is a cell population composed predominantly of a relatively homogeneous population of monomorphic, medium to large lymphocytes. Cytologic diagnosis of lymphoma involving small or intermediate lymphocytes can be more challenging, necessitating biopsy or molecular diagnostic testing.
+Historically, histologic evaluation of tissue biopsy samples has been the gold-standard diagnostic test for morphological subtyping of canine lymphoma (diffuse versus follicular, cleaved versus noncleaved) and histologic grade (high versus low). Immunophenotyping enables further categorization of lymphomas by immunohistochemical staining into B-cell (CD79a) or T-cell (CD3) types.
+Molecular diagnostic techniques may be helpful in the diagnosis of lymphoma in dogs.
+Flow cytometry permits definitive diagnosis of lymphoma based on physical characteristics including size, complexity, and expression of surface markers such as CD markers (clusters of differentiation or classification determinants).
+The PCR for antigen receptor rearrangement (PARR) assay enables the determination of clonality and is a sensitive method for confirming the neoplastic origin of lymphocytes and a diagnosis of lymphoma.
+Staging
+Once a diagnosis of lymphoma has been established, clinical staging is performed to assess the extent of disease. Diagnostic imaging and assessment of bone marrow involvement may be necessary to ascertain the stage of disease. The WHO staging scheme is routinely used to stage lymphoma in dogs (see the table WHO Clinical Staging System for Lymphoma in Domestic Animals).
+WHO Clinical Staging System for Lymphoma in Domestic Animals
+Treatment of Lymphoma in Dogs
+Systemic chemotherapy
+Radiotherapy
+Autologous bone marrow transplant
+Given that only a small fraction of dogs achieve a cure with conventional treatment options, the primary goal for treatment is palliative.
+Canine lymphoma is generally responsive to conventional systemic chemotherapy (initial response rate ≥ 90%); most dogs achieve improved quality of life and greater overall survival time. However (except in some forms of indolent lymphoma), eventual disease relapse is expected in most dogs, with disease that progressively becomes refractory to continued treatment.
+In the treatment of high-grade lymphoma in dogs, the most common chemotherapeutic agents administered in combination protocols are cyclophosphamide, hydroxydaunorubicin (doxorubicin), vincristine, and prednisone (ie, CHOP-based protocols; the "O" in "CHOP" comes from one trade name for vincristine). The addition of l-asparaginase is optional; often, this drug is reserved for clinically ill dogs or cases of relapse.
+Other common chemotherapeutic agents with activity against naive and relapsing lymphoma include lomustine, mitoxantrone, and rabacfosadine.
+With systemic multidrug chemotherapy protocols, median survival times in dogs are ~12 months for B-cell lymphoma and ~6–8 months for T-cell lymphoma.
+Compared with combination protocols, single-agent chemotherapy, with the exception of doxorubicin treatment, does not typically achieve durable remission. Doxorubicin monotherapy can achieve complete remission, with a median survival time of 6–8 months, albeit with lower response rates than CHOP-based protocols achieve. Extravasation of doxorubicin can be catastrophic, and especially in dogs, cumulative cardiotoxicity results in a lifetime dose limit.
+Pearls & Pitfalls
+Prednisone monotherapy can improve quality of life and can induce remission for a time (typically 1–2 months, but some dogs can have better outcomes). However, multidrug resistance can develop.
+As of 2021, the FDA had conditionally approved verdinexor, a selective inhibitor of nuclear export (SINE) antineoplastic drug, for treatment of canine lymphoma. Response rates and durations appear to be lower than with available systemic multidrug chemotherapy protocols. Experience with this novel drug remains limited; however, it may provide an additional option for treatment in some dogs.
+With no treatment, dogs die or are euthanized within 4–6 weeks.
+Inclusion of half-body radiation therapy in conjunction with chemotherapy might improve the longterm control of canine lymphoma.
+In autologous bone marrow transplants, malignant lymphoma cells are ablated with intensive chemoradiation strategies, and reinfusion of autologous bone marrow cells secondarily rescues the patient's hematopoietic system. This aggressive treatment is available at select institutions.
+Despite the favorable outcomes expected in treating high-grade multicentric lymphoma, the successful management of other anatomical forms of lymphoma is often more difficult and less rewarding.
+Alimentary lymphoma, if focal, can be treated effectively with surgical resection and combination chemotherapy. However, diffuse involvement of the intestinal tract, low constitutional reserve, severe malabsorption of nutrients, and loss of proteins often result in poor clinical responses and short survival times (< 3 months).
+For mediastinal lymphoma, chemotherapy alone or combined with focal ionizing radiotherapy (in patients that might have appreciable pleural effusion or space-occupying complications—ie, those with associated dyspnea) can achieve favorable survival times and good quality of life.
+Cutaneous lymphoma can be controlled for limited amounts of time, often < 3–6 months, by treatment with lomustine, doxorubicin, or rabacfosadine, or a combination protocol.
+For indolent lymphoma, low-intensity oral chemotherapy protocols (chlorambucil and prednisone) often provide prolonged survival times (> 2 years).
+In some dogs with localized and low-grade disease (eg, splenic involvement), splenectomy can be an effective treatment option without requiring adjuvant chemotherapy. (Also see Targeted Antineoplastic Agents.)
+Key Points
+Lymphoma is the most common hematopoietic tumor affecting dogs.
+Lymphoma in dogs is often diagnosed through a combination of findings on physical examination and cytologic evaluation of fine-needle aspirates of enlarged lymph nodes.
+Most dogs with lymphoma respond positively to systemic chemotherapy, with improved quality of life and overall survival time.
+Although most lymphomas in dogs are multicentric, large B-cell tumors, lymphoma is a heterogeneous disease, and thorough diagnostic testing and categorization can influence treatment recommendations and prognosis.
+For More Information
+Also see pet health content regarding malignant lymphoma in dogs.

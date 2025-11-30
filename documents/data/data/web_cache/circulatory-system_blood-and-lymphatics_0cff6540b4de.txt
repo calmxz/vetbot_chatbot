@@ -1,0 +1,125 @@
+Disorders of platelets can be divided into acquired or congenital thrombocytopenia and acquired or congenital functional disorders (thrombopathia; also thrombocytopathy or thrombopathy). Acquired thrombocytopenia is the most common.
+Congenital Thrombocytopenia in Animals
+Hereditary Macrothrombocytopenia
+Hereditary macrothrombocytopenia is a benign, inherited giant platelet disorder that affects approximately 30–50% of Cavalier King Charles Spaniels. It has been identified in numerous other dog breeds as well, including Norfolk and Cairn terriers. It is characterized by thrombocytopenia with macrothrombocytes resulting from mutations in the beta-1-tubulin gene, which encodes a protein necessary for megakaryocyte division into platelets of normal size.
+The disorder is suspected in dogs with persistently low platelet counts on routine CBCs, in the absence of bleeding, and it does not require intervention. Affected dogs commonly have platelet counts in the range of 50,000–100,000/mcL, or lower, depending on the accuracy of the analyzer and the condition of the sample. Hereditary macrothrombocytopenia must be differentiated from thrombocytopenia that is due to pathological causes.
+Genetic testing is available and can be valuable to avoid unnecessary and potentially harmful treatment (and associated costs and worry) that may be given for pathological causes of thrombocytopenia.
+Cyclic Hematopoiesis (Gray Collie Syndrome)
+Cyclic hematopoiesis is an autosomal recessive disorder that was originally identified in Collies and has rarely been reported in dogs of other breeds. It is also known as "gray Collie syndrome" because affected Collies have abnormal, dark pewter-gray to silver coat pigmentation (1, 2, 3).
+Cyclic hematopoiesis is characterized by a mutation in the canine AP3B1 gene that results in 12-day cycles of cytopenia.
+All marrow stem cells are affected; however, neutrophils are the most affected because of their short half-life (usually < 24 hours). Mild to severe thrombocytopenia can occur, and excessive bleeding is a potential complication.
+Cyclic hematopoiesis is fatal; affected dogs usually die from fulminating infections before they are 6 months old. Even dogs that receive intensive antimicrobial treatment usually die by the age of 3 years, with amyloidosis secondary to chronic antigenic stimulation from recurrent infections.
+Treatment with recombinant granulocyte colony-stimulating factor has been found to be successful in temporarily alleviating the neutropenic cycles until antibodies are produced against the noncanine proteins (4).
+Collie breeders have successfully minimized the occurrence of cyclic hematopoiesis, and it exists now mostly in laboratory animals used for the study of hematopoiesis.
+Genetic testing is available to enable early detection and subsequent monitoring in an individual animal; it could also help breeders identify carriers.
+Fetal and Neonatal Alloimmune Thrombocytopenia
+Fetal and neonatal alloimmune thrombocytopenia is a rare disorder that occurs when maternal antibodies are produced against a paternal antigen on fetal platelets.
+Neonatal alloimmune thrombocytopenia has been reported in a 1-day-old Quarter Horse foal. In the reported case, indirect assays identified immunoglobulins bound to the foal’s platelets in the mare’s plasma, serum, and milk. The immunoglobulins were further shown to recognize platelets from the foal’s full brother, born 1 year earlier (5). This diagnosis should be considered for foals with severe thrombocytopenia when other causes can be excluded.
+A group of lambs artificially reared and fed bovine colostrum developed subcutaneous bruising, weakness, pale mucous membranes, and severe thrombocytopenia with prolonged bleeding from puncture wounds due to ear tag placement. All affected lambs died within 48 hours of birth. The presence of antibodies directed against platelets was suspected because the cows from which colostrum was obtained had been used in a previous experiment in which they had been immunized against sheep blood (6).
+Acquired Thrombocytopenia in Animals
+Acquired thrombocytopenia is reported frequently in dogs and cats, less often in horses, and rarely in other species. Frequently, thrombocytopenia is secondary to a broader systemic process in clinically ill animals, and artifactually low machine platelet counts are common in animals.
+Pearls & Pitfalls
+Spontaneous bleeding due to thrombocytopenia does not typically occur until platelet counts are lower than approximately 30,000/mcL. Hemorrhage from trauma (eg, venipuncture, organ aspirates, surgery) does not typically occur until platelet counts are lower than approximately 50,000/mcL.
+If spontaneous bleeding or surgical bleeding complications occur in the face of a platelet count above the minimum platelet count threshold, multifactorial coagulation abnormalities should be considered.
+Pearls & Pitfalls
+Causes of acquired thrombocytopenia can broadly result from increased platelet consumption (to stop hemorrhage or in pathological thrombosis), accelerated destruction, lack of production, or sequestration in the spleen.
+Immune-Mediated Thrombocytopenia
+Immune-mediated thrombocytopenia (ITP) is characterized by immune-mediated destruction of either circulating platelets or, less commonly, marrow megakaryocytes. It has been reported in dogs, horses, and, rarely, cats. Middle-aged female dogs, especially Cocker Spaniels, are overrepresented.
+Clinical signs of ITP include petechiae of the gingivae or skin, as well as ecchymosis, melena, hematuria, ocular bleeding, and/or epistaxis. Some dogs with extremely low platelet counts remain clinically unaffected. Platelet counts are usually < 30,000/mcL and often < 10,000/mcL at the time of diagnosis.
+ITP can be classified as either primary (with no identifiable trigger) or secondary to a wide variety of infections (particularly vector-borne infections), drugs, and neoplastic or inflammatory diseases. There is little evidence to support vaccination as a cause of ITP in dogs; however, it might be in rare instances.
+A variety of tests have been developed to prove the presence of antiplatelet antibodies; however, none have shown dependable sensitivity and specificity.
+ITP diagnosis is usually based on the exclusion of other causes of thrombocytopenia in a patient with verifiable and severe thrombocytopenia. A bone marrow aspirate can help determine whether megakaryocytes have been targeted; it is rarely needed, though, because marrow megakaryocytes are less commonly the target, and treatment and prognosis are similar whether or not megakaryocytes are decreased.
+Patients with ITP should be kept at rest to avoid exacerbating bleeding tendencies.
+Treatment involves immunosuppression, often initially by corticosteroid administration, starting at a high dose and then tapering (as in the treatment of hemolytic anemia). A single injection of vincristine (0.01–0.02 mg/kg, IV) at the start of treatment has been shown to shorten the time to recovery of the platelet count (7). Dogs that received prednisone and vincristine had a significantly faster increase in platelet count to > 40,000 platelets/mcL than dogs that received prednisone alone (mean +/- SD, 4.9 +/- 1.1 vs 6.8 +/- 4.5 days, respectively). Alternative immunosuppressive drugs (eg, modified cyclosporine, mycophenolate mofetil) are sometimes used (in addition to corticosteroids) to minimize longterm reliance on corticosteroids and/or for refractory or relapsing cases.
+Pearls & Pitfalls
+Transfusion with fresh whole blood or packed RBCs should be performed in animals with clinical signs related to anemia. Whole blood and platelet transfusions will not normalize platelet numbers; however, they might help to slow the ongoing, consumptive siphon for platelets in patients with severe and life-threatening bleeding.
+Therapeutic plasma exchange has been described for the treatment of ITP in dogs (8) and could be an option at referral centers offering this form of therapy. Splenectomy should be reserved as a treatment for animals that have recurrent episodes of thrombocytopenia.
+Pearls & Pitfalls
+The platelet count should be monitored while immunosuppressive medications are slowly tapered (over a period of 4–6 months or longer) because relapses can occur. Drugs that interfere with coagulation should be avoided.
+Rickettsial Diseases
+Infections caused by Rickettsia rickettsii (the causative agent of Rocky Mountain spotted fever), Anaplasma platys, Anaplasma phagocytophilum, Ehrlichia ewingii, or Ehrlichia canis, which are transmitted by ticks, cause mild to severe thrombocytopenia in dogs.
+A platys infection usually is characterized by mild, often cyclic thrombocytopenia in the acute stages of disease. Chronic infections often involve constant mild to moderate thrombocytopenia. Morulas (single to multiple, round to oval basophilic inclusions) can sometimes be identified in platelets of infected dogs. Thrombocytopenia due to A platys is seldom severe enough to result in clinical bleeding tendencies.
+E canis infections are characterized by variable alterations in total WBC, RBC, and platelet counts. Acute infections usually involve thrombocytopenia, and possibly anemia or leukopenia. Chronic infections sometimes involve thrombocytopenia or anemia; also there is often leukopenia and sometimes hyperglobulinemia (monoclonal or polyclonal).
+A phagocytophilum infection has been documented in a wide variety of domestic and wild animals. It is characterized by bleeding, fever, lethargy, and a reluctance to move. Changes in blood parameters include thrombocytopenia and lymphopenia. Morulas can occur in granulocytes.
+Treatment for these rickettsial infections is doxycycline. Chronic E canis infections might not respond well; however, some dogs can survive without clinical signs despite subnormal RBC, WBC, and platelet counts, especially in endemic areas.
+Neoplasia
+In addition to other mechanisms for causing thrombocytopenia, hemangiosarcoma, lymphoma, and carcinoma can be associated with consumptive thrombocytopenia due to DIC. Immunological and inflammatory mechanisms cause increased platelet consumption and decreased platelet survival time. However, bleeding tendencies without thrombocytopenia occasionally occur. Altered platelet function due to an acquired membrane defect has been associated with hyperglobulinemia. Vasculitis also can contribute to the hemostatic disorder.
+Drug-Induced Thrombocytopenia
+Thrombocytopenia associated with the administration of certain drugs has been reported in dogs, cats, and horses. One mechanism is marrow suppression of megakaryocytes or generalized marrow stem cell suppression (after administration of estrogen, chloramphenicol, phenylbutazone, diphenylhydantoin, phenobarbital, or sulfonamides). Another mechanism is increased platelet destruction and consumption (after administration of sulfisoxazole, aspirin, diphenylhydantoin, ristocetin, levamisole, methicillin, or penicillin).
+Drug reactions are idiosyncratic and therefore unpredictable. Platelets usually return to normal shortly after the drug is discontinued. Drug-induced bone marrow suppression can be prolonged. The chemotherapy drug lomustine has sometimes caused prolonged thrombocytopenia that persists after the drug is stopped.
+Other Causes of Thrombocytopenia
+Many infectious and inflammatory diseases can lead to vasculitis, platelet activation, and thrombocytopenia. Platelet count can be low if platelets are consumed during appropriate clotting to try to stop a hemorrhage, as in trauma or disorders of secondary hemostasis. They can also be consumed during pathological thrombosis (such as hypercoagulable states or DIC). Platelet count can be low with a variety of bone marrow disorders, including toxicoses, infections, myelofibrosis, or myelophthisis, with or without other cytopenias.
+Quantitative platelet disorders have been reported in liver disease with or without coagulation protein deficiencies.
+In two studies of cats with thrombocytopenia, 29–50% had infectious diseases, including feline leukemia, feline infectious peritonitis, panleukopenia, or toxoplasmosis (9, 10).
+Feline leukemia virus replicates and accumulates in megakaryocytes and platelets. Aplasia or hypoplasia of marrow stem cells, immune destruction of infected platelets, or extravascular sequestration of platelets within lymphoid tissues can contribute to thrombocytopenia in cases of feline leukemia virus infection.
+Intravascular parasites can also cause platelet activation and removal.
+Bovine viral diarrhea virus can cause thrombocytopenia in cattle.
+Platelets can be sequestered in the spleen when the spleen is congested, such as during sedation or anesthesia.
+The mechanism of thrombocytopenia is not identified in many cases.
+Congenital Platelet Function Disorders in Animals
+Congenital disorders of platelet function affect platelet adhesion, aggregation, or secretion. They can be either intrinsic or extrinsic to platelets.
+Testing of intrinsic platelet function requires careful handling of samples and specialized equipment that is not routinely available in diagnostic laboratories; therefore, the incidence of intrinsic functional defects in platelets is not accurately known. However, if a coagulopathy exists (especially with petechiae or mucosal bleeding) but results of coagulation screening, platelet count, and von Willebrand factor assessment are normal, then a platelet function disorder should be suspected.
+There is no specific treatment for any intrinsic platelet function disorder. In instances of severe hemorrhaging, platelet transfusion products can be administered to aid hemostasis. Whole blood or packed RBCs can be administered to patients with clinical signs of anemia.
+Von Willebrand Disease
+Von Willebrand disease, caused by defective or deficient von Willebrand factor (vWF, formerly called factor VIII–related antigen), is the most common inherited bleeding disorder in dogs (reported in nearly all breeds and in mixed breeds). The disease has been reported also in cats, rabbits, cattle, horses, and pigs.
+The disease is relatively common (10–70% prevalence) in several breeds of dogs: Doberman Pinscher, German Shepherd Dog, Golden Retriever, Miniature Schnauzer, Pembroke Welsh Corgi, Shetland Sheepdog, Basset Hound, Scottish Terrier, Standard Poodle, and Standard Manchester Terrier. Many dogs with von Willebrand disease are subclinically affected.
+Canine von Willebrand disease is classified into three subtypes based on clinical severity, plasma vWF concentration, and vWF multimer composition:
+Type 1, the most common form, is characterized by mild to moderate clinical signs, low vWF concentration, and a normal multimer distribution.
+Type 2 is characterized by moderate to severe clinical signs, low vWF concentration, and a loss of high-molecular-weight multimers.
+Type 3, which occurs most commonly in Shetland Sheepdogs and Scottish Terriers, is a severe disorder characterized by total absence of vWF.
+Two modes of inheritance for von Willebrand disease are known. In the less common autosomal recessive pattern of inheritance, homozygosity is usually fatal, and heterozygosity results in subclinically affected carriers. In the more common inheritance pattern of autosomal dominance with incomplete penetrance, homozygotes and heterozygotes can have variable bleeding tendencies.
+Affected animals can have gingival bleeding, epistaxis, and hematuria. Some puppies bleed excessively only after injection, venipuncture, or surgery, such as tail docking, ear cropping, or dewclaw removal.
+vWF circulates as a complex with coagulation factor VIII and mediates platelet adhesion to subendothelial surfaces—the first step in clot formation. The most common clinical sign of von Willebrand disease is mucosal bleeding, usually without evidence of petechiae or bruising, which occurs postoperatively in some affected animals.
+Von Willebrand disease should be suspected in animals with clinical signs of a platelet disorder, normal coagulation screening tests (activated partial thromboplastin time [aPTT] and prothrombin time [PT]), adequate platelet counts, and long buccal mucosal bleeding time (BMBT). BMBT is a good screening test in dogs with signs of a platelet disorder and a normal platelet count.
+Diagnosis is confirmed by identification of low vWF concentration in plasma or via DNA screening.
+Occasionally, affected animals can have decreased factor VIII coagulant and therefore have prolonged aPTT and activated clotting time (ACT).
+Drugs known to interfere with normal platelet function should be avoided in animals with suspected von Willebrand disease. Transfusion of cryoprecipitate, fresh frozen plasma, or fresh whole blood effectively alleviates a bleeding episode.
+Type 1 von Willebrand disease could respond to treatment with desmopressin acetate, which causes release of high-molecular-weight multimers from the endothelium. Desmopressin (1 mcg/kg, SC, 30 minutes before surgery, using a sterile solution) can be administered to these dogs before surgery to minimize bleeding complications.
+Concomitant hemostatic abnormalities can exacerbate von Willebrand disease. Hypothyroidism was once thought to be associated with von Willebrand disease; both conditions are prevalent in many of the same dog breeds (eg, Doberman Pinschers and Golden Retrievers). Thyroid hormone supplementation in hypothyroid dogs without deficiency of vWF has been found not to increase vWF activity; in fact, in most of the tested dogs, vWF activity decreased (11). Therefore, levothyroxine cannot be recommended as a treatment for von Willebrand disease, and it might even exacerbate the disease.
+Chédiak-Higashi Syndrome
+Chédiak-Higashi syndrome is an autosomal recessive disorder characterized by abnormal granule formation in leukocytes, melanocytes, and platelets (see Morphologic Leukogram Abnormalities). The defect appears to be in microtubule formation; therefore, a decreased number of granules that are abnormally large are evident in numerous types of cells. Diluted coat color results from the defect in the melanocytes.
+Leukocytes can have decreased functional ability to phagocytose and kill organisms (an inconsistent finding in animals), and platelets have decreased aggregation and release reactions. Platelets are almost devoid of dense granules and have markedly decreased storage quantities of adenosine diphosphate and serotonin.
+Prolonged bleeding in blue smoke Persian cats with Chédiak-Higashi syndrome occurs after venipuncture or surgery. The syndrome also has been diagnosed in mink, cattle, and beige mice with similar bleeding tendencies.
+Canine Thrombopathia
+Canine thrombopathia has been described in Basset Hounds and Landseers as well as some spitz-type dogs. Inheritance is autosomal with variable penetrance.
+Platelets have abnormal fibrinogen receptor exposure and impaired dense granule release. Dogs with mucosal bleeding and petechiation that have normal platelet counts and vWF should be suspected of having thrombopathia.
+Specific diagnosis of canine thrombopathia requires specialized platelet function testing.
+Genetic tests are available for affected breeds to identify carriers and inform breeding.
+Bovine Thrombopathia
+Bovine thrombopathia is an autosomally inherited platelet function defect of Simmental cattle. Bleeding can be mild to severe in affected cattle and is exacerbated by trauma or surgery. Platelets have impaired aggregation responses.
+Glanzmann Thrombasthenia
+Glanzmann thrombasthenia (formerly called thrombasthenic thrombopathia) is an autosomally transmitted disorder that has been diagnosed in Otterhound and Great Pyrenees dogs and in Thoroughbred, Quarter Horse cross, Peruvian Paso, and Oldenburg horses.
+Affected animals have prolonged BMBTs and form hematomas at sites of venipuncture or injury. Blood smears show numerous bizarre, giant platelets (30–80% of all platelets).
+Because of decreased synthesis of either glycoprotein IIb or IIIa, the membrane receptor glycoprotein IIb/IIIa is decreased or lacking on the surface of platelets. To date, all known affected animals have had a defect in IIb synthesis.
+Blood from animals with Glanzmann thrombasthenia does not have normal clot retraction, and platelets do not aggregate normally after stimulation with adenosine diphosphate, collagen, or thrombin.
+Canine Platelet Procoagulant Deficiency (Scott Syndrome)
+Canine platelet procoagulant deficiency (Scott syndrome) is an inherited bleeding disorder in which platelets are unable to exteriorize phosphatidylserine needed as a site of interaction for key clotting factors. This condition has been described rarely in German Shepherd Dogs and is characterized by postoperative hemorrhage and bruising.
+Acquired Platelet Function Disorders in Animals
+Several diseases have been associated with acquired platelet function disorders. Hyperglobulinemia associated with multiple myeloma induces a platelet membrane defect that results in impaired hemostatic function. In uremia associated with any form of renal disease, platelet adhesion and aggregation are decreased.
+Liver disease can affect not only platelet number but also platelet function. Because the effects on procoagulant and anticoagulant clotting factors vary, bleeding tendencies are challenging to predict in patients with liver disease.
+In addition to affecting platelet number, DIC impairs platelet aggregation.
+Numerous drugs also can impair platelet function:
+Drugs reported to block platelet receptor binding or to change platelet membrane charge or permeability include furosemide, penicillin, carbenicillin, lidocaine, phentolamine, and chlorpromazine.
+Drugs that inhibit the transduction of messages received at the platelet surface include caffeine, theophylline, dipyridamole, and papaverine.
+Drugs that inhibit the execution of platelet responses (aggregation, secretion, or thromboxane production) include aspirin, indomethacin, phenylbutazone, other NSAIDs, ticlopidine, pentobarbital, and sulfinpyrazone.
+Clopidogrel and related drugs decrease ADP-induced platelet aggregation.
+Key Points
+Clinical signs of platelet disorders include petechiae, ecchymoses, mucosal bleeding, and persistent oozing of blood after injury or surgery.
+Thrombocytopenia is much more common than thrombopathia, with immune-mediated thrombocytopenia the most common cause of severe thrombocytopenia in dogs.
+Von Willebrand disease is the most common cause of abnormal buccal mucosal bleeding time despite normal platelet count.
+For More Information
+Lattimer KS (ed). Hemostasis. In: Duncan and Prasse's Veterinary Laboratory Medicine: Clinical Pathology. 5th ed. Wiley-Blackwell; 2011:107-123.
+eClinPath.com (Cornell University): Platelet Function
+Also see pet owner content regarding platelet disorders of dogs, cats, and horses.
+References
+Lee GKC, Barbosa C, Andersen G, et al. Cyclic hematopoiesis in a mixed-breed dog: case report and brief review. J Vet Diagn Invest. 2022;34(6):1006-1009. doi:10.1177/10406387221115179
+Jones JB, Lange RD, Jones ES. Cyclic hematopoiesis in a colony of dogs. J Am Vet Med Assoc. 1975;166:365–367.
+Köster L, et al. Cyclic neutropenia in a basset hound. Vet Rec Case Rep. 2015;3:e000135. doi:10.1136/vetreccr-2014-000135
+Lothrop CD Jr, Warren DJ, Souza LM, Jones JB, Moore MA. Correction of canine cyclic hematopoiesis with recombinant human granulocyte colony-stimulating factor. Blood. 1988;72(4):1324-1328. doi:10.1182/blood.V72.4.1324.1324
+Buechner-Maxwell V, Scott MA, Godber L, Kristensen A. Neonatal alloimmune thrombocytopenia in a Quarter Horse foal. J Vet Intern Med. 1997;11(5):304-308. doi:10.1111/j.1939-1676.1997.tb00470.x
+Schreuder BE. Thrombocytopenia in lambs fed with bovine colostrum. Vet Q. 1993;15(1):37-39. doi:10.1080/01652176.1993.9694367
+Rozanski EA, Callan MB, Hughes D, Sanders N, Giger U. Comparison of platelet count recovery with use of vincristine and prednisone or prednisone alone for treatment for severe immune-mediated thrombocytopenia in dogs. J Am Vet Med Assoc. 2002;220(4):477-481. doi:10.2460/javma.2002.220.477
+Kopecny L, Palm CA, Naylor S, Kirby J, Cowgill LD. Application of therapeutic plasma exchange in dogs with immune-mediated thrombocytopenia. J Vet Intern Med. 2020;34(4):1576-1581. doi:10.1111/jvim.15836
+Jordan HL, Grindem CB, Breitschwerdt EB. Thrombocytopenia in cats: a retrospective study of 41 cases. J Vet Intern Med. 1993;7(5):261-265. doi:10.1111/j.1939-1676.1993.tb01017.x
+Ellis J, Bell R, Barnes DC, Miller R. Prevalence and disease associations in feline thrombocytopenia: a retrospective study of 194 cases. J Small Anim Pract. 2018;59(9):531-538. doi:10.1111/jsap.12814
+Avgeris S, Lothrop CD Jr, McDonald TP. Plasma von Willebrand factor concentration and thyroid function in dogs. J Am Vet Med Assoc. 1990;196(6):921-924. doi:10.2460/javma.1990.196.06.921

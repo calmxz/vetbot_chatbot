@@ -1,0 +1,34 @@
+Perianal fistula, also termed anal furunculosis, is characterized by chronic, purulent, malodorous, ulcerating, sinus tracts in the perianal tissues. It is most common in German Shepherd Dogs or shepherd mixes but can also occur in other breeds, such as Irish Setters and Labrador Retrievers. It most commonly affects middle-aged dogs and has not been reported in cats.
+Etiology and Pathogenesis of Perianal Fistula in Dogs
+The cause of perianal fistula is unknown but is suspected to involve an immune-mediated mechanism with a genetic predisposition. A broad-based tail with low tail carriage may predispose dogs to bacterial infection and chronic inflammation of perianal skin; however, this is likely a contributing factor rather than a cause of perianal fistulas. The draining tracts are lined with chronic inflammatory tissue and may extend to the lumen of the rectum and anus. Infection may spread to deeper structures involving the external anal sphincter and therefore should be treated promptly.
+Clinical Findings of Perianal Fistula in Dogs
+Clinical signs of perianal fistula include the following:
+tenesmus
+dyschezia
+diarrhea
+constipation
+fecal incontinence
+purulent discharge from the perianal region (see perianal fistula image)
+Courtesy of Dr. Alexander Gallagher.
+Discomfort caused by perianal fistula may lead to biting and licking of the perianal region. Pain may also cause generalized depression, change in attitude, or anorexia. As the condition becomes chronic, anorectal stricture may result.
+Diagnosis of Perianal Fistula in Dogs
+Physical examination
+Ruling out other causes of clinical signs
+In addition to signalment and history, physical examination, including digital rectal examination, is a primary means of diagnosing perianal fistula. Other causes of fistulization (eg, anal sac disease, neoplasia) must be ruled out. Bacterial culture to identify organisms causing secondary infection may be needed. Tissue biopsy is rarely indicated.
+Treatment of Perianal Fistula in Dogs
+Cyclosporine
+Medical management is the primary mode of treatment for perianal fistula. Cyclosporine (2–10 mg/kg, PO, every 12–24 hours, with monitoring, until complete resolution, then tapered to the minimum effective dose, as described below) is the medication of choice. Higher dosages may be associated with improved outcome. After complete resolution of lesions (usually 8–12 weeks), cyclosporine is tapered slowly (approximately 25% decrease every 4–6 weeks) to the minimum effective dose that prevents relapse, which is common after stopping therapy.
+Concurrent use of ketoconazole allows for a lower dosage of cyclosporine because of inhibition of cyclosporine metabolism and thus may decrease the cost of treatment. Recommended starting doses are ketoconazole (2.5–10 mg/kg, PO, every 24 hours) along with cyclosporine (2–4 mg/kg, PO, every 24 hours). If there is no improvement in 4 weeks, the dose of cyclosporine may need to be increased.
+Tacrolimus (0.1% topical ointment applied to the fistula every 12–24 hours) may be used to treat mild lesions or as long-term management after resolution of more severe lesions. Antimicrobials may be needed to treat secondary infections but are not effective as the primary or sole therapy for perianal fistulas.
+Pearls & Pitfalls
+The use of human embryonic stem cell–derived mesenchymal stem cells injected into perianal fistulas in dogs has been reported (1). All six dogs that were not responsive to cyclosporine treatment had resolution of lesions, with two dogs having relapse by 6 months postinjection.
+Stool softeners (eg, lactulose) and analgesics may be beneficial in dogs with persistent tenesmus, dyschezia, or constipation.
+Whereas it was once the mainstay of therapy, surgery is typically reserved only for cases refractory to medical management. Potential procedures include en bloc excision, anal sacculectomy, cryosurgery, and tail amputation. Complications of surgery can include wound dehiscence, fecal incontinence, anal stricture, persistent clinical signs, and recurrent fistulas.
+Key Points
+Perianal fistulas are a complex immune-mediated disease that primarily affects German Shepherd Dogs.
+The mainstay of therapy is cyclosporine, which might be required long-term to prevent recurrence.
+Surgery is no longer recommended, except in cases refractory to medical therapy.
+For More Information
+Also see pet owner content regarding perianal fistula in dogs.
+References
+Ferrer L, Kimbrel EA, Lam A, et al. Treatment of perianal fistulas with human embryonic stem cell-derived mesenchymal stem cells: a canine model of human fistulizing Crohn’s disease. Regen Med. 2015;11(1):33-43. doi:10.2217/rme.15.69

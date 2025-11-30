@@ -1,0 +1,45 @@
+Brucellosis is infection with bacteria of the genus Brucella. Brucellosis affects many species, including dogs. Zoonotic potential is also an important consideration.
+Etiology of Brucellosis in Dogs
+Brucellosis in the canine is a zoonotic disease caused by infection with the small, intracellular, gram-negative, non–spore-forming, aerobic, coccobacillus bacterium known as Brucella canis (B canis).
+Although dogs can occasionally become infected with other Brucella spp (B melitensis, B abortus, B suis, etc)—generally through exposure to infected domestic production animals—dogs are the preferred host for B canis.
+Pathophysiology
+Once a dog is infected, the organism is taken up by the reticuloendothelial system, where it remains intracellular and travels to the lymph nodes, spleen, and liver. Bacteremia initially occurs 1–4 weeks after exposure and typically wanes 3–4 months after infection. However, bacteremia can persist as long as 18 months and may wax and wane for years. Seroconversion typically occurs 2–4 weeks after infection but can take as long as 2–3 months.
+Reproductive organs, including testicles, prostate, epididymis, uterus, and placenta are the target organs for B canis.
+Epidemiology of Brucellosis in Dogs
+B canis was first identified in the US in 1966 and is now found worldwide.
+Venereal transmission is an important mode of transmission for B canis in dogs. Transmission can also occur by ingestion or through broken skin after exposure to contaminated aborted tissues (placenta, fetal, etc) or vaginal fluids (including vaginal discharge during estrus).
+In addition, conjunctival and oronasal transmission is thought to be possible through exposure to infected milk, seminal fluids, and urine. Aerosolization transmission has also been reported in kennel and laboratory settings, as well as spread by fomites under certain conditions.
+Clinical Signs of Brucellosis in Dogs
+Clinical signs of brucellosis in dogs are often associated with the reproductive tract and include infertility, abortion (typically late term, 45–55 days, but can occur at any stage of gestation), stillbirth, placentitis, metritis, epididymitis, prostatitis, and orchitis.
+Disease could remain subclinical for years in individuals with no reproductive activity or in spayed or neutered individuals. However, it should be considered in individuals with certain ocular abnormalities (recurrent blepharospasm, miosis, and uveitis) and musculoskeletal disorders such as arthritis or discospondylitis. These abnormalities are due to the immune reaction surrounding the antigen-antibody deposition in terminal arteries.
+Some individuals may develop nonspecific clinical signs such as lethargy, poor coat, generalized lymphadenopathy, and fever. However, fever is not a hallmark clinical finding in dogs as it is in other species.
+Pearls & Pitfalls
+Diagnosis of Brucellosis in Dogs
+Diagnostic testing
+Serological testing
+Definitive diagnosis of brucellosis in dogs remains challenging. Results of routine tests such as serum biochemistry, CBC, and urinalysis are typically normal. The gold standard for diagnosis is demonstration of the causative agent organism, B canis, through isolation or identification using culture techniques or PCR assay.
+The organism is found in large numbers in reproductive tissues of affected animals, including aborted tissues. It can also be found in vaginal secretions, semen, milk, and blood (especially in the acute bacteremia phase). However, direct diagnostic methods have challenges, including biosafety (substantial zoonotic potential) and possible low bacterial numbers (intermittent bacteremia, intracellular nature, intermittent shedding), which can cause false-negative results.
+Serological testing, including the following, is frequently used in conjunction with culture or PCR assay in initial diagnostic testing as well as screening and surveillance protocols:
+rapid slide agglutination (RSAT)
+2-mercaptoethanol rapid slide agglutination test (2ME-RSAT)
+tube agglutination test (TAT)
+agar gel immunodiffusion test (AGID)
+immunofluorescent antibody test (IFA)
+ELISA
+canine brucella multiplex assay (CBM)
+Treatment of Brucellosis in Dogs
+No treatment for brucellosis in dogs is known to be completely effective in elimination of B canis infection for certain, or in preventing recrudescence and relapse. Therefore, treatment for brucellosis is often discouraged and euthanasia recommended, mainly due to the zoonotic potential of the disease.
+It is important to discuss zoonotic potential with owners of infected dogs when deciding course of action. B canis infection is not currently nationally reportable in the US. However, it is reportable in many states, and treatment recommendations are often made by state and local authorities. B suis, B abortus, and B melitensis infections are reportable in all US states.
+When euthanasia is declined, treatment and monitoring efforts are lifelong and include neutering, treatment with antimicrobials for a minimum of 2–3 months, surveillance monitoring protocols, and isolation requirements that can be strict and vary from state to state. Although there is no definite, agreed-upon antimicrobial protocol, treatment typically includes a tetracycline or a fluoroquinolone with an aminoglycoside.
+Zoonotic Risk of Brucellosis in Dogs
+The bacterium that causes brucellosis in dogs, B canis, is zoonotic and endemic in certain parts of the world, and infection in dogs is thought to be underrecognized and underreported.
+Veterinarians, laboratory workers, breeders, and kennel workers are at increased risk of exposure in the US. Appropriate measures to decrease exposure include proper cleaning protocols and use of personal protective equipment (PPE) such as eye protection and disposable gloves and gowns. In addition, breeding programs and kennels should use proper screening protocols (eg, serological testing every 6 months and strict isolation protocols) to prevent spread.
+ForMore Information
+Bramlage DJ, Fortney W, Kesler RM, et al. Best practices for Brucella canis prevention and control in dog breeding facilities. USDA Animal and Plant Health Inspection Service. October 2015. Accessed December 29, 2023.
+Evason M, Stull J. Canine brucellosis: information for dog owners. American Kennel Club Canine Health Foundation. March 2019. Accessed December 29, 2023.
+Cosford KL. Brucella canis: an update on research and clinical management. Can Vet J. 2018;59(1):74-81.
+Hensel ME, Negron M, Arenas-Gamboa AM. Brucellosis in dogs and public health risk. Emerg Infect Dis. 2018;24(8):1401-1406. doi:10.3201/eid2408.171171
+Keid L, Soares R, Vasconcellos S, Megid J, Salgado V, Richtzenhain L. Comparison of agar gel immunodiffusion test, rapid slide agglutination test, microbiological culture and PCR for the diagnosis of canine brucellosis. Res Vet Sci. 2009;86(1):22-26. doi:10.1016/j.rvsc.2008.05.012
+Pinn-Woodcock T, Frye E, Guarino C, et al. A one-health review on brucellosis in the United States. J Am Vet Med Assoc. 2023;261(4):451-62. doi:10.2460/javma.23.01.0033
+Santos RL, Souza TD, Mol JPS, Eckstein C, and Paíxão TA. Canine brucellosis: an update. Front Vet Sci. 2021;8:594291. doi:10.3389/fvets.2021.594291
+Also see pet health content regarding Brucellosis in Dogs.

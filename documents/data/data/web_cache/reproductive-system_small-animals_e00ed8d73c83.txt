@@ -1,0 +1,43 @@
+Cystic endometrial hyperplasia (CEH) is a progressive pathological change of the uterine lining. CEH is associated with poor fertility. Pyometra may be an infection overlying CEH. CEH usually precedes the development of pyometra, although it does not always progress to pyometra.
+Etiology of Cystic Endometrial Hyperplasia–Pyometra Complex in Small Animals
+Cystic endometrial hyperplasia is mediated by progesterone and potentially aggravated by estrogens (repeated cycles of estrogen and progesterone exposure; estrogen primes the endometrium, increasing progesterone receptors). Progesterone mediates CEH by inducing endometrial glandular proliferation and enlargement as well as distention of the endometrial glands with secretions.
+The primary pathological lesion is CEH, while pyometra is an infection overlying CEH. Bacterial infection with opportunistic organisms from the vagina occurs secondary to CEH. Pyometra is a progesterone-mediated uterine disease that is initiated or occurs during diestrus. The role that progesterone plays in the pathogenesis is due to:
+suppression of immune system
+stimulation of endometrial gland secretion, which provides a suitable environment for bacterial growth
+closure of the cervix which inhibits drainage of uterine exudates
+decreased myometrial contractions
+The bacteria most frequently isolated from the uterus in pyometra include the most common organisms isolated from the vagina of normal bitches: Escherichia coli (the most common bacteria), Staphylococcus aureus Streptococcus spp, and Pseudomonas spp.
+Epidemiology of Cystic Endometrial Hyperplasia–Pyometra Complex in Small Animals
+Cystic endometrial hyperplasia typically occurs in older or middle-aged, intact bitches after one or more nonpregnant estrous cycles.
+Clinical Signs of Cystic Endometrial Hyperplasia–Pyometra Complex in Small Animals
+The onset of cystic endometrial hyperplasiaH is often gradual with variable clinical signs. CEH is not accompanied by an inflammatory exudate.
+Courtesy of Dr. Heather R. Garland.
+Clinical signs may include:
+PU/PD (renal dysfunction)
+hyporexia or anorexia
+fever
+dehydration
+vomiting
+lethargy
+abdominal distention (closed cervix)
+vaginal exudate (partially or open cervix)
+Bitches may have CEH with no clinical evidence of disease.
+Diagnosis of Cystic Endometrial Hyperplasia–Pyometra Complex in Small Animals
+Clinicopathologic findings in CEH with pyometra include neutrophilia or neutropenia (sequestration) and high BUN concentration, creatinine concentration, and gamma globulins concentration.
+Courtesy of Dr. Autumn P. Davidson.
+Courtesy of Dr. Ronald Green.
+Ultrasonography shows a thickened uterine wall, fluid-filled distended uterus, and absence of pregnancy.
+Radiographs can show a distended, fluid- or gas-filled uterus. This is more pronounced if the cervix is closed. Radiographic findings can be suggestive of pyometra but are not definitive.
+Treatment of Cystic Endometrial Hyperplasia–Pyometra Complex in Small Animals
+Ovariohysterectomy is the recommended treatment for pyometra is surgical in all cases except where the owner strongly desires to breed the bitch. Depending on clinical signs patients are often in poor condition to undergo anesthesia and surgery. Patients should be stabilized with IV fluid therapy and broad-spectrum antimicrobial treatment prior to surgery.
+Medical management can be attempted when the owner strongly desires to breed the bitch. Medical management is not indicated if animal is systemically ill or endotoxemic. The goals of medical management are to prevent the effects of progesterone by either luteolysis or prevention of progesterone binding, cervical relaxation, uterine contraction and evacuation, inhibition of bacterial growth, and uterine regeneration via prolongation of anestrus.
+Prostaglandins bind to receptors to cause lysis of the corpus luteum. They also encourage cervical dilation and increase myometrial contractility, thereby facilitating expulsion of uterine contents. Serum progesterone concentration should be measured prior to and during treatment with prostaglandins. Prostaglandin treatment should be continued until the uterus reduces to near normal and basal progesterone concentrations are achieved. Use of prostaglandin treatment is extralabel and client consent is required.
+Dinoprost is a natural PGF2α that has been used successfully, either solely or in combination with other agents. It induces luteolysis and strong uterine contractions.
+Extreme care is required when calculating an appropriate dose as the therapeutic index is small (LD50 = 5 mg/kg) and adverse effects can be severe at higher doses. Adverse effects include panting, hypersalivation, nausea, vomiting, and diarrhea. These are most commonly observed 20–30 minutes following administration, are dose-dependent, and diminish with repetition of treatment. It is recommended that prostaglandin treatment be started at the lowest dosage, increasing slowly over 2–3 days if necessary.
+Closprostenol is a synthetic prostaglandin analogue. In comparison to natural prostaglandins, closprostenol is more specific for uterine smooth muscle and has prolonged activity, which allows for less frequent administration and a reduction in adverse effects.
+Dopamine receptor agonists (cabergoline and bromocriptine) have an antiprolactinergic effect. Because prolactin is a required luteotropic hormone during the second half of the canine luteal phase, antiprolactins like cabergoline can be used to suppress luteal function, resulting in indirect reduction of circulating progesterone. Cabergoline is preferred as it is associated with fewer adverse effects.
+Progesterone receptor antagonists (aglepristone and mifepristone), or anti-progestins, are synthetic steroids that bind to progesterone receptors and prevent progesterone from exerting its biological effects. Aglepristone and mifepristone are not currently available in the United States.
+Uterine drainage and lavage via vaginoscopy facilitates direct uterine evacuation and immediate improvement in demeanor in bitches being treated medically for pyometra. A potential adverse, and often fatal, adverse effect of this procedure is uterine rupture or leakage of pus into the abdomen, resulting in peritonitis.
+Broad-spectrum antimicrobial treatment is necessary and should be initiated at the time of initial evaluation. Antimicrobial treatment should be continued for 10 to 14 days after complete resolution of pyometra.
+Treatment success is most frequently defined by a reduction in the mean uterine diameter to within normal limits and without evidence of intraluminal fluid as well as resolution of clinical signs. Success should be regarded as temporary. Pyometra is prone to recur in treated bitches and is most likely to recur during subsequent periods of diestrus. Breeding should be attempted at the first estrus following subsequent treatment, and at every estrus until the desired number of offspring are obtained or until recurrence.
+Regardless of the medical protocol selected, if there is not major improvement within 48 hours or if the condition worsens, emergency ovariohysterectomy is advised. The primary advantage of surgical intervention is the exclusion of any risk of disease recurrence.

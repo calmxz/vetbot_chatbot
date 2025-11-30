@@ -1,0 +1,33 @@
+Megacolon is a pathological condition of hypomotility and persistent, severe dilation of the large intestine characterized by chronic constipation or obstipation that is unresponsive to medical therapy. Megacolon is common in cats, but rare in dogs.
+Etiology and Pathophysiology of Megacolon in Cats
+The etiology of most megacolon cases is idiopathic. As the colon loses motility, additional feces are stored in the colon, resulting in progressive dilation. This progressive constipation eventually becomes obstipation (severe or complete constipation). Obstipation is a frequently progressive and irreversible condition in cats and has been suggested to be congenital.
+Other identifiable causes of megacolon include any outflow obstruction that may result in the pelvic canal narrowing. Causes may include malunions of previous pelvic fractures, prostatomegaly, masses, strictures, or perineal hernia. The problem may be correctable if it is identified early and the narrow pelvic inlet is corrected.
+Neuromuscular disorders such as spinal cord trauma may also result in megacolon.
+Diagnosis of Megacolon in Cats
+Patient history
+Physical examination
+Diagnosis of megacolon is based on patient history and physical examination. Most patients have some history of constipation or obstipation, of which medical management may have been attempted. Chronic cases may have experienced anorexia, vomiting, or weight loss. Occasionally, diarrhea is noted as liquid passes around the fecaliths.
+Many of the patients have a distended abdomen. A dilated colon with firm stool should be easily palpable.
+Radiographs should be acquired to confirm a megacolon and to rule out pelvic trauma or other issues that may obstruct the pelvic inlet. On radiographs, a maximal colonic diameter greater than 1.5 times the length of the L5 vertebral body is indicative of megacolon.
+Pearls & Pitfalls
+Treatment of Megacolon in Cats
+Medical: palliative care
+Surgical: subtotal colectomy
+Given the progressive nature of megacolon, medical care is considered palliative.
+Fluid balance should be addressed with SC fluids as needed. If the patient is stable. fecaliths can be removed with enemas and stool softeners. Because of their firmness and size, anesthesia is often required.
+In addition to stool softeners, dietary therapy is instituted to minimize fecal volume and increase fiber intake. Lactulose (0.5 mL/kg or ¼–½ teaspoon of crystals, PO or in food, every 8–12 hours, to achieve desired stool consistency) and polyethylene glycol 3350 (¼ teaspoon/cat, mixed in food, every 12 hours) are safe osmotic laxatives that are not absorbed by the patient. A prokinetic agent such as cisapride (0.5–1 mg/kg, PO, every 8–12 hours) is used to stimulate any colonic motility still present.
+When medical therapy is no longer effective, surgical intervention is indicated. The presence of clinical signs of megacolon for longer than 6 months has been associated with irreversible colonic changes.
+Subtotal colectomy, with or without ileocolic resection, is considered the procedure of choice. Removal of the ileocolic valve increase the risk of long-term diarrhea. No conclusive evidence shows that preservation of the valve decreases recurrence of the megacolon. Attempting to save the ileocolic valve may result in tension on the anastomosis. Because tension is a potential cause of any incisional breakdown, removal of the valve is preferred when tension is present at the anastomotic site.
+Any failure of the enterocolic anastomosis will lead to septic peritonitis with a high mortality rate.
+Prognosis of Megacolon in Cats
+Thin body condition (body condition score < 4 on a 9-point scale) has been associated with a greater risk of near-term postoperative death after a subtotal colectomy (1).
+Diarrhea is another major factor associated with shorter long-term survival times. Soft stool or diarrhea can be expected for up to 2 months in most cases of surgically managed megacolon. Some cases never return to normal stool.
+Recurrence of constipation has been documented in one study to occur in 35% of the patients.
+Key Points
+Megacolon is more than severe constipation/obstipation; it is a pathological condition of hypomotility and severe dilation of the large intestine.
+Diagnosis of megacolon is based on history and physical exam and is confirmed with abdominal radiographs.
+In addition to medical management, treatment may involve subtotal colectomy.
+For More Information
+Also see pet owner content on disorders of the stomach and intestines in cats.
+References
+Grossman RM, Sumner JP, Lopez DJ, et al. Evaluation of outcomes following subtotal colectomy for the treatment of idiopathic megacolon in cats. J Am Vet Med Assoc. 2021;259(11):1292-1299. doi:10.2460/javma.20.07.0418

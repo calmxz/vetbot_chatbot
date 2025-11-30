@@ -1,0 +1,50 @@
+Anemia can be due to loss, destruction, or lack of production of RBCs. On the basis of clinicopathological evidence of a compensatory response by the bone marrow, anemia can be classified as regenerative or nonregenerative (see the table Assessment of Regeneration in Anemia).
+With regenerative anemia, the bone marrow responds appropriately to the decreased red cell mass by increasing RBC production and releasing reticulocytes. Anemia due to hemorrhage or hemolysis is typically regenerative. A regenerative response takes 3–5 days from the onset of anemia.
+With nonregenerative anemia, the bone marrow responds inadequately to the increased need for RBCs. Anemia due to decreased erythropoietin or an abnormality in the bone marrow is nonregenerative. Anemia due to acute hemorrhage or hemolysis initially appears nonregenerative until there has been enough time for a regenerative response.
+Pearls & Pitfalls
+Assessment of Regeneration in Anemia
+Clinical Findings of Anemia in Animals
+Clinical signs of anemia depend on the extent of the condition, the duration (acute or chronic), and the underlying cause.
+Acute Anemia
+Acute anemia can result in shock and even death if more than a third of the blood volume is lost rapidly and not replaced. In acute blood loss, the following clinical signs are common:
+tachycardia
+pale mucous membranes
+bounding or weak peripheral pulses
+hypotension
+The cause of the blood loss can be overt (eg, trauma) or occult. If no evidence of external bleeding is found, a source of internal or occult blood loss must be sought; examples include ruptured splenic tumor, other neoplasia, coagulopathy, GI ulceration, and parasites. Hemolysis can result in icterus.
+Chronic Anemia
+Animals with chronic anemia have had time to accommodate, and their clinical presentation is usually more vague, with signs such as the following:
+lethargy
+weakness
+anorexia
+Patients with acute or chronic anemia can show similar clinical signs, such as pale mucous membranes and weak peripheral pulses. The lack of expected clinical signs can indicate the time frame of the condition. Splenomegaly, abdominal distention, or heart murmur can be present, depending on the underlying cause of anemia.
+Diagnosis of Anemia in Animals
+Clinical Evaluation
+A complete history is an important part of evaluating a patient with anemia. Questions covered might include duration of clinical signs, history of exposure to toxins (eg, rodenticides, heavy metals, toxic plants), drug treatments, vaccinations, travel history, and prior illnesses.
+Serological Testing
+A CBC, including platelet and reticulocyte counts, provides information on the severity of anemia and the extent of the bone marrow response, and enables the evaluation of other cell lines.
+A blood smear should be evaluated for abnormalities in RBC morphology or size, evidence of agglutination, and RBC parasites. The RBC indices (measures of size and hemoglobin concentration) are calculated by automated cell counters calibrated for the species being examined.
+RBC size is expressed by the mean corpuscular volume (MCV) in femtoliters and can reflect the extent of regeneration.
+Macrocytosis (increased MCV) usually correlates with regenerative anemia (see the table Assessment of Regeneration in Anemia). Macrocytosis can also be due to defects in DNA synthesis or nuclear maturation, as in cobalamin (vitamin B12) deficiency or in cats with myelodysplasia caused by feline leukemia virus. In addition, macrocytosis can be a heritable condition in Poodles without anemia.
+Microcytosis (decreased MCV) is the hallmark of iron-deficiency anemia and can also be heritable in Akitas.
+The hemoglobin concentration of each RBC, measured in grams per deciliter, is defined as the mean corpuscular hemoglobin concentration (MCHC).
+Abnormalities in RBC morphology, such as basophilic stippling, can indicate lead poisoning. The formation of Heinz bodies (see Heinz body images) indicates oxidative injury to the RBCs, secondary to toxin exposure (see the table Toxic Causes of Anemia). Cats are more susceptible to Heinz body formation than are other species; even cats without anemia can have a small number of Heinz bodies.
+Courtesy of Dr. Devorah Stowe.
+The presence of schistocytes or spherocytes (see spherocyte image) can also help identify the pathophysiological process associated with the cause of anemia (eg, spherocytes are evident in cases of immune-mediated hemolytic anemia).
+Courtesy of Dr. Devorah Stowe.
+The reticulocyte count is usually reported as a percentage of the RBC mass. This value should be corrected for the extent of anemia to evaluate the extent of regeneration. An absolute reticulocyte count (measured as RBCs per microliter × reticulocyte percentage) of > 50,000 reticulocytes/mcL in cats or > 60,000 reticulocytes/mcL in dogs is considered regenerative. A corrected reticulocyte percentage > 1% indicates regeneration in dogs and cats (see the table Assessment of Regeneration in Anemia). Corrected reticulocyte percentage is calculated as the observed reticulocyte percentage multiplied by the ratio of the patient’s PCV to the normal PCV for that species.
+After acute blood loss or hemolytic crisis, reticulocytosis usually takes 3–4 days to become evident.
+Plasma or total protein concentration is also useful for further classifying the cause of anemia. The plasma protein concentration is often low with blood loss but normal (or elevated) in cases of hemolysis and decreased production.
+A serum chemistry panel and urinalysis can be used to evaluate organ function. If GI blood loss is suspected, an elevation in BUN or decrease in albumin can be noted, or an examination of the feces for blood and parasites can be useful. With hemolytic anemia, total bilirubin can be elevated.
+Radiographic examination can help identify occult disease, such as zinc toxicosis due to the presence of a penny in the stomach of a puppy with hemolytic anemia.
+Bruising or bleeding can be a sign of a coagulopathy and indicate the need for a coagulation profile. Petechiae or ecchymotic hemorrhage suggests substantial thrombocytopenia or thrombocytopathy.
+If anemia due to hemolysis is suspected, blood can be evaluated for autoagglutination, or a direct agglutination test (Coombs test) might be indicated (see Anemia Due to Hemolysis).
+Serological tests and PCR assays for infectious agents such as feline leukemia virus, Ehrlichia (which causes ehrlichiosis), equine infectious anemia virus, and Babesia (which causes babesiosis) can also help define the cause of anemia (see the table Infectious Causes of Anemia).
+Bone marrow evaluation by aspiration or biopsy is indicated in animals with an unexplained, nonregenerative anemia. If the CBC reveals a decrease in more than one cell line, possibly indicating hypoplastic marrow, a biopsy is indicated, along with aspiration.
+Biopsy and aspiration are complementary: biopsies are better to evaluate the architecture and extent of cellularity of the marrow; aspiration enables better evaluation of cellular morphology. Aspiration also enables evaluation of the orderly maturation of RBC and WBC lines, the ratio of myeloid to erythroid precursors (M:E ratio), and the number of platelet precursors. Iron stores can also be evaluated by means of Prussian blue staining.
+An M:E ratio < 1 indicates that RBC production is greater than WBC production; an M:E ratio > 1 indicates the opposite. The M:E ratio is always interpreted in light of a recent CBC, because changes in the ratio could also be due to suppression of one cell line compared with the other.
+Key Points
+Anemia can be classified on the basis of chronicity, severity, regenerative response, and RBC indices.
+Plasma protein concentration should also be used in classifying the underlying cause of anemia.
+Clinical signs depend on the severity and duration (acute versus chronic) of the anemia.
+Bone marrow evaluation can be necessary for further characterization of nonregenerative anemia.

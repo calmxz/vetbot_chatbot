@@ -1,0 +1,41 @@
+Canine transmissible venereal tumor (TVT) is a naturally transmissible cancer (ie, spread through direct transfer of cancer cells) affecting canids. The only other known examples of transmissible cancer in higher animals are Tasmanian devil facial tumor and contagious reticulum cell sarcoma of hamsters.
+Etiology of Canine Transmissible Venereal Tumor
+Canine TVTs are characterized as round cell tumors. Canine TVTs share strong cytogenetic identity (ie, are clonal), representing a cell lineage that has been continuously propagated for several thousand years. Clonal transfer of canine TVTs has been documented since the late 1800s. However, the cell origin remains incompletely elucidated.
+The tumor cell is itself the infective agent. The tumor is transplanted from site to site and from dog to dog by direct contact with the tumor mass. The transfer of a certain quorum of neoplastic cells is essential for successful transplantation of the tumor.
+Cells may be transplanted to adjacent skin and oral, nasal, or conjunctival mucosae. The tumor can be naturally transplanted only across abraded mucosae.
+Epidemiology of Canine Transmissible Venereal Tumor
+TVTs are commonly transmitted between dogs during coitus. However, contrary to its name, TVT is not exclusively a venereal disease. The tumor may also spread through common social behavior such as sniffing, licking, scratching, or biting. Dam-to-pup transmission may also occur through grooming.
+TVT has a worldwide distribution, with reports of clinical cases from all continents except Antarctica. In most of northern and central Europe as well as North America, TVT is uncommonly reported. However, TVT is enzootic in the rest of the world, with increased prevalence in more tropical and subtropical urban environments (eg, Central and South America, East Asia, the Middle East, and parts of Africa). TVT is the most common canine tumor in the Bahamas, Japan, and India.
+Clinical Characteristics of Canine Transmissible Venereal Tumor
+Canine TVTs are cauliflower-like, pedunculated, nodular, papillary, or multilobulated in appearance. They range in size from a small nodule (5 mm) to a large mass (> 10 cm) that is firm, though friable. The surface is often ulcerated and inflamed and bleeds easily.
+TVTs may be solitary or multiple and are almost always located on the genitalia.
+The tumor may arise deep within the preputial, vaginal, or nasal cavity and be difficult to see during a cursory examination. When a tumor is seated deep within the genital areas, especially in females, blood spots on the floor or carpet are a common initial finding. This may lead to misdiagnosis if bleeding is incorrectly assumed to be hematuria or epistaxis from other causes. Deep-seated TVT in males often manifests as paraphimosis.
+Initially, TVTs grow rapidly, especially in neonatal and immunosuppressed dogs. Metastasis is uncommon (5%) and can occur without a primary genital tumor present. When metastasis occurs, it is usually to the regional lymph nodes; however, kidney, spleen, eye, brain, pituitary, skin and subcutis, mesenteric lymph nodes, and peritoneum may also be sites.
+When located extragenitally, either primarily or after metastasis, clinical signs are nonspecific if there is no concurrent genital lesion. Depending on their anatomical localization, signs of extragenital TVT may include enlargement of the regional lymph node along with the following:
+sneezing
+epistaxis
+epiphora
+exophthalmos
+skin bumps
+halitosis or dental fistula
+facial deformity
+Dogs with genital TVT are at a high risk of bacteriuria.
+Wherever the parasite exists in the tropics and subtropics, Leishmania may, infrequently, parasitize the tumor cells. Given the visual resemblance of TVT and canine cutaneous leishmaniosis, caution is warranted in the establishment of differential diagnosis and the institution of treatment in all such cases where the parasite has been demonstrated and TVT is also suspected.
+Pearls & Pitfalls
+Diagnosis of Canine Transmissible Venereal Tumor
+Because of their homogeneous populations of large, round cells with distinctive centrally located nucleoli and the presence of multiple clear cytoplasmic vacuoles, TVTs are usually diagnosed by cytological examination of fine-needle aspirates or impression smears (see TVT cytological appearance image). In contrast, histological examination can sometimes be inconclusive; TVTs may be difficult to distinguish from other round cell tumors, particularly lymphosarcomas, when they occur in extragenital locations (see TVT histological appearance image).
+Pearls & Pitfalls
+TVT cells contain specific long interspersed nuclear elements (LINEs) inserted upstream of the myc gene, which can be differentiated from other neoplasms using a PCR-based detection assay. Compared with cytological or histological diagnosis, PCR assays yield improved diagnostic accuracy and can facilitate the decision of when to discontinue chemotherapy. Karyotyping will reveal only ~57–64 chromosomes along with an XO sex chromosome complement.
+Courtesy of Dr. Bhaskar Ganguly.
+Courtesy of Dr. Bhaskar Ganguly.
+Treatment of Canine Transmissible Venereal Tumor
+Although spontaneous regression can occur, TVT is usually progressive and treated accordingly. Complete surgical excision, radiotherapy, and chemotherapy are effective treatments. Vincristine sulfate (0.025 mg/kg, IV, once a week, for 2 weeks beyond the complete resolution of the gross tumor mass, irrespective of the neoplasm size and extent, the presence of metastases, and the duration of the disease) is the treatment of choice.
+The rate of tumor regression is negatively correlated with tumor size, older age, and season: hot and humid seasons are usually associated with poor response to treatment. Usually, total remission is achieved in 5–7 doses. Persisting remnants of gross tumor masses < 5 mm do not require chemotherapy to continue.
+Doxorubicin (30 mg/m2 for dogs weighing > 10 kg or 1 mg/kg for dogs weighing ≤ 10 kg, IV, once every 3 weeks for 5–6 doses) and radiotherapy have been effective for those patients not responding to vincristine. Amino acid and antioxidant supplements may limit or decrease the efficacy of treatment with vincristine in aggressive cases. Combined chemotherapy with vincristine and doxorubicin is more toxic and does not seem to offer any therapeutic advantage.
+The prognosis for total remission with chemotherapy or radiotherapy is good, unless there is metastatic involvement of organs other than skin. Metastatic involvement of CNS and eyes usually yields a poor prognosis. Complete surgical excision often cannot be achieved because of the anatomical location of many of these tumors. Recurrence is likely in such cases unless adjunct radiation or chemotherapy is used.
+Control and Prevention of Canine Transmissible Venereal Tumor
+Thorough examination of animals before breeding to exclude animals with active infection will control the disease. In areas where large stray canine populations exist, sustained animal birth control programs and chemotherapy of the affected dogs will control TVT cases to a great extent.
+For More Information
+Also see pet health content regarding canine transmissible venereal tumor.
+References
+Ganguly B, Das U, Das AK. Canine transmissible venereal tumour: a review. Vet Comp Oncol, 2016;14(1):1-12. doi:10.1111/vco.12060

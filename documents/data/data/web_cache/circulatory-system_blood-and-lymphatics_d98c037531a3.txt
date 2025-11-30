@@ -1,0 +1,92 @@
+Nonregenerative anemias can be due to nutritional deficiencies, chronic disease, renal disease, and primary bone marrow diseases. Acute anemia is initially nonregenerative, until regeneration occurs in 3–4 days; if there's no evidence of regeneration in that time frame, it is classified as nonregenerative.
+Anemia Due to Nutritional Deficiency in Animals
+Nutritional deficiency anemias develop when micronutrients needed for RBC formation are not present in adequate amounts. Anemia develops gradually and can initially be regenerative; ultimately, however, it becomes nonregenerative. Starvation leads to anemia because of a combination of vitamin and mineral deficiencies, as well as a negative energy and protein balance.
+Deficiencies most likely to cause anemia include the following:
+cobalamin (vitamin B12)
+copper
+iron
+niacin
+pyridoxine (vitamin B6)
+riboflavin
+vitamin C (important only in primates and guinea pigs)
+vitamin E
+Iron deficiency is the most common deficiency in dogs and piglets; it occurs less commonly in horses, cats, and ruminants. Iron deficiency is rarely nutritional in origin; it most commonly occurs secondary to chronic blood loss. Young animals have minimal iron stores, and milk contains very little iron. These factors can be especially important for piglets, which grow rapidly and are often raised indoors with no access to iron. Oral or injectable iron supplementation is indicated as a treatment for iron deficiency, and any source of blood loss must be corrected.
+Copper is necessary for the metabolism of iron. Copper deficiency can develop in ruminants fed forage grown in copper-deficient soil, and it can occur secondary to high dietary molybdenum or sulfate in cattle and in pigs fed whey diets. Low blood copper concentrations or low copper concentrations in liver biopsies (more definitive) are diagnostic. Treatment is oral or injectable copper supplementation.
+B vitamin deficiencies are rare. Because intestinal malabsorption can contribute to deficiency, measurement of serum cobalamin (vitamin B12) and folate concentrations is recommended for dogs or cats with chronic GI signs.
+Certain drugs (eg, anticonvulsants or drugs that interfere with folate metabolism) have been associated with development of folate or cobalamin deficiency, leading to a normocytic, normochromic, nonregenerative anemia.
+Cobalamin malabsorption independent of underlying GI disease has been reported in Giant Schnauzers, Beagles, Border Collies, and Australian Shepherds (their enterocytes are unable to absorb cobalamin). These dogs respond to parenteral supplementation with cobalamin.
+Ruminants develop a secondary cobalamin deficiency when grazing on cobalt-deficient pasture. Treatment with oral cobalt or parenteral cobalamin is indicated.
+Anemia Due to Chronic Disease in Animals
+Anemia resulting from chronic disease can be characterized as mild to moderate, nonregenerative, normochromic, and normocytic. It is the most common form of mild anemia in animals. The anemia can be secondary to chronic inflammation or infection, neoplasia, liver disease, hyperadrenocorticism or hypoadrenocorticism, or hypothyroidism.
+Anemia due to chronic disease is mediated by cytokines produced by inflammatory cells, which lead to decreases in iron availability, RBC survival, and the marrow’s ability to regenerate. Treatment should be directed at the underlying disease and often results in resolution of the anemia.
+Anemia Due to Renal Disease in Animals
+Chronic kidney disease is a common cause of nonregenerative anemia in animals. Erythropoietin is normally produced by the peritubular endothelial cells in the renal cortex. Animals with renal disease produce less erythropoietin, leading to anemia.
+Anemia associated with renal disease should be treated, because it can worsen the renal disease clinical signs and the patient's quality of life and can cause the progression of chronic kidney disease.
+Erythropoiesis-stimulating agents can be used to treat anemia that is due to renal disease. Compared with recombinant human erythropoietin (epoetin alfa), darbepoetin is hyperglycosylated and, anecdotally, associated with a lower risk of subsequent red cell aplasia. The recommended starting dose is 1 mcg/kg, SC, once weekly in cats, and 0.5–1 mcg/kg, SC, once weekly in dogs. PCV is monitored weekly until the desired improvement is reached (the duration of treatment varies with the initial extent of the anemia), after which the dose interval is increased and PCV continues to be monitored.
+Potential adverse effects of darbepoetin include pure red cell aplasia and hypertension; therefore, it is important to monitor PCV and blood pressure. Patients administered darbepoetin or recombinant human erythropoietin require supplemental iron to support RBC production. (Also see Hematinics.)
+Molidustat oral suspension has received conditional approval for managing chronic kidney disease–associated anemia in cats. The conditional approval requires that the drug be administered to cats only at 5 mg/kg every 24 hours for 28 days, followed by a required pause of ≥ 7 days. PCV should be monitored during this pause, and when it decreases to < 28%, molidustat oral suspension can be administered for another 28 days followed by the required pause. Vomiting is the most common adverse effect of the drug.
+Anemia Due to Primary Bone Marrow Diseases in Animals
+Primary bone marrow disease or failure from any cause can lead to nonregenerative anemia and pancytopenia. With diffuse marrow involvement, granulocytes are affected first, followed by platelets and finally RBCs.
+Aplastic Anemia
+Aplastic anemia has been reported in dogs, cats, ruminants, horses, and pigs with pancytopenia and a hypoplastic marrow, replaced by fat. Most cases are idiopathic; reported causes include infection (eg, feline leukemia virus disease, ehrlichiosis, parvovirus infection), drug treatment (eg, methimazole, chemotherapeutic agents, antimicrobials [trimethoprim-sulfa, chloramphenicol], fenbendazole), toxin ingestion (eg, estrogen), and total body irradiation (see the tables Toxic Causes of Anemia and Infectious Causes of Anemia.
+Aplastic anemia can also have an immune-mediated component, which is more common in dogs than in cats.
+Diagnosis of aplastic anemia is confirmed by bone marrow aspiration and biopsy.
+Treatment consists of eliminating the underlying cause and providing supportive care such as broad-spectrum antimicrobials and transfusions. Immunosuppressive agents such as prednisone or prednisolone, cyclosporine, mycophenolate, or azathioprine can be considered.
+Recombinant human erythropoietin and granulocyte colony-stimulating factor (5 mcg/kg, SC, every 24 hours) can be administered until the marrow recovers. If the disease is idiopathic or if marrow recovery is unlikely (eg, as with phenylbutazone toxicosis in dogs), bone marrow transplantation is beneficial if a suitable donor is available.
+Pure Red Cell Aplasia
+In pure red cell aplasia, only the erythroid line is affected. Pure red cell aplasia is characterized by a nonregenerative anemia with severe depletion of RBC precursors in the bone marrow.
+Pure red cell aplasia has been reported in dogs and cats and can be primary or secondary. Primary cases are most commonly immune mediated and can respond to immunosuppressive therapy. Supportive care, including transfusion, can be indicated when the anemia is severe.
+Cats with feline leukemia virus infection can have pure red cell aplasia. Recombinant human erythropoietin has been reported to cause pure red cell aplasia in dogs and horses. Discontinuation of treatment can eventually lead to RBC recovery in some animals.
+Primary Leukemias
+Primary leukemias are uncommon to rare in domestic species; however, they have been reported in dogs, cats, cattle, goats, sheep, pigs, and horses. Retroviruses are a cause in some cattle, cats, primates, and chickens.
+Leukemias can develop in myeloid or lymphoid cell lines and are further classified as acute or chronic. Most affected animals have nonregenerative anemia, neutropenia, and thrombocytopenia, with circulating blast cells usually present.
+Acute leukemias, characterized by infiltration of the marrow with blasts, generally respond poorly to chemotherapy. In patients that do respond, remission times are usually short. In acute lymphoblastic leukemia in dogs, the response rate to chemotherapy is approximately 30%, with a median survival time of 4 months. Acute myeloblastic leukemias are less common and even less responsive to treatment than acute lymphoblastic leukemia. In acute leukemias, the cell lineage is often difficult to identify morphologically, so cytochemical stains or immunological evaluation of cell-surface markers can be necessary for definitive diagnosis.
+Chronic leukemias, characterized by an overproduction of one hematopoietic cell line, are less likely to cause anemia and more responsive to treatment.
+Myelodysplasia
+Myelodysplasia (myelodysplastic syndrome, MDS) is considered a preleukemic syndrome characterized by ineffective hematopoiesis, resulting in a nonregenerative anemia or other cytopenias. MDS has been described in dogs, cats, and humans.
+MDS can be primary or secondary and is common in cats with feline leukemia virus infection. Primary syndromes probably arise from mutations in stem cells. Secondary syndromes result from other neoplasia or drug treatment.
+Some cats and dogs respond to treatment of MDS with recombinant human erythropoietin and prednisone. Supportive care with transfusions can be helpful. Survival varies because MDS can progress to leukemia; many affected animals are euthanized or die of sepsis, bleeding, or anemia.
+Myelofibrosis
+Myelofibrosis causes bone marrow failure secondary to replacement of normal marrow elements with fibrous tissue. The disorder has been reported in dogs, cats, humans, and goats.
+Myelofibrosis can be a primary disorder or secondary to malignancies, immune-mediated hemolytic anemia, whole body irradiation, and congenital anemias (eg, pyruvate kinase deficiency). Diagnosis can be based on bone marrow biopsy.
+Treatment of myelofibrosis varies with the underlying cause but usually consists of immunosuppressive therapy.
+Bone Marrow Aspiration and Biopsy
+Bone marrow aspiration and biopsy are techniques used to evaluate the bone marrow in domestic animal species. The basic technique is to introduce a hollow needle into the bone to obtain a marrow sample for evaluation. Aspiration provides a sample for cytological evaluation; biopsy provides a sample for histological evaluation. The equipment for these procedures can differ slightly.
+The following are indications for bone marrow evaluation:
+leukopenia
+bicytopenia
+pancytopenia
+abnormal circulating cells of any type
+monoclonal gammopathy
+suspected osteomyelitis
+suspected bone neoplasia
+infectious disease affecting the bone
+clinical staging of neoplastic processes such as lymphoma and mast cell disease
+The conventional anatomical sites for bone marrow aspiration include the iliac crest, the trochanteric fossa of the femur, the tibial crest, and the greater tubercle of the humerus. Some clinicians have also used the rib (costochondral junction) or sternebrae. The humerus is the most common site for bone marrow biopsy.
+Aspiration Procedure
+Cats and dogs generally require heavy sedation for bone marrow aspiration; some cats can require general anesthesia. The procedure is as follows:
+The patient is placed in one of two positions:
+Lateral recumbency for the trochanteric fossa or greater tubercle
+Sternal recumbency for the iliac crest
+The area to be accessed is shaved and aseptically prepared.
+The site, including the periosteum, is infiltrated with local anesthetic.
+A scalpel with a No. 11 blade is used to make a stab incision through the skin.
+An aspiration needle is inserted into the bone through the incision.
+Most bone marrow aspiration needles (eg, Rosenthal, Illinois) are very similar and have a removable stylet. With the stylet in place, the needle is advanced with a back-and-forth screwing motion until the needle is well seated in the bone.
+The stylet is removed from the needle, and a 6- to 12-mL syringe is attached for aspiration. This step is the most likely one to cause the patient some discomfort.
+A small sample is drawn into the syringe (only enough to fill the hub is required).
+The needle is removed.
+The sample is put onto slides for cytological evaluation.
+Biopsy Procedure
+Bone marrow biopsy requires general anesthesia. The procedure is similar to that for bone marrow aspiration (see above), except that it requires a Jamshidi needle, which is rigid and hollow with a stylet. The Jamshidi needle has a cutting edge at its end, designed to obtain a core marrow sample (it can also be used to obtain a bone marrow aspirate). Once the needle is well seated in the bone, the cap is unscrewed and the stylet removed.
+An aspirate can be obtained as described above. To obtain a core sample for histological evaluation, the needle is advanced further (by approximately 0.6 cm, or a quarter inch) into the marrow while twisting in one direction. The needle is then moved in a wide, circular motion to try to dislodge a core sample.
+The needle is removed by twisting in the opposite direction in which it was advanced. A blunt stylet is then passed retrograde to remove the core sample.
+The core can be gently rolled onto a slide for cytology and then placed into formalin for histological examination.
+Key Points
+Nonregenerative anemia may be due to nutritional deficiency, chronic disease, renal disease, or bone marrow disease.
+Bone marrow aspiration is a safe procedure that is most commonly indicated for diagnosing peripheral blood abnormalities.
+Bone marrow aspiration enables cytological evaluation of cell morphology and cell lines.
+Bone marrow biopsy enables histological evaluation of architecture.
+For More Information
+Grimes CN, Fry MM. Nonregenerative anemia: mechanisms of decreased or ineffective erythropoiesis. Vet Pathol. 2015;52(2):298-311. doi:10.1177/0300985814529315
+Also see pet health content regarding nonregenerative anemias in dogs, cats, and horses.

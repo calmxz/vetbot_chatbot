@@ -1,0 +1,23 @@
+Acquired portosystemic shunts (APSSs) are anomalous vessels that form secondary to numerous causes of portal hypertension (PH), including those classified as prehepatic, hepatic, and posthepatic. Development of APSSs occurs 4–6 weeks after onset of PH.
+Underlying causes of APSSs include:
+chronic liver disease (fibrosis, regenerative nodules)
+severe congenital portal vein atresia
+acquired damage to the fine branches of the intrahepatic portal vein (noncirrhotic portal hypertension)
+hepatic arteriovenous malformations (arterialized portal and sinusoidal perfusion)
+ductal plate malformations with a congenital hepatic fibrosis phenotype
+intrahepatic or extrahepatic portal vein thrombosis
+extrahepatic portal vein stricture, perivenular fibrosis, stenosis, or phlebitis
+outflow obstruction via hepatic vein/venules due to thrombosis (Budd-Chiari syndrome), endothelial injury to hepatic venules/veins (veno-occlusive syndrome), or development of a sinusoidal occlusion syndrome (SOS; fibrotic collapse of centrilobular sinusoids limiting egress of sinusoidal blood toward the vena cava)
+In health, the main body of the portal vein lacks valves and maintains a blood pressure of < 8 mm Hg. Any disorder diminishing hepatic portal venous perfusion stimulates the hepatic arterial buffer response (HABR), a compensatory physiologic response increasing hepatic arterial perfusion. High-pressure retrograde arterial flow feeds into portal vasculature at the level of the portal tract, leading to hypertensive retrograde flow of blood into the valveless splanchnic portal system along a path of least resistance toward the vena cava.
+Acquired portosystemic shunts represent nests or varices of tortuous vasculature uniting the portal vein and abdominal vena cava or occasionally with the azygous vein. The most common sites of APSS formation are caudal to the left kidney (left gonadal vein), the region of colorectal vasculature, and associated with splenic vasculature. Nests of small tortuous vessels with turbulent perfusion are often identified during abdominal ultrasonography using color-flow Doppler. Although esophageal varices are common in humans, these are rarely encountered in dogs or cats.
+Surgical exploration for portosystemic vascular anomaly (PSVA) shunt ligation is strongly contraindicated in a patient if APSSs are identified because this rules out PSVA as a cause of portosystemic shunting. Rather, discovery of APSSs strongly argues for portal hypertension that cannot exist in the presence of a decompressive PSVA. Meticulous vascular imaging and liver histologic examination are needed to determine the cause of PH unless intravascular portal thrombi or portal vascular occlusive lesions are definitively detected by ultrasonography.
+Clinical signs of APSSs include:
+episodic hepatic encephalopathy (HE)
+variable inappetance
+vomiting
+diarrhea (sometimes bloody)
+polyuria/polydipsia (PU/PD)
+abdominal effusion
+Laboratory abnormalities are often identical to those observed with PSVA (ie, RBC microcytosis, subnormal BUN, creatinine, cholesterol, ammonium biurate crystalluria, marked increases in total serum bile acid concentrations, increased ammonia concentrations (with ammonia challenge or other provocative circumstance), and often subnormal protein C activity). Animals with primary necroinflammatory liver disease display variable liver enzyme activities and/or hyperbilirubinemia depending on the underlying disorder.
+Ligation of multiple APSSs is strongly contraindicated because their formation represents a compensatory decompressive response to PH. Banding of the vena cava to decrease the extent of shunting is also ill advised. Medical treatment to minimize signs of HE along with sodium restriction and combination diuretic therapy (furosemide with spironolactone, as in treatment of ascites) is used to manage often associated abdominal effusion.
+Some animals with APSSs can live for years with good quality of life if adverse effects associated with HE are well managed medically, the formation of ascites controlled, and a known and manageable causal disease is identified. Dogs with thrombosed portal veins may be serendipitously diagnosed long after the acute phase of thromboembolism. Some of these patients amazingly lack clinical signs and have an uneventful normal lifespan when given appropriate medical and nutritional support.

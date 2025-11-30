@@ -1,0 +1,103 @@
+Many gastrointestinal neoplasms in dogs and cats are biologically aggressive with a poor outcome, even with surgical and medical treatment. Intensive treatment is often necessary to improve patients’ clinical status, although longterm prognosis is poor. Diagnostic staging tests are warranted in cases for which surgical resection is elected. In some cases, such as canine colorectal adenocarcinoma or lymphoma and feline low-grade small intestinal lymphoma, a relatively favorable prognosis can be achieved with extensive treatment.
+Etiology and Pathophysiology of Gastrointestinal Neoplasia in Dogs and Cats
+Specific etiological agents for GI neoplasia in dogs and cats have not been identified.
+Helicobacter infections are associated with gastric neoplasia in humans; however, similar direct links have not been established in dogs or cats.
+A genetic component for gastric carcinoma is suspected in certain dog and cat breeds, but this has yet to be fully elucidated.
+In general, GI neoplasms tend to be malignant in dogs and cats.
+Dogs
+In dogs, adenocarcinoma is the most common gastric and large intestinal neoplasm, whereas lymphoma occurs more frequently in the small intestine, followed by adenocarcinoma and sarcomas such as GI stromal tumor (GIST) and leiomyosarcoma. Other reported canine and feline GI neoplasms include carcinoid, adenoma, leiomyoma, fibrosarcoma, carcinoma in situ, and plasmacytoma.
+In dogs, adenocarcinomas frequently affect the lower third of the stomach (eg, lesser curvature and pyloric region) and rectum. Gastric and small intestinal adenocarcinomas frequently metastasize to regional lymph nodes, liver, and lung. At the time of diagnosis, up to 77% of intestinal and up to 32% of gastric adenocarcinomas have metastasized (1).
+GI lymphoma most commonly affects the small intestine as well as extra-GI organs such as the liver. Canine GI lymphoma is mostly a high-grade variant with rapid clinical progression. Colorectal lymphomas are predominantly B-cell immunophenotype (> 90–92%) (2, 3), whereas other canine GI lymphomas are more commonly T-cell immunophenotype.
+Small cell, low-grade GI lymphoma, a slowly progressive indolent lymphoma, occurs less commonly in dogs but can be clinically well managed. Differentiation between high- and low-grade lymphoma requires histological and, potentially, immunohistochemical analysis, such as assessment of cellular size, mitotic index, and Ki-67 staining.
+Transition of low-grade GI lymphoma into high-grade lymphoma occurs in approximately 10% of dogs.
+GISTs originate from interstitial cells of Cajal, pacemaker cells that generate electrical waves in GI smooth muscles. Key diagnostic criteria for GIST are strong Kit (CD117) expression and low to absent alpha smooth muscle actin (alpha-SMA) reactivity on immunohistochemical testing.
+Before the recognition of GIST, many of these tumors were likely classified as leiomyosarcomas, hence the true incidence of leiomyosarcoma may be lower than previously reported. GISTs typically occur in the cecum and large intestine. In contrast, leiomyosarcomas occur most commonly in the stomach and small intestine. Overall, GIST and leiomyosarcoma grow slowly and are slow to metastasize, with a reported metastatic rate of up to 30% in dogs. For canine GIST, c-Kit mutations are present in exon 11 most frequently (60–70%).
+Cats
+In cats, lymphoma is the most common GI neoplasm, followed by adenocarcinoma and mast cell tumor. Both low-grade and high-grade GI lymphomas are frequently reported, and their clinical behaviors are well characterized in cats. Low-grade GI lymphomas are mostly mucosal and T-cell immunophenotype, commonly affecting the small intestines. Small intestinal high-grade lymphoma, however, can be either T-cell or B-cell in origin.
+Adenocarcinoma is commonly identified in the feline intestinal tract, especially in the jejunum and ileum, but rarely in the stomach or large intestines. Feline adenocarcinomas are also biologically aggressive, with a high metastatic rate. Metastasis commonly occurs to regional lymph nodes (up to 52%) and lungs (up to 20%), while local invasion into the serosa is present in 85% of cases, with or without carcinomatosis (4).
+Epidemiology of Gastrointestinal Neoplasia in Dogs and Cats
+GI neoplasms are uncommon in dogs and cats, with gastric tumors representing < 1% and intestinal tumors < 10% of all neoplasms in dogs and cats.
+The typical age of dogs with GI neoplasia is 6–9 years and of cats, 10–12 years. Gastric leiomyomas tend to occur in older dogs (10–15 years).
+Some reports show a slight predominance for male dogs and cats to develop GI neoplasia.
+Breed predispositions for gastric carcinoma have been reported in Norwegian Lundehunds (puffin dogs) and Belgian Sheepdogs of the Tervuren and Groenendael varieties. Siamese cats have a breed predisposition for intestinal adenocarcinoma and lymphoma.
+Clinical Findings of Gastrointestinal Neoplasia in Dogs and Cats
+Clinical signs of GI neoplasia depend on the tumor's location and extent, as well as its possible metastases and paraneoplastic syndromes (eg, hypercalcemia, hypoglycemia). The most common clinical signs associated with GI neoplasia include the following:
+vomiting (with or without blood)
+anorexia
+weight loss
+diarrhea
+lethargy
+Clinical signs of constipation or tenesmus may accompany colonic and rectal tumors. An abdominal mass or organomegaly may be palpable on physical examination. Abdominal pain and ascites may reflect peritonitis secondary to a ruptured portion of neoplastic bowel and/or carcinomatosis.
+Diagnosis of Gastrointestinal Neoplasia in Dogs and Cats
+Hematologic and serological testing
+Diagnostic imaging
+Immunohistochemical and clonality testing
+Histological evaluation
+Hematology and Serology
+Routine laboratory studies do not show specific changes associated with GI neoplasia. Abnormalities can include the following:
+Hypoglycemia may occur with leiomyomas and leiomyosarcomas due to paraneoplastic insulin-like growth factor secretion or with sepsis secondary to rupture of an intestinal mass.
+Hypercholesterolemia and increased alkaline phosphatase activity have been observed with some cases of nonlymphomatous neoplasia.
+Microcytic anemia with or without hypoproteinemia is a common finding with ulcerated masses and chronic blood loss.
+Electrolyte and acid-base disturbances may reflect ongoing vomiting and can include hypochloremia, hypokalemia, and metabolic alkalosis or acidosis.
+Azotemia may occur secondary to small intestinal hemorrhage or dehydration.
+Paraneoplastic hypercalcemia has been associated with T-cell lymphoma.
+Abdominal Imaging
+Plain radiographs do not show specific changes associated with GI neoplasia. Radiographic findings may include loss of serosal detail and, rarely, an abdominal mass effect. The radiographic impression of gastric wall thickening must be interpreted with caution because ingesta, gastric fluid, or other gastric contents can create this appearance.
+Contrast abdominal radiographs may reveal mass lesions in the GI tract or areas of ulceration.
+Abdominal ultrasonography may reveal focal or diffuse thickening of the GI tract wall and loss of normal layering. Regional lymph nodes may be enlarged, and splenomegaly and/or hepatomegaly may accompany some cases of GI lymphoma.
+Though ultrasonographically abnormal findings may suggest the presence of neoplasia, normal appearance does not rule them out, especially for the stomach. In a study of 22 gastric neoplasms in dogs and cats, abnormalities were detected in only 50% of cases with ultrasonography but in 95% with endoscopy (5).
+Ultrasonography can facilitate fine-needle aspiration or needle biopsy sample collection for cytological or histological analysis. Aspirated samples are also suitable for flow cytometric immunophenotyping for lymphomas.
+Abdominal CT and colonoscopy help to visualize large intestinal lesions within the pelvic cavity that are not evaluable either by ultrasonographic or digital rectal examination. Abdominal CT can also assist in distinguishing tumor types presurgically in dogs with small intestinal masses. A 2023 study described unique growth and contrast enhancement patterns with adenocarcinoma, lymphoma, and spindle cell sarcoma (6), although histological assessment remains essential for definitive diagnosis.
+Thoracic Imaging
+Though not commonly reported for canine and feline GI neoplasms, pulmonary metastasis may be revealed by thoracic imaging with 3-view radiography or CT. These staging tests are important for assessment of prognosis, especially when surgery is being considered.
+Endoscopy
+Endoscopy of the GI tract can facilitate identification and partial-thickness biopsy of GI neoplasia. However, endoscopic biopsy collection is limited by the small size and superficial nature of the biopsy; some GI tumors are submucosal, and this technique can collect only superficial mucosa. In one study, endoscopic biopsy samples successfully diagnosed feline gastric lymphoma in some, but in others, they were misdiagnosed as inflammatory bowel disease when compared to full thickness surgical biopsy samples (7). Compared with duodenal biopsies, endoscopic ileal biopsies may have higher yield in the diagnosis of feline lymphoma and other GI diseases.
+Full-thickness surgical biopsies collected via laparoscopy or laparotomy may more suitably establish a diagnosis and will allow for concurrent biopsy of regional lymph nodes and liver to evaluate for metastasis.
+Histological and Molecular Diagnosis
+In addition to histological evaluation, immunohistochemical testing of GI biopsies may be required to differentiate between types of neoplasia.
+PCR for antigen receptor rearrangement (PARR) detects clonally rearranged antigen receptor genes by amplification of conserved gene segments. PARR can aid in the diagnosis of GI lymphoma when performed on inconclusive biopsy sections.
+Although the sensitivity and specificity of PARR in the diagnosis of lymphoma can reach 60–90% in dogs and cats, aberrant lymphocyte antigen expression and clonal rearrangements occur in inflammatory diseases as well. Therefore, PARR results require careful interpretation, incorporating clinical, histological, and immunohistochemical assessments.
+Treatment and Prognosis of Gastrointestinal Neoplasia in Dogs and Cats
+Surgery
+Systemic chemotherapy
+Surgical excision of the tumor is the gold standard for nonmetastatic, nonlymphomatous neoplasms, such as GI adenocarcinoma, GIST, or leiomyosarcoma. The main treatment for GI lymphoma is systemic chemotherapy, with or without surgical resection of the primary tumor. Tyrosine kinase inhibitor therapy and radiation therapy have also been described in the treatment of GI neoplasia.
+Surgery can also be performed as palliative care in cases of mechanical ileus secondary to an obstructive GI mass if the procedure is deemed feasible with reasonable risk of complications.
+Resection of a gastric pyloric tumor may require gastroduodenostomy (Billroth I) or gastrojejunostomy (Billroth II) with potentially fatal perioperative complications, including peritonitis, hemorrhage, pancreatitis, and disseminated intravascular coagulation. Curative resection, with margins of ≥ 3 cm, should be attempted in both the orad and aborad directions for small intestinal tumors, when possible.
+Reported perioperative mortality rate is as high as 50% in cats with intestinal carcinoma. In cats with splenic mast cell tumor with intestinal involvement, splenectomy can also result in regression of other lesions.
+Canine Carcinoma
+The prognosis for dogs with GI adenocarcinoma varies depending on tumor location:
+Dogs with gastric adenocarcinoma have a poor prognosis. In a 2019 study of 40 dogs with gastric adenocarcinoma, only 34 patients (85%) survived to discharge from the hospital, and the median survival time of those that were discharged was 6 months after surgery (8).
+Median survival time for canine small intestinal adenocarcinoma is reported as 4–18 months, with a 1-year survival rate of 40–60%.
+On the other hand, dogs with colorectal adenocarcinoma typically have a favorable prognosis, with a median survival time of 2–4 years after surgery.
+Effective chemotherapy for treatment of GI adenocarcinoma has not been established. Use of adjuvant carboplatin, doxorubicin, and gemcitabine has been reported, although efficacy is unknown.
+Feline Carcinoma
+In contrast to that of canine carcinoma, the prognosis for feline GI adenocarcinoma is poor, regardless of tumor location. For cats that survived to discharge after surgery, reported mean survival times range from 5–15 months for small intestinal carcinomas and from 4.5–9 months for large intestinal carcinomas with or without adjuvant chemotherapy. The prognosis for cats with small intestinal carcinoma with high mitotic activity is particularly poor.
+Canine Sarcoma
+Dogs with GIST or leiomyosarcoma without gross metastasis tend to have a long remission time if the tumor is surgically resectable. In a study of leiomyosarcoma and GIST, overall median survival time was 42 months after complete resection with no difference in outcome between the diagnoses.
+For cases with nonresectable or aggressive GIST, molecular targeted treatment such as tyrosine kinase inhibitors may be effective by specifically targeting aberrantly expressed Kit. A 2018 retrospective study documented measurable tumor response in 4 of 7 dogs with GIST that were treated with toceranib phosphate, a multikinase inhibitor targeting Kit and other receptors, with a median progression-free interval of 26 months (9).
+Lymphoma
+High-grade large to intermediate cell size lymphoma responds to chemotherapy favorably, with a reported remission rate of up to 80% in general.
+If treatment is attempted, a multidrug chemotherapy protocol (eg, Wisconsin-Madison) may be more effective than single-agent protocols. However, the clinical responses are not durable in the majority of cases, with median survival time of 2–3 months in both dogs and cats. Canine large intestinal lymphoma is an exception, with reported median survival times of 5.5–6 years after systemic chemotherapy with or without surgical resection of the tumor.
+Focal lymphomas can be surgically excised; however, adjuvant chemotherapy should still be recommended for high-grade lymphomas due to their malignant behavior in both dogs and cats. With combination of surgery and adjuvant CHOP-based chemotherapy, a 2017 retrospective study of 20 cats with a solitary GI high-grade lymphoma reported a median survival time of 14 months (10).
+Small cell (well-differentiated, low-grade) lymphoma is treated with steroids and alkylating agents. Commonly used protocols include prednisolone (initial dose: 40 mg/m2, PO, every 24 hours for 7 days; then 20 mg/m2, every 48 hours longterm) and chlorambucil (either 2 mg, PO, every 48 hours, or 20 mg/m2, PO, every 2 weeks) with reported median survival times of 1.5–3 years in cats and 14–21 months in dogs.
+For treatment of refractory cases of lymphoma, rescue therapy can be attempted with other alkylators, such as cyclophosphamide (200–250 mg/m2, IV or PO, administered over 2 days on days 1 and 3, every 2 weeks) or lomustine (30–60 mg/m2, PO, every 4–6 weeks, unless patient is neutropenic), with some reported success in cats.
+For patients with GI lymphoma confined to the abdominal cavity, radiation therapy may be an option, given the high radiosensitivity of lymphomas. A 2017 retrospective study of 11 cats described successful use of this approach in feline GI lymphoma as a rescue or consolidation therapy (11). Further studies with a larger sample size are warranted.
+Key Points
+Many GI neoplasms are biologically aggressive, with a poor outcome.
+Intensive treatment is often necessary to improve patients’ clinical status.
+A relatively favorable prognosis can be achieved with extensive treatment in some cases, such as with canine adenocarcinoma and lymphoma of the large intestine and with feline low-grade lymphoma.
+For More Information
+Marsilio S, Freiche V, Johnson E, et al. ACVIM consensus statement guidelines on diagnosing and distinguishing low-grade neoplastic from inflammatory lymphocytic chronic enteropathies in cats. J Vet Intern Med. 2023;37(3):794-816.
+Also see pet owner content regarding cancers of the digestive system in dogs and cats.
+References
+Vail DM, Thamm DH, Liptak JM, eds. Withrow and MacEwen’s Small Animal Clinical Oncology. 6th ed. Elsevier; 2019.
+Van den Steen N, Berlato D, Polton G, et al. Rectal lymphoma in 11 dogs: a retrospective study. J Small Anim Pract. 2012;53(10):586-591. doi:10.1111/j.1748-5827.2012.01258.x
+Desmas I, Burton JH, Post G, et al. Clinical presentation, treatment and outcome in 31 dogs with presumed primary colorectal lymphoma (2001-2013). Vet Comp Oncol. 2017;15(2):504-517. doi:10.1111/vco.12194
+Czajkowski PS, Parry NM, Wood CA, et al. Outcome and prognostic factors in cats undergoing resection of intestinal adenocarcinomas: 58 cases (2008-2020). Front Vet Sci. 2022;9:911666. doi:10.3389/fvets.2022.911666
+Marolf AJ, Bachand AM, Sharber J, Twedt DC. Comparison of endoscopy and sonography findings in dogs and cats with histologically confirmed gastric neoplasia. J Small Anim Pract. 2015;56(5):339-344. doi:10.1111/jsap.12324
+Lee S, Hwang J, Kim H, et al. Computed tomographic findings may be useful for differentiating small intestinal adenocarcinomas, lymphomas, and spindle cell sarcomas in dogs. Vet Radiol Ultrasound. 2023;64(2):233-242. doi:10.1111/vru.13174.
+Evans SE, Bonczynski JJ, Broussard JD, Han E, Baer KE. Comparison of endoscopic and full-thickness biopsy specimens for diagnosis of inflammatory bowel disease and alimentary tract lymphoma in cats. J Am Vet Med Assoc. 2006;229(9):1447-1450. doi:10.2460/javma.229.9.1447
+Abrams B, Wavreille VA, Husbands BD, et al. Perioperative complications and outcome after surgery for treatment of gastric carcinoma in dogs: A Veterinary Society of Surgical Oncology retrospective study of 40 cases (2004-2018). Vet Surg. 2019;48(6):923-932. doi:10.1111/vsu.13239
+Berger EP, Johannes CM, Jergens AE, et al. Retrospective evaluation of toceranib phosphate (Palladia®) use in the treatment of gastrointestinal stromal tumors of dogs. J Vet Intern Med. 2018;32(6):2045-2053. doi:10.1111/jvim.15335
+Gouldin ED, Mullin C, Morges M, et al. Feline discrete high-grade gastrointestinal lymphoma treated with surgical resection and adjuvant CHOP-based chemotherapy: retrospective study of 20 cases. Vet Comp Oncol. 2017;15(2):328-335. doi:10.1111/vco.12166
+Parshley DL, Larue SM, Kitchell B, Heller D, Dhaliwal RS. Abdominal irradiation as a rescue therapy for feline gastrointestinal lymphoma: a retrospective study of 11 cats (2001-2008). J Feline Med Surg. 2011;13(2):63-68. doi:10.1016/j.jfms.2010.07.017
