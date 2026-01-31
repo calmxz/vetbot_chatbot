@@ -91,6 +91,13 @@ def main():
     st.title("\U0001fa7a Veterinary Clinical Reference Chatbot")
     st.markdown("Ask clinical, diagnostic, or treatment questions — for veterinary professionals only")
 
+    # Hide anchor links on markdown headings
+    st.markdown("""
+    <style>
+    .stMarkdown a[href^="#"] { display: none; }
+    </style>
+    """, unsafe_allow_html=True)
+
     # Initialize session state
     if "vet_messages" not in st.session_state:
         st.session_state.vet_messages = []
@@ -98,6 +105,8 @@ def main():
         st.session_state.vet_audio_cache = {}
     if "vet_playing_audio" not in st.session_state:
         st.session_state.vet_playing_audio = None
+    if "vet_generating_audio_for" not in st.session_state:
+        st.session_state.vet_generating_audio_for = None
 
     # Load resources
     vectorstore = load_and_index_documents(Config.DOCUMENTS_FOLDER)
@@ -126,8 +135,8 @@ def main():
         with st.chat_message("user"):
             st.markdown(user_input)
 
+        # Generate response and audio (shown via spinner, not inline)
         with st.chat_message("assistant"):
-            sources_for_display = None
             with st.spinner("Consulting knowledge base..."):
                 # Build conversation context
                 conversation_context = ""
@@ -146,11 +155,6 @@ def main():
 
                     if relevant_docs:
                         context = "\n\n".join([doc.page_content for doc in relevant_docs])
-                        sources = set([
-                            doc.metadata.get('source', 'documents')
-                            for doc in relevant_docs
-                        ])
-                        sources_for_display = sources
                         source_text = "Knowledge base documents"
 
                         prompt = f"""[PROFESSIONAL MODE]
@@ -177,25 +181,11 @@ Previous conversation:
 User question: {user_input}"""
 
                 response = get_response(client, prompt, system_prompt=system_prompt)
-                st.markdown(response)
 
-            # Display source information if available
-            if sources_for_display:
-                has_web_cache = any('web_cache' in str(s) for s in sources_for_display)
-                if has_web_cache:
-                    st.caption("Information sources: Merck Veterinary Manual and other verified materials")
-
-        # Save message to session state
+        # Save message to session state and queue audio generation
         st.session_state.vet_messages.append({"role": "assistant", "content": response})
-
-        # Pre-generate audio for assistant response
-        current_idx = len(st.session_state.vet_messages) - 1
-        with st.spinner("Generating audio..."):
-            audio_file = text_to_speech(response)
-            if audio_file:
-                st.session_state.vet_audio_cache[current_idx] = audio_file
-
-        st.rerun()
+        st.session_state.vet_generating_audio_for = len(st.session_state.vet_messages) - 1
+        st.rerun()  # Rerun to show response from history with disabled button
 
     # Sidebar
     with st.sidebar:
@@ -218,10 +208,22 @@ If unsure, always consult the latest literature or a board-certified specialist 
             cleanup_audio_files(st.session_state.vet_audio_cache)
             st.session_state.vet_messages = []
             st.session_state.vet_playing_audio = None
+            st.session_state.vet_generating_audio_for = None
             st.rerun()
 
         st.markdown("---")
         st.caption("For licensed professional use only.")
+
+    # Generate audio for pending message (runs after UI is rendered)
+    if st.session_state.vet_generating_audio_for is not None:
+        idx = st.session_state.vet_generating_audio_for
+        if idx < len(st.session_state.vet_messages) and idx not in st.session_state.vet_audio_cache:
+            msg = st.session_state.vet_messages[idx]
+            audio_file = text_to_speech(msg["content"])
+            if audio_file:
+                st.session_state.vet_audio_cache[idx] = audio_file
+        st.session_state.vet_generating_audio_for = None
+        st.rerun()
 
 
 if __name__ == "__main__":
