@@ -87,6 +87,13 @@ def main():
     st.title("\U0001f43e Veterinary Information Chatbot")
     st.markdown("*Ask questions about pet health and care*")
 
+    # Hide anchor links on markdown headings
+    st.markdown("""
+    <style>
+    .stMarkdown a[href^="#"] { display: none; }
+    </style>
+    """, unsafe_allow_html=True)
+
     # Initialize session state
     if "messages" not in st.session_state:
         st.session_state.messages = []
@@ -94,6 +101,8 @@ def main():
         st.session_state.audio_cache = {}
     if "playing_audio" not in st.session_state:
         st.session_state.playing_audio = None
+    if "generating_audio_for" not in st.session_state:
+        st.session_state.generating_audio_for = None
 
     # Load resources
     vectorstore = load_and_index_documents(Config.DOCUMENTS_FOLDER)
@@ -121,8 +130,8 @@ def main():
         with st.chat_message("user"):
             st.markdown(user_input)
 
+        # Generate response and audio (shown via spinner, not inline)
         with st.chat_message("assistant"):
-            sources_for_display = None
             with st.spinner("Thinking..."):
                 # Build conversation context
                 conversation_context = ""
@@ -141,11 +150,6 @@ def main():
 
                     if relevant_docs:
                         context = "\n\n".join([doc.page_content for doc in relevant_docs])
-                        sources = set([
-                            doc.metadata.get('source', 'documents')
-                            for doc in relevant_docs
-                        ])
-                        sources_for_display = sources
                         source_text = "Knowledge base documents"
 
                         # Check if it's a how-to question
@@ -188,25 +192,11 @@ User question: {user_input}"""
 User question: {user_input}"""
 
                 response = get_response(client, prompt, system_prompt=system_prompt)
-                st.markdown(response)
 
-            # Display source information if available
-            if sources_for_display:
-                has_web_cache = any('web_cache' in str(s) for s in sources_for_display)
-                if has_web_cache:
-                    st.caption("\U0001f4da Information sources: Merck Veterinary Manual")
-
-        # Save message to session state
+        # Save message to session state and queue audio generation
         st.session_state.messages.append({"role": "assistant", "content": response})
-
-        # Pre-generate audio for assistant response
-        current_idx = len(st.session_state.messages) - 1
-        with st.spinner("Generating audio..."):
-            audio_file = text_to_speech(response)
-            if audio_file:
-                st.session_state.audio_cache[current_idx] = audio_file
-
-        st.rerun()
+        st.session_state.generating_audio_for = len(st.session_state.messages) - 1
+        st.rerun()  # Rerun to show response from history with disabled button
 
     # Sidebar
     with st.sidebar:
@@ -227,10 +217,22 @@ User question: {user_input}"""
             cleanup_audio_files(st.session_state.audio_cache)
             st.session_state.messages = []
             st.session_state.playing_audio = None
+            st.session_state.generating_audio_for = None
             st.rerun()
 
         st.markdown("---")
         st.caption("For informational purposes only. Always consult a veterinarian for medical advice.")
+
+    # Generate audio for pending message (runs after UI is rendered)
+    if st.session_state.generating_audio_for is not None:
+        idx = st.session_state.generating_audio_for
+        if idx < len(st.session_state.messages) and idx not in st.session_state.audio_cache:
+            msg = st.session_state.messages[idx]
+            audio_file = text_to_speech(msg["content"])
+            if audio_file:
+                st.session_state.audio_cache[idx] = audio_file
+        st.session_state.generating_audio_for = None
+        st.rerun()
 
 
 if __name__ == "__main__":

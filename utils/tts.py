@@ -1,5 +1,7 @@
 """Text-to-Speech utilities using Kokoro TTS."""
 
+import contextlib
+import io
 import os
 import re
 import tempfile
@@ -53,13 +55,12 @@ def text_to_speech(text: str, voice: str = None) -> str | None:
         pipeline = get_kokoro_pipeline()
         cleaned_text = _clean_text_for_tts(text)
 
-        # Generate audio using Kokoro
-        generator = pipeline(cleaned_text, voice=voice)
-
-        # Kokoro yields (graphemes, phonemes, audio) tuples
+        # Generate audio using Kokoro (suppress stdout/stderr to prevent UI pollution)
         audio_chunks = []
-        for _, _, audio in generator:
-            audio_chunks.append(audio)
+        with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+            generator = pipeline(cleaned_text, voice=voice)
+            for _, _, audio in generator:
+                audio_chunks.append(audio)
 
         if not audio_chunks:
             st.error("No audio generated")
