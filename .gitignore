@@ -1,7 +1,6 @@
 .env
 venv/
 CLAUDE.md
-.claude
 
 # Python cache
 __pycache__/
