@@ -1,11 +1,26 @@
 # Standard library imports
 import os
+import time
+import logging
+import random
+from pathlib import Path
 
 # Third-party imports
 import streamlit as st
 from google import genai
 from google.genai import types
+from google.api_core import exceptions as google_exceptions
 from dotenv import load_dotenv
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+# Script directory for relative paths
+SCRIPT_DIR = Path(__file__).parent
 
 # Local imports
 from utils import (
@@ -20,13 +35,23 @@ from utils import (
 load_dotenv()
 
 
-def load_system_prompt(filepath="system_prompt_vet.txt"):
+def load_system_prompt(filepath=None):
     """Load system prompt from file, or return default if not found."""
+    if filepath is None:
+        filepath = SCRIPT_DIR / "system_prompt_vet.txt"
     try:
         with open(filepath, "r", encoding="utf-8") as f:
             return f.read().strip()
     except FileNotFoundError:
         st.warning("system_prompt_vet.txt not found. Using default fallback prompt.")
+        return (
+            "You are an expert veterinary clinical assistant. Provide concise, accurate, "
+            "and up-to-date information for licensed veterinarians and veterinary staff. "
+            "Always cite sources if possible. Do not give owner-facing advice unless explicitly requested."
+        )
+    except UnicodeDecodeError:
+        logger.error(f"Invalid UTF-8 encoding in {filepath}")
+        st.warning("System prompt file has encoding issues. Using default.")
         return (
             "You are an expert veterinary clinical assistant. Provide concise, accurate, "
             "and up-to-date information for licensed veterinarians and veterinary staff. "
@@ -41,50 +66,121 @@ def initialize_client():
     if not api_key:
         st.error("GEMINI_API_KEY not found in environment variables!")
         st.stop()
-    return genai.Client(api_key=api_key)
+
+    client = genai.Client(api_key=api_key)
+
+    # Validate API key by making a lightweight request
+    try:
+        list(client.models.list())
+    except Exception as e:
+        logger.error(f"API key validation failed: {e}")
+        st.error("Invalid GEMINI_API_KEY. Please check your API key.")
+        st.stop()
+
+    return client
 
 
-def get_response(client, prompt, system_prompt=None, model=None):
-    """Get streaming response from Gemini API."""
+def get_response_stream(client, contents, system_prompt=None, model=None):
+    """Stream response from Gemini API with retry logic.
+
+    Retry only happens before any data is yielded. Once streaming starts,
+    failures are propagated to avoid duplicate content.
+    """
     if model is None:
         model = Config.DEFAULT_MODEL
 
-    if system_prompt:
-        full_prompt = f"""[Instruction — for professional reference use]
-{system_prompt}
-
-[User question]
-{prompt}"""
-    else:
-        full_prompt = prompt
-
-    contents = [
-        types.Content(
-            role="user",
-            parts=[types.Part.from_text(text=full_prompt)],
-        )
-    ]
-
     config = types.GenerateContentConfig(
         temperature=Config.TEMPERATURE_PROFESSIONAL,
+        system_instruction=system_prompt,
     )
 
-    response_text = ""
-    for chunk in client.models.generate_content_stream(
-        model=model,
-        contents=contents,
-        config=config,
-    ):
-        if chunk.text:
-            response_text += chunk.text
+    last_exception = None
+    for attempt in range(Config.MAX_RETRIES):
+        try:
+            stream = client.models.generate_content_stream(
+                model=model,
+                contents=contents,
+                config=config,
+            )
 
-    return response_text
+            # Track if we've started yielding data
+            started_streaming = False
+
+            for chunk in stream:
+                if chunk.text:
+                    started_streaming = True
+                    yield chunk.text
+            return
+
+        except (google_exceptions.ResourceExhausted,
+                google_exceptions.ServiceUnavailable,
+                google_exceptions.DeadlineExceeded) as e:
+            # Only retry if we haven't started streaming yet
+            if started_streaming:
+                logger.error(f"Stream failed mid-response: {e}")
+                raise
+
+            last_exception = e
+            if attempt < Config.MAX_RETRIES - 1:
+                # Exponential backoff with jitter
+                delay = Config.RETRY_BASE_DELAY * (2 ** attempt) + random.uniform(0, 1)
+                logger.warning(f"API error, retrying in {delay:.1f}s (attempt {attempt + 1}/{Config.MAX_RETRIES})")
+                time.sleep(delay)
+
+        except Exception as e:
+            logger.error(f"API error: {e}")
+            raise
+
+    if last_exception:
+        raise last_exception
+
+
+def build_conversation_contents(messages, current_input, rag_context=None):
+    """Build multi-turn Content objects for Gemini API."""
+    contents = []
+
+    # Add history (excluding current message)
+    for msg in messages[:-1]:
+        role = "user" if msg["role"] == "user" else "model"
+        contents.append(
+            types.Content(role=role, parts=[types.Part.from_text(text=msg["content"])])
+        )
+
+    # Build current prompt with RAG context
+    if rag_context:
+        current_text = f"[PROFESSIONAL MODE]\nContext from clinical knowledge base:\n{rag_context}\n\nUser question: {current_input}"
+    else:
+        current_text = f"[PROFESSIONAL MODE]\nUser question: {current_input}"
+
+    contents.append(
+        types.Content(role="user", parts=[types.Part.from_text(text=current_text)])
+    )
+
+    return contents
+
+
+def sanitize_input(text: str) -> str | None:
+    """Sanitize user input with length limit and validation.
+
+    Returns None if input is empty/whitespace only.
+    """
+    if not text or not text.strip():
+        return None
+
+    text = text.strip()
+
+    if len(text) > Config.MAX_INPUT_LENGTH:
+        text = text[:Config.MAX_INPUT_LENGTH]
+        logger.info(f"Input truncated to {Config.MAX_INPUT_LENGTH} chars")
+
+    return text
 
 
 def main():
     """Main Streamlit app for veterinary professional reference."""
     st.set_page_config(
         page_title="Veterinary Professional Reference Chatbot",
+        page_icon="\U0001fa7a",
         layout="wide"
     )
 
@@ -130,57 +226,42 @@ def main():
                     )
 
     # Handle user input
-    if user_input := st.chat_input("Veterinary professional question (diagnosis, clinical signs, drug doses, etc)..."):
+    if raw_input := st.chat_input("Veterinary professional question (diagnosis, clinical signs, drug doses, etc)..."):
+        user_input = sanitize_input(raw_input)
+        if user_input is None:
+            st.warning("Please enter a valid question.")
+            st.stop()
         st.session_state.vet_messages.append({"role": "user", "content": user_input})
         with st.chat_message("user"):
             st.markdown(user_input)
 
-        # Generate response and audio (shown via spinner, not inline)
         with st.chat_message("assistant"):
-            with st.spinner("Consulting knowledge base..."):
-                # Build conversation context
-                conversation_context = ""
-                if len(st.session_state.vet_messages) > 1:
-                    recent_messages = st.session_state.vet_messages[-Config.MAX_CONTEXT_MESSAGES:]
-                    conversation_context = "\n".join([
-                        f"{msg['role'].title()}: {msg['content']}"
-                        for msg in recent_messages
-                    ])
+            # Build conversation context
+            recent_messages = st.session_state.vet_messages[-Config.MAX_CONTEXT_MESSAGES:]
 
-                # Build prompt with RAG context if available
-                if vectorstore is not None:
-                    relevant_docs = vectorstore.similarity_search(
-                        user_input, k=Config.SIMILARITY_SEARCH_K
-                    )
+            # Build RAG context with relevance filtering
+            rag_context = ""
+            if vectorstore is not None:
+                docs_with_scores = vectorstore.similarity_search_with_score(
+                    user_input, k=Config.SIMILARITY_SEARCH_K
+                )
+                relevant_docs = [
+                    doc for doc, score in docs_with_scores
+                    if score < Config.SIMILARITY_DISTANCE_THRESHOLD
+                ]
+                if relevant_docs:
+                    rag_context = "\n\n".join([doc.page_content for doc in relevant_docs])
 
-                    if relevant_docs:
-                        context = "\n\n".join([doc.page_content for doc in relevant_docs])
-                        source_text = "Knowledge base documents"
+            # Build multi-turn contents
+            contents = build_conversation_contents(recent_messages, user_input, rag_context)
 
-                        prompt = f"""[PROFESSIONAL MODE]
-Context from clinical knowledge base:
-{context}
-
-Previous conversation:
-{conversation_context}
-
-User question: {user_input}
-
-Source: {source_text}"""
-                    else:
-                        prompt = f"""[PROFESSIONAL MODE]
-Previous conversation:
-{conversation_context}
-
-User question: {user_input}"""
-                else:
-                    prompt = f"""[PROFESSIONAL MODE]
-Previous conversation:
-{conversation_context}
-
-User question: {user_input}"""
-
-                response = get_response(client, prompt, system_prompt=system_prompt)
+            try:
+                response = st.write_stream(
+                    get_response_stream(client, contents, system_prompt=system_prompt)
+                )
+            except Exception as e:
+                response = "I apologize, but I encountered an error. Please try again."
+                st.error(str(e))
 
         # Save message to session state and queue audio generation
         st.session_state.vet_messages.append({"role": "assistant", "content": response})
