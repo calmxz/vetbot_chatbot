@@ -235,33 +235,36 @@ def main():
         with st.chat_message("user"):
             st.markdown(user_input)
 
+        # Generate response (shown via spinner, not inline)
         with st.chat_message("assistant"):
-            # Build conversation context
-            recent_messages = st.session_state.vet_messages[-Config.MAX_CONTEXT_MESSAGES:]
+            with st.spinner("Thinking..."):
+                # Build conversation context
+                recent_messages = st.session_state.vet_messages[-Config.MAX_CONTEXT_MESSAGES:]
 
-            # Build RAG context with relevance filtering
-            rag_context = ""
-            if vectorstore is not None:
-                docs_with_scores = vectorstore.similarity_search_with_score(
-                    user_input, k=Config.SIMILARITY_SEARCH_K
-                )
-                relevant_docs = [
-                    doc for doc, score in docs_with_scores
-                    if score < Config.SIMILARITY_DISTANCE_THRESHOLD
-                ]
-                if relevant_docs:
-                    rag_context = "\n\n".join([doc.page_content for doc in relevant_docs])
+                # Build RAG context with relevance filtering
+                rag_context = ""
+                if vectorstore is not None:
+                    docs_with_scores = vectorstore.similarity_search_with_score(
+                        user_input, k=Config.SIMILARITY_SEARCH_K
+                    )
+                    relevant_docs = [
+                        doc for doc, score in docs_with_scores
+                        if score < Config.SIMILARITY_DISTANCE_THRESHOLD
+                    ]
+                    if relevant_docs:
+                        rag_context = "\n\n".join([doc.page_content for doc in relevant_docs])
 
-            # Build multi-turn contents
-            contents = build_conversation_contents(recent_messages, user_input, rag_context)
+                # Build multi-turn contents
+                contents = build_conversation_contents(recent_messages, user_input, rag_context)
 
-            try:
-                response = st.write_stream(
-                    get_response_stream(client, contents, system_prompt=system_prompt)
-                )
-            except Exception as e:
-                response = "I apologize, but I encountered an error. Please try again."
-                st.error(str(e))
+                # Collect streamed response without displaying
+                try:
+                    response = ""
+                    for chunk in get_response_stream(client, contents, system_prompt=system_prompt):
+                        response += chunk
+                except Exception as e:
+                    response = "I apologize, but I encountered an error. Please try again."
+                    logger.error(f"Response generation error: {e}")
 
         # Save message to session state and queue audio generation
         st.session_state.vet_messages.append({"role": "assistant", "content": response})
