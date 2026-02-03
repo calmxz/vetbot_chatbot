@@ -24,13 +24,3 @@ class Config:
 
     # Conversation context
     MAX_CONTEXT_MESSAGES = 6
-
-    # API retry settings
-    MAX_RETRIES = 3
-    RETRY_BASE_DELAY = 1.0
-
-    # RAG relevance filtering (ChromaDB returns distance, lower = better)
-    SIMILARITY_DISTANCE_THRESHOLD = 0.5
-
-    # Input sanitization
-    MAX_INPUT_LENGTH = 4000
