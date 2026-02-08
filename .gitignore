@@ -1,7 +1,7 @@
 .env
 venv/
 CLAUDE.md
-.claude
+.claude/
 
 # Python cache
 __pycache__/
@@ -10,4 +10,4 @@ __pycache__/
 *.so
 
 # ChromaDB
-chroma_db
+chroma_db/
