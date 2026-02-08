@@ -10,4 +10,4 @@ __pycache__/
 *.so
 
 # ChromaDB
-chroma_db/ 
+chroma_db
