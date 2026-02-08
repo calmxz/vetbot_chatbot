@@ -29,6 +29,11 @@ from utils import (
     cleanup_audio_files,
     load_and_index_documents,
     render_audio_button,
+    retrieve_relevant_documents,
+    build_rag_context,
+    build_prompt_with_context,
+    detect_metadata_filters,
+    rewrite_query,
 )
 
 # Load environment variables
@@ -135,7 +140,8 @@ def get_response_stream(client, contents, system_prompt=None, model=None):
         raise last_exception
 
 
-def build_conversation_contents(messages, current_input, rag_context=None):
+def build_conversation_contents(messages, current_input, rag_context=None,
+                                has_vectorstore=True):
     """Build multi-turn Content objects for Gemini API."""
     contents = []
 
@@ -147,13 +153,13 @@ def build_conversation_contents(messages, current_input, rag_context=None):
         )
 
     # Build current prompt with RAG context
-    if rag_context:
-        current_text = f"[PROFESSIONAL MODE]\nContext from clinical knowledge base:\n{rag_context}\n\nUser question: {current_input}"
-    else:
-        current_text = f"[PROFESSIONAL MODE]\nUser question: {current_input}"
+    prompt = build_prompt_with_context(
+        current_input, rag_context or "", mode="professional",
+        has_vectorstore=has_vectorstore
+    )
 
     contents.append(
-        types.Content(role="user", parts=[types.Part.from_text(text=current_text)])
+        types.Content(role="user", parts=[types.Part.from_text(text=prompt)])
     )
 
     return contents
@@ -241,21 +247,23 @@ def main():
                 # Build conversation context
                 recent_messages = st.session_state.vet_messages[-Config.MAX_CONTEXT_MESSAGES:]
 
+                # Rewrite query for better retrieval
+                search_query = rewrite_query(client, user_input, recent_messages)
+
                 # Build RAG context with relevance filtering
                 rag_context = ""
                 if vectorstore is not None:
-                    docs_with_scores = vectorstore.similarity_search_with_score(
-                        user_input, k=Config.SIMILARITY_SEARCH_K
+                    where_filter = detect_metadata_filters(user_input)
+                    docs_with_scores = retrieve_relevant_documents(
+                        vectorstore, search_query, where_filter=where_filter
                     )
-                    relevant_docs = [
-                        doc for doc, score in docs_with_scores
-                        if score < Config.SIMILARITY_DISTANCE_THRESHOLD
-                    ]
-                    if relevant_docs:
-                        rag_context = "\n\n".join([doc.page_content for doc in relevant_docs])
+                    rag_context = build_rag_context(docs_with_scores)
 
                 # Build multi-turn contents
-                contents = build_conversation_contents(recent_messages, user_input, rag_context)
+                contents = build_conversation_contents(
+                    recent_messages, user_input, rag_context,
+                    has_vectorstore=(vectorstore is not None)
+                )
 
                 # Collect streamed response without displaying
                 try:
